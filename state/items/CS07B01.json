@@ -1,0 +1,19 @@
+{
+ "id": "CS07B01",
+ "started": "2026-10-29T18:29:17Z",
+ "download_url": "https://archive.org/download/ost-engineering-plcbook5_1/plcbook5_1.pdf",
+ "final_url": "https://dn790003.ca.archive.org/0/items/ost-engineering-plcbook5_1/plcbook5_1.pdf",
+ "http_last_modified": "Tue, 13 Nov 2012 03:29:55 GMT",
+ "verify": "通过：pypdf 可解析 860 页；标题词匹配 1.0",
+ "info": {
+  "pages": 860,
+  "meta_title": "plcs.book",
+  "body_sample_chars": 4258,
+  "title_match": 1.0
+ },
+ "bytes": 6229169,
+ "sha256": "8a33f23726416110d847732520a33762a8944d39557dc446499d04de8cd2c13d",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:29:20Z"
+}

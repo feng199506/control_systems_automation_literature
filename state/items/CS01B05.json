@@ -1,0 +1,13 @@
+{
+ "id": "CS01B05",
+ "status": "ok",
+ "download_url": "https://www.dspguide.com/CH1.PDF",
+ "verify": "通过：33 个文件均可解析（PDF 共 630 页）",
+ "info": {
+  "chapters": 33,
+  "pages": 630
+ },
+ "bytes": 15793674,
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:24:05Z"
+}

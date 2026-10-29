@@ -1,0 +1,19 @@
+{
+ "id": "CS01B02",
+ "started": "2026-10-29T18:07:20Z",
+ "download_url": "https://jheffero.w3.uvm.edu/linearalgebra/book.pdf",
+ "final_url": "https://jheffero.w3.uvm.edu/linearalgebra/book.pdf",
+ "http_last_modified": "Thu, 21 Sep 2023 12:09:03 GMT",
+ "verify": "通过：pypdf 可解析 525 页；标题词匹配 1.0",
+ "info": {
+  "pages": 525,
+  "meta_title": "Linear Algebra",
+  "body_sample_chars": 7690,
+  "title_match": 1.0
+ },
+ "bytes": 7626685,
+ "sha256": "5240f2782e645bc6351ad9eba69d8c19500142a5cca9c90450c17b3765a1a400",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:07:22Z"
+}

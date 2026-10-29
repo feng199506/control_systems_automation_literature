@@ -1,0 +1,63 @@
+{
+ "id": "CS07T01",
+ "started": "2026-10-29T18:35:29Z",
+ "wget_rc": 8,
+ "quota_hit": false,
+ "dropped_large_files": [],
+ "dropped_count": 0,
+ "download_url": "https://content.helpme-codesys.com/en/CODESYS%20Development%20System/_cds_f_first_steps.html",
+ "mirror_scope": {
+  "start": [
+   "https://content.helpme-codesys.com/en/CODESYS%20Development%20System/_cds_f_first_steps.html",
+   "https://content.helpme-codesys.com/en/CODESYS%20Development%20System/_cds_start_page.html"
+  ],
+  "include": [],
+  "level": "2"
+ },
+ "verify": "通过：72 个文件（HTML 19，文档源 0）",
+ "info": {
+  "files": 72,
+  "html": 19,
+  "md_rst_ipynb": 0,
+  "top_ext": [
+   [
+    "html",
+    19
+   ],
+   [
+    "js",
+    18
+   ],
+   [
+    "png",
+    11
+   ],
+   [
+    "css",
+    11
+   ],
+   [
+    "3",
+    5
+   ],
+   [
+    "svg",
+    2
+   ],
+   [
+    "eot?",
+    2
+   ],
+   [
+    "eot",
+    1
+   ]
+  ],
+  "license_files": []
+ },
+ "bytes": 4792320,
+ "sha256": "f79f6b0d8fb6156d84fc6a94eebe30e8638fc158ca07047e6fd57c76df887ba8",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:35:55Z"
+}

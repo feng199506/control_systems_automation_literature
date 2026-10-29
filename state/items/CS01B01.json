@@ -1,0 +1,19 @@
+{
+ "id": "CS01B01",
+ "started": "2026-10-29T18:11:22Z",
+ "download_url": "http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_DIFF_EQNS_I.PDF",
+ "final_url": "http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_DIFF_EQNS_I.PDF",
+ "http_last_modified": "Wed, 18 Dec 2013 09:18:53 GMT",
+ "verify": "通过：pypdf 可解析 662 页；标题词匹配 1.0",
+ "info": {
+  "pages": 662,
+  "meta_title": "",
+  "body_sample_chars": 7604,
+  "title_match": 1.0
+ },
+ "bytes": 8220393,
+ "sha256": "1a3c1da316537ca19edb5b8b3e7ef406142811290a30561554561c820628f727",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:11:32Z"
+}

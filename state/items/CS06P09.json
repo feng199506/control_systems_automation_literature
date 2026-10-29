@@ -1,0 +1,19 @@
+{
+ "id": "CS06P09",
+ "started": "2026-10-29T18:20:46Z",
+ "download_url": "https://arxiv.org/pdf/1906.04679v3.pdf",
+ "final_url": "https://arxiv.org/pdf/1906.04679v3",
+ "http_last_modified": "Mon, 23 Jan 2023 01:12:22 GMT",
+ "verify": "通过：pypdf 可解析 16 页；标题词匹配 1.0",
+ "info": {
+  "pages": 16,
+  "meta_title": "",
+  "body_sample_chars": 23064,
+  "title_match": 1.0
+ },
+ "bytes": 2231826,
+ "sha256": "b96f80cfee072b8feca1b4c35577b647ff1e66c653ec7a50ff4423f7ed79b09b",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:20:48Z"
+}

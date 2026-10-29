@@ -1,0 +1,19 @@
+{
+ "id": "CS05P12",
+ "started": "2026-10-29T18:19:25Z",
+ "download_url": "https://arxiv.org/pdf/2408.13271v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2408.13271v1",
+ "http_last_modified": "Fri, 30 Aug 2024 23:57:25 GMT",
+ "verify": "通过：pypdf 可解析 6 页；标题词匹配 1.0",
+ "info": {
+  "pages": 6,
+  "meta_title": "",
+  "body_sample_chars": 14456,
+  "title_match": 1.0
+ },
+ "bytes": 400544,
+ "sha256": "41c3b89f3c38cf4db0620637d073efe13e85ed36fab511648fcc61955012cf33",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:19:29Z"
+}

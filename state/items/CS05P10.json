@@ -1,0 +1,19 @@
+{
+ "id": "CS05P10",
+ "started": "2026-10-29T18:19:21Z",
+ "download_url": "https://arxiv.org/pdf/2505.00210v2.pdf",
+ "final_url": "https://arxiv.org/pdf/2505.00210v2",
+ "http_last_modified": "Tue, 26 Aug 2025 00:14:31 GMT",
+ "verify": "通过：pypdf 可解析 12 页；标题词匹配 1.0",
+ "info": {
+  "pages": 12,
+  "meta_title": "Generative Machine Learning in Adaptive Control of Dynamic Manufacturing Processes: A Review",
+  "body_sample_chars": 24046,
+  "title_match": 1.0
+ },
+ "bytes": 656682,
+ "sha256": "ed7d77491b9be867a4f3cc790a95cd854034e41fcebd0c61c32ddc59e4019ed2",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:19:22Z"
+}

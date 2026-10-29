@@ -1,0 +1,19 @@
+{
+ "id": "CS05P03",
+ "started": "2026-10-29T18:18:48Z",
+ "download_url": "https://arxiv.org/pdf/2606.06642v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2606.06642v1",
+ "http_last_modified": "Mon, 08 Jun 2026 00:06:54 GMT",
+ "verify": "通过：pypdf 可解析 19 页；标题词匹配 1.0",
+ "info": {
+  "pages": 19,
+  "meta_title": "MPC for nonlinear systems: a comparative review of discretization methods",
+  "body_sample_chars": 4145,
+  "title_match": 1.0
+ },
+ "bytes": 544014,
+ "sha256": "a1d5ebb66d611838817ec0cdd174f87db174a08f8340e3be5041cfab856c8e38",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:18:53Z"
+}

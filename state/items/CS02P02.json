@@ -1,0 +1,19 @@
+{
+ "id": "CS02P02",
+ "started": "2026-10-29T18:17:41Z",
+ "download_url": "https://arxiv.org/pdf/2409.00538v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2409.00538v1",
+ "http_last_modified": "Sat, 24 Oct 2026 19:41:50 GMT",
+ "verify": "通过：pypdf 可解析 37 页；标题词匹配 1.0",
+ "info": {
+  "pages": 37,
+  "meta_title": "Review of meta-heuristic optimization algorithms to tune the PID controller parameters for automatic voltage regulator",
+  "body_sample_chars": 7900,
+  "title_match": 1.0
+ },
+ "bytes": 2910961,
+ "sha256": "e77df6ce9f51ef03beaeb8272fd47b13c1ae197ec4aec302d88e3f584528ce6c",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:17:45Z"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "CS05P08",
+ "started": "2026-10-29T18:19:09Z",
+ "download_url": "https://arxiv.org/pdf/2507.23139v2.pdf",
+ "final_url": "https://arxiv.org/pdf/2507.23139v2",
+ "http_last_modified": "Tue, 06 Jan 2026 02:23:40 GMT",
+ "verify": "通过：pypdf 可解析 26 页；标题词匹配 1.0",
+ "info": {
+  "pages": 26,
+  "meta_title": "Robust Control Design and Analysis Based on Lifting Linearization of Nonlinear Systems Under Uncertain Initial Conditions",
+  "body_sample_chars": 18236,
+  "title_match": 1.0
+ },
+ "bytes": 1824460,
+ "sha256": "738202615b52f6ce7cc3374d1c07b7bd2ca7802e01eb5609f8adbe8316193fbc",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:19:13Z"
+}

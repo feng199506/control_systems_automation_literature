@@ -1,0 +1,19 @@
+{
+ "id": "CS02P03",
+ "started": "2026-10-29T18:17:45Z",
+ "download_url": "https://arxiv.org/pdf/2610.20248v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2610.20248v1",
+ "http_last_modified": "Thu, 15 Oct 2026 01:41:59 GMT",
+ "verify": "通过：pypdf 可解析 15 页；标题词匹配 1.0",
+ "info": {
+  "pages": 15,
+  "meta_title": "Robust Data-Driven Controller Synthesis from Sampled and Uncertain Frequency Response Estimates using Integral Quadratic Constraints",
+  "body_sample_chars": 23709,
+  "title_match": 1.0
+ },
+ "bytes": 1736075,
+ "sha256": "7041e42593525d21bc488429f140bfcc9d976eec9bf6e5f18887446c2fb2e5de",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:17:48Z"
+}

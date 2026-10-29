@@ -1,0 +1,850 @@
+[
+ {
+  "id": "CS01B01",
+  "cat": "01",
+  "type": "book",
+  "material": "教材/参考书",
+  "title": "Elementary Differential Equations with Boundary Value Problems (Free Edition 1.01)",
+  "authors": "William F. Trench",
+  "school": "Trinity University",
+  "year": "2013",
+  "version": "Free Edition 1.01 (December 2013)",
+  "level": "本科基础",
+  "prereq": "微积分（含偏导数）",
+  "topics": "常微分方程、线性系统、Laplace 变换、边值问题",
+  "source": "https://digitalcommons.trinity.edu/mono/9/",
+  "license": "CC BY-NC-SA 3.0",
+  "goal": "控制所需的微分方程与 Laplace 变换基础",
+  "order": 1,
+  "out": "01_foundations/books/Trench_ElementaryDifferentialEquationsBVP_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1008&context=mono",
+    "https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1007&context=mono",
+    "http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_DIFF_EQNS_I.PDF",
+    "http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_FREE_DIFFEQ_I.PDF"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Elementary",
+    "Differential",
+    "Equations"
+   ],
+   "min_pages": 400
+  },
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS01B02",
+  "cat": "01",
+  "type": "book",
+  "material": "教材/参考书",
+  "title": "Linear Algebra (4th edition)",
+  "authors": "Jim Hefferon",
+  "school": "University of Vermont / Saint Michael's College",
+  "year": "2020",
+  "version": "Fourth edition（作者站点当前 PDF）",
+  "level": "本科基础",
+  "prereq": "一学期微积分",
+  "topics": "线性方程组、向量空间、线性映射、行列式、特征值",
+  "source": "https://hefferon.net/linearalgebra/",
+  "license": "GFDL / 作者声明 Free",
+  "goal": "控制状态空间所需的本科线性代数",
+  "order": 2,
+  "out": "01_foundations/books/Hefferon_LinearAlgebra_4thEd_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://jheffero.w3.uvm.edu/linearalgebra/book.pdf",
+    "https://hefferon.net/linearalgebra/book.pdf",
+    "http://joshua.smcvt.edu/linearalgebra/book.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Linear",
+    "Algebra",
+    "Hefferon"
+   ],
+   "min_pages": 400
+  },
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS01B03",
+  "cat": "01",
+  "type": "book",
+  "material": "教材/参考书",
+  "title": "Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares",
+  "authors": "Stephen Boyd; Lieven Vandenberghe",
+  "school": "Stanford University / UCLA",
+  "year": "2018",
+  "version": "Cambridge 2018（作者公开 PDF）",
+  "level": "本科基础",
+  "prereq": "微积分",
+  "topics": "向量、矩阵、最小二乘、约束最小二乘、动态系统初步",
+  "source": "https://web.stanford.edu/~boyd/vmls/",
+  "license": "作者/Cambridge 公开教学 PDF",
+  "goal": "把线性代数接到最小二乘、辨识与状态估计",
+  "order": 3,
+  "out": "01_foundations/books/BoydVandenberghe_IntroductionAppliedLinearAlgebra_2018_en.pdf",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/probability_statistics_curriculum_literature/books/BoydVandenberghe_IntroductionAppliedLinearAlgebra_2018_en.pdf",
+   "source": "https://web.stanford.edu/~boyd/vmls/"
+  },
+  "expect": {
+   "title_words": [
+    "Applied",
+    "Linear",
+    "Algebra"
+   ],
+   "min_pages": 400
+  },
+  "note": "已有复用：probability_statistics_curriculum_literature",
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS01B04",
+  "cat": "01",
+  "type": "book",
+  "material": "教材/参考书",
+  "title": "Structure and Interpretation of Signals and Systems (2nd ed., v2.04)",
+  "authors": "Edward A. Lee; Pravin Varaiya",
+  "school": "UC Berkeley",
+  "year": "2011",
+  "version": "Second Edition Version 2.04",
+  "level": "本科基础",
+  "prereq": "微积分",
+  "topics": "信号、系统、状态、频率域、采样、反馈与控制导引",
+  "source": "https://ptolemy.berkeley.edu/books/leevaraiya/",
+  "license": "作者站点公开 PDF（版权作者保留）",
+  "goal": "信号与系统（含离散时间与计算观点），衔接传递函数与采样",
+  "order": 4,
+  "out": "01_foundations/books/LeeVaraiya_StructureInterpretationSignalsSystems_2ndEd_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://ptolemy.berkeley.edu/books/leevaraiya/releases/LeeVaraiya_DigitalV2_04.pdf",
+    "https://leevaraiya.org/releases/LeeVaraiya_DigitalV2_04.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Structure",
+    "Interpretation",
+    "Signals",
+    "Systems"
+   ],
+   "min_pages": 400
+  },
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS01B05",
+  "cat": "01",
+  "type": "book",
+  "material": "教材/参考书（分章 PDF，整本计一次）",
+  "title": "The Scientist and Engineer's Guide to Digital Signal Processing",
+  "authors": "Steven W. Smith",
+  "school": "California Technical Publishing",
+  "year": "1997",
+  "version": "作者站点完整电子版",
+  "level": "本科基础",
+  "prereq": "微积分、基础电路或编程",
+  "topics": "离散信号、卷积、DFT/FFT、滤波器、采样与重建",
+  "source": "https://www.dspguide.com/pdfbook.htm",
+  "license": "作者公开电子版（版权作者保留，允许个人使用）",
+  "goal": "数字信号处理与 Z 域直觉，服务离散控制与数据采集",
+  "order": 5,
+  "out": "01_foundations/books/Smith_ScientistEngineersGuideDSP_en",
+  "get": {
+   "kind": "pdfset",
+   "urls": [
+    "https://www.dspguide.com/CH1.PDF",
+    "https://www.dspguide.com/CH2.PDF",
+    "https://www.dspguide.com/CH3.PDF",
+    "https://www.dspguide.com/CH4.PDF",
+    "https://www.dspguide.com/CH5.PDF",
+    "https://www.dspguide.com/CH6.PDF",
+    "https://www.dspguide.com/CH7.PDF",
+    "https://www.dspguide.com/CH8.PDF",
+    "https://www.dspguide.com/CH9.PDF",
+    "https://www.dspguide.com/CH10.PDF",
+    "https://www.dspguide.com/CH11.PDF",
+    "https://www.dspguide.com/CH12.PDF",
+    "https://www.dspguide.com/CH13.PDF",
+    "https://www.dspguide.com/CH14.PDF",
+    "https://www.dspguide.com/CH15.PDF",
+    "https://www.dspguide.com/CH16.PDF",
+    "https://www.dspguide.com/CH17.PDF",
+    "https://www.dspguide.com/CH18.PDF",
+    "https://www.dspguide.com/CH19.PDF",
+    "https://www.dspguide.com/CH20.PDF",
+    "https://www.dspguide.com/CH21.PDF",
+    "https://www.dspguide.com/CH22.PDF",
+    "https://www.dspguide.com/CH23.PDF",
+    "https://www.dspguide.com/CH24.PDF",
+    "https://www.dspguide.com/CH25.PDF",
+    "https://www.dspguide.com/CH26.PDF",
+    "https://www.dspguide.com/CH27.PDF",
+    "https://www.dspguide.com/CH28.PDF",
+    "https://www.dspguide.com/CH29.PDF",
+    "https://www.dspguide.com/CH30.PDF",
+    "https://www.dspguide.com/CH31.PDF",
+    "https://www.dspguide.com/CH32.PDF",
+    "https://www.dspguide.com/CH33.PDF"
+   ],
+   "min_files": 20
+  },
+  "expect": {
+   "min_pages": 1,
+   "allow_scan": true
+  },
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "dspguide.com 第 1–33 章官方分章 PDF（整本计一次）",
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS02B01",
+  "cat": "02",
+  "type": "book",
+  "material": "教材/参考书",
+  "cross": [
+   "03"
+  ],
+  "title": "Feedback Systems: An Introduction for Scientists and Engineers (2nd ed.)",
+  "authors": "Karl Johan Åström; Richard M. Murray",
+  "school": "Lund University / Caltech",
+  "year": "2021",
+  "version": "第 2 版 v3.1.5（2020-07-24 公开稿）",
+  "level": "本科进阶",
+  "prereq": "微分方程、线性代数、Laplace 变换",
+  "topics": "反馈、传递函数、稳定性、PID、状态空间、观测器",
+  "source": "https://fbswiki.org/",
+  "license": "作者公开 PDF（Princeton University Press）",
+  "goal": "经典与现代控制的主线教材，覆盖反馈、PID 与状态空间入门",
+  "order": 1,
+  "out": "02_classical_control/books/Astrom_FeedbackSystems_2ndEd_v3.1.5_en.pdf",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/industrial_process_monitoring_literature/books/Astrom_FeedbackSystems_2ndEd_v3.1.5_en.pdf",
+   "source": "https://fbswiki.org/"
+  },
+  "expect": {
+   "title_words": [
+    "Feedback",
+    "Systems"
+   ],
+   "min_pages": 400
+  },
+  "note": "已有复用：industrial_process_monitoring_literature 14-004",
+  "lang": "en",
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS02B02",
+  "cat": "02",
+  "type": "book",
+  "material": "教材/参考书",
+  "cross": [
+   "05"
+  ],
+  "title": "Feedback Control Theory",
+  "authors": "John Doyle; Bruce Francis; Allen Tannenbaum",
+  "school": "Caltech / University of Toronto",
+  "year": "1990",
+  "version": "Macmillan 1990（作者公开电子版）",
+  "level": "研究生",
+  "prereq": "经典控制、复变函数",
+  "topics": "回路成形、鲁棒性、灵敏度、H∞ 入门",
+  "source": "http://www.control.utoronto.ca/people/profs/francis/",
+  "license": "作者主页公开 PDF",
+  "goal": "频率域鲁棒反馈设计的经典短教材",
+  "order": 2,
+  "out": "02_classical_control/books/Doyle_FeedbackControlTheory_1990_en.pdf",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/industrial_process_monitoring_literature/books/Doyle_FeedbackControlTheory_1990_en.pdf",
+   "source": "http://www.control.utoronto.ca/people/profs/francis/dft.pdf"
+  },
+  "expect": {
+   "title_words": [
+    "Feedback",
+    "Control",
+    "Theory"
+   ],
+   "min_pages": 150
+  },
+  "note": "已有复用：industrial_process_monitoring_literature 14-009",
+  "lang": "en",
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS02B03",
+  "cat": "02",
+  "type": "book",
+  "material": "教材/参考书",
+  "cross": [
+   "08"
+  ],
+  "title": "Operational Amplifiers: Theory and Practice",
+  "authors": "James K. Roberge",
+  "school": "MIT",
+  "year": "1975",
+  "version": "MIT OCW 公开电子版（版权已归作者并授权 OCW）",
+  "level": "本科进阶",
+  "prereq": "电路、Laplace 变换",
+  "topics": "模拟反馈、稳定性、补偿、运算放大器应用",
+  "source": "https://ocw.mit.edu/courses/res-6-010-electronic-feedback-systems-spring-2013/",
+  "license": "CC BY-NC-SA 4.0（MIT OCW）",
+  "goal": "用运放理解反馈、稳定性与补偿，衔接硬件实现",
+  "order": 3,
+  "out": "02_classical_control/books/Roberge_OperationalAmplifiersTheoryPractice_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://ocw.mit.edu/ans7870/RES/RES.6-010/MITRES_6-010S13_comchaptrs.pdf",
+    "https://ocw.mit.edu/courses/res-6-010-electronic-feedback-systems-spring-2013/resources/res6_010_s_13_coursetextbook_pdf/RES6_010S13_coursetextbook.pdf"
+   ],
+   "max_mb": 80
+  },
+  "expect": {
+   "title_words": [
+    "Operational",
+    "Amplifiers"
+   ],
+   "min_pages": 300,
+   "allow_scan": true
+  },
+  "lang": "en",
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS03B01",
+  "cat": "03",
+  "type": "book",
+  "material": "教材/参考书",
+  "cross": [
+   "05"
+  ],
+  "title": "Mathematical Control Theory: Deterministic Finite Dimensional Systems (2nd ed.)",
+  "authors": "Eduardo D. Sontag",
+  "school": "Rutgers University",
+  "year": "1998",
+  "version": "Springer TAM 6, Second Edition（作者站点公开）",
+  "level": "研究生",
+  "prereq": "线性代数、微分方程、实分析入门",
+  "topics": "能控性、能观性、反馈镇定、观测器、最优性、Lyapunov",
+  "source": "https://sontaglab.org/mct.html",
+  "license": "Springer 版权；作者获准在站点公开",
+  "goal": "现代控制的严格数学教材",
+  "order": 1,
+  "out": "03_modern_control/books/Sontag_MathematicalControlTheory_2ndEd_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://sontaglab.org/FTPDIR/sontag_mathematical_control_theory_springer98.pdf",
+    "http://www.sontaglab.org/FTPDIR/sontag_mathematical_control_theory_springer98.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Mathematical",
+    "Control",
+    "Theory"
+   ],
+   "min_pages": 400,
+   "allow_scan": true
+  },
+  "lang": "en",
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS04B01",
+  "cat": "04",
+  "type": "book",
+  "material": "教材/参考书",
+  "title": "Bayesian Filtering and Smoothing (2nd ed.)",
+  "authors": "Simo Särkkä; Lennart Svensson",
+  "school": "Aalto University / Chalmers",
+  "year": "2023",
+  "version": "第 2 版作者官网在线版",
+  "level": "研究生",
+  "prereq": "概率、线性系统、状态空间",
+  "topics": "Kalman 滤波、平滑、EKF/UKF、粒子滤波、贝叶斯状态估计",
+  "source": "https://users.aalto.fi/~ssarkka/",
+  "license": "作者官网免费在线版",
+  "goal": "状态估计与 Kalman 滤波系统教材",
+  "order": 1,
+  "out": "04_estimation_identification/books/Sarkka_BayesianFilteringSmoothing_2ndEd_en.pdf",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/industrial_process_monitoring_literature/books/Sarkka_BayesianFilteringSmoothing_2ndEd_en.pdf",
+   "source": "https://users.aalto.fi/~ssarkka/"
+  },
+  "expect": {
+   "title_words": [
+    "Bayesian",
+    "Filtering"
+   ],
+   "min_pages": 300
+  },
+  "note": "已有复用：industrial_process_monitoring_literature 14-006",
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS04B02",
+  "cat": "04",
+  "type": "book",
+  "material": "教材/参考书",
+  "title": "Regularized System Identification: Learning Dynamic Models from Data",
+  "authors": "Gianluigi Pillonetto; Tianshi Chen; Alessandro Chiuso; Giuseppe De Nicolao; Lennart Ljung",
+  "school": "University of Padova / Linköping University 等",
+  "year": "2022",
+  "version": "Springer 开放获取 2022",
+  "level": "研究生",
+  "prereq": "线性系统、最小二乘、概率",
+  "topics": "正则化辨识、核方法、从数据学习动态模型",
+  "source": "https://link.springer.com/book/10.1007/978-3-030-95860-2",
+  "license": "CC BY（Springer OA）",
+  "goal": "系统辨识从经典 PEM 走到正则化/核方法",
+  "order": 2,
+  "out": "04_estimation_identification/books/Pillonetto_RegularizedSystemIdentification_2022_en.pdf",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/industrial_process_monitoring_literature/books/Pillonetto_RegularizedSystemIdentification_2022_en.pdf",
+   "source": "https://link.springer.com/book/10.1007/978-3-030-95860-2"
+  },
+  "expect": {
+   "title_words": [
+    "Regularized",
+    "System",
+    "Identification"
+   ],
+   "min_pages": 250
+  },
+  "note": "已有复用：industrial_process_monitoring_literature 14-021",
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS05B01",
+  "cat": "05",
+  "type": "book",
+  "material": "教材/参考书",
+  "title": "Calculus of Variations and Optimal Control Theory: A Concise Introduction",
+  "authors": "Daniel Liberzon",
+  "school": "University of Illinois Urbana-Champaign",
+  "year": "2012",
+  "version": "Princeton 2012（作者公开教学 PDF，2011 稿）",
+  "level": "研究生",
+  "prereq": "线性系统、多元微积分",
+  "topics": "变分法、Pontryagin 极大值原理、LQR、动态规划",
+  "source": "http://liberzon.csl.illinois.edu/teaching/cvoc.html",
+  "license": "作者公开教学 PDF",
+  "goal": "最优控制理论入门（LQR 的变分/PMP 基础）",
+  "order": 1,
+  "out": "05_advanced_control/books/Liberzon_CalculusOfVariationsOptimalControl_2011_en.pdf",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/ai_undergraduate_graduate_curriculum_literature/books/Liberzon_CalculusOfVariationsOptimalControl_2011_en.pdf",
+   "source": "http://liberzon.csl.illinois.edu/teaching/cvoc.pdf"
+  },
+  "expect": {
+   "title_words": [
+    "Calculus",
+    "Variations",
+    "Optimal",
+    "Control"
+   ],
+   "min_pages": 200
+  },
+  "note": "已有复用：ai_undergraduate_graduate_curriculum_literature",
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS05B02",
+  "cat": "05",
+  "type": "book",
+  "material": "教材/参考书",
+  "cross": [
+   "04"
+  ],
+  "title": "Optimization-Based Control",
+  "authors": "Richard M. Murray",
+  "school": "Caltech",
+  "year": "2023",
+  "version": "v2.3h / 完整稿（站点当前完整 PDF）",
+  "level": "本科高年级/研究生",
+  "prereq": "Feedback Systems（Åström & Murray）",
+  "topics": "轨迹生成、最优控制、滚动时域、Kalman、传感器融合",
+  "source": "https://fbswiki.org/wiki/index.php/OBC",
+  "license": "Caltech 版权，作者公开个人使用稿",
+  "goal": "把 LQR/MPC/Kalman 接到 python-control 实现",
+  "order": 2,
+  "out": "05_advanced_control/books/Murray_OptimizationBasedControl_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "http://www.cds.caltech.edu/~murray/books/AM08/pdf/obc-complete_12Mar2023.pdf",
+    "http://www.cds.caltech.edu/~murray/books/AM08/pdf/obc-complete_23Feb2022.pdf",
+    "https://www.cds.caltech.edu/~murray/books/AM08/pdf/obc-complete_23Feb2022.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Optimization",
+    "Based",
+    "Control"
+   ],
+   "min_pages": 150
+  },
+  "lang": "en",
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS05B03",
+  "cat": "05",
+  "type": "book",
+  "material": "教材/参考书",
+  "title": "Model Predictive Control: Theory, Computation, and Design (2nd ed.)",
+  "authors": "James B. Rawlings; David Q. Mayne; Moritz M. Diehl",
+  "school": "UCSB / Imperial College / University of Freiburg",
+  "year": "2017",
+  "version": "第 2 版第 5 次印刷（作者官网 PDF）",
+  "level": "研究生",
+  "prereq": "状态空间、优化、离散系统",
+  "topics": "MPC 稳定性、约束、计算、滚动时域估计",
+  "source": "https://sites.engineering.ucsb.edu/~jbraw/mpc/",
+  "license": "作者官网免费 PDF",
+  "goal": "MPC 理论与计算的权威教材",
+  "order": 3,
+  "out": "05_advanced_control/books/Rawlings_ModelPredictiveControl_2ndEd_en.pdf",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/industrial_process_monitoring_literature/books/Rawlings_ModelPredictiveControl_2ndEd_en.pdf",
+   "source": "https://sites.engineering.ucsb.edu/~jbraw/mpc/"
+  },
+  "expect": {
+   "title_words": [
+    "Model",
+    "Predictive",
+    "Control"
+   ],
+   "min_pages": 500
+  },
+  "note": "已有复用：industrial_process_monitoring_literature 14-005",
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS05B04",
+  "cat": "05",
+  "type": "book",
+  "material": "教材/参考书",
+  "title": "Predictive Control for Linear and Hybrid Systems",
+  "authors": "Francesco Borrelli; Alberto Bemporad; Manfred Morari",
+  "school": "UC Berkeley / IMT Lucca / ETH Zurich",
+  "year": "2017",
+  "version": "Cambridge 2017（作者实验室公开 PDF）",
+  "level": "研究生",
+  "prereq": "线性系统、凸优化、约束控制",
+  "topics": "线性/混杂 MPC、显式 MPC、多参数规划、实时实现",
+  "source": "https://cse.lab.imtlucca.it/~bemporad/publications/papers/BBMbook.pdf",
+  "license": "Cambridge 版权；作者实验室公开 PDF",
+  "goal": "与 Rawlings 互补的 MPC 教材，侧重显式与混杂系统",
+  "order": 4,
+  "out": "05_advanced_control/books/BorrelliBemporadMorari_PredictiveControlLinearHybrid_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://cse.lab.imtlucca.it/~bemporad/publications/papers/BBMbook.pdf",
+    "http://cse.lab.imtlucca.it/~bemporad/publications/papers/BBMbook.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Predictive",
+    "Control",
+    "Linear",
+    "Hybrid"
+   ],
+   "min_pages": 300
+  },
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS05B05",
+  "cat": "05",
+  "type": "book",
+  "material": "教材/参考书",
+  "title": "Convex Optimization",
+  "authors": "Stephen Boyd; Lieven Vandenberghe",
+  "school": "Stanford / UCLA",
+  "year": "2004",
+  "version": "Cambridge 2004（作者公开 PDF）",
+  "level": "研究生",
+  "prereq": "线性代数、多元微积分",
+  "topics": "凸集、凸函数、对偶、QP/SDP，MPC 与 LQR 计算基础",
+  "source": "https://web.stanford.edu/~boyd/cvxbook/",
+  "license": "作者公开 PDF",
+  "goal": "最优控制/MPC 所需的凸优化语言",
+  "order": 5,
+  "out": "05_advanced_control/books/BoydVandenberghe_ConvexOptimization_2004_en.pdf",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/probability_statistics_curriculum_literature/books/BoydVandenberghe_ConvexOptimization_2004_en.pdf",
+   "source": "https://web.stanford.edu/~boyd/cvxbook/"
+  },
+  "expect": {
+   "title_words": [
+    "Convex",
+    "Optimization"
+   ],
+   "min_pages": 500
+  },
+  "note": "已有复用：probability_statistics_curriculum_literature",
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS06B01",
+  "cat": "06",
+  "type": "book",
+  "material": "教材/参考书",
+  "cross": [
+   "04"
+  ],
+  "title": "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control",
+  "authors": "Steven L. Brunton; J. Nathan Kutz",
+  "school": "University of Washington",
+  "year": "2019",
+  "version": "作者官网 PDF",
+  "level": "本科高年级/研究生",
+  "prereq": "线性代数、微分方程、基础控制",
+  "topics": "SVD、DMD、SINDy、数据驱动控制",
+  "source": "http://databookuw.com/",
+  "license": "作者官网公开 PDF",
+  "goal": "数据驱动动力学与控制的入门专著",
+  "order": 1,
+  "out": "06_learning_control/books/Brunton_DataDrivenScienceEngineering_en.pdf",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/industrial_process_monitoring_literature/books/Brunton_DataDrivenScienceEngineering_en.pdf",
+   "source": "http://databookuw.com/"
+  },
+  "expect": {
+   "title_words": [
+    "Data-Driven",
+    "Science",
+    "Engineering"
+   ],
+   "min_pages": 400
+  },
+  "note": "已有复用：industrial_process_monitoring_literature 14-007",
+  "lang": "en",
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS08B01",
+  "cat": "08",
+  "type": "book",
+  "material": "教材/参考书",
+  "title": "Embedded Controllers Using C and Arduino (2nd ed.)",
+  "authors": "James M. Fiore",
+  "school": "Mohawk Valley Community College",
+  "year": "2018",
+  "version": "2nd edition, Open Textbook",
+  "level": "本科基础",
+  "prereq": "C 语言入门、基本电路",
+  "topics": "嵌入式 C、Arduino、定时器、中断、传感器接口",
+  "source": "https://www.dissidents.com/resources/EmbeddedControllers.htm",
+  "license": "CC BY-NC-SA",
+  "goal": "控制工程师所需的嵌入式与传感器接口入门",
+  "order": 1,
+  "out": "08_hardware_realtime/books/Fiore_EmbeddedControllersUsingCArduino_2ndEd_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://www2.mvcc.edu/users/faculty/jfiore/Micro/EmbeddedControllers.pdf",
+    "https://batch.libretexts.org/print/Letter/Finished/eng-35789/Full.pdf",
+    "https://dissidents.com/resources/EmbeddedControllers.pdf",
+    "https://www.dissidents.com/resources/EmbeddedControllers.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Embedded",
+    "Controllers"
+   ],
+   "min_pages": 100
+  },
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS07B01",
+  "cat": "07",
+  "type": "book",
+  "material": "开放教材/参考书",
+  "title": "Automating Manufacturing Systems with PLCs (Version 5.1)",
+  "authors": "Hugh Jack",
+  "school": "Grand Valley State University",
+  "year": "2008",
+  "version": "Version 5.1 (Internet Archive Open Textbook Library 镜像；作者 GFDL)",
+  "level": "本科/工程",
+  "prereq": "基础电路、逻辑",
+  "topics": "PLC、梯形图、IEC 61131、接线、顺序控制、联锁、模拟量、工业通信",
+  "source": "https://archive.org/details/ost-engineering-plcbook5_1",
+  "license": "GNU Free Documentation License 1.2+",
+  "goal": "工业 PLC 顺序与逻辑控制完整开放教材",
+  "order": 1,
+  "out": "07_industrial_automation/books/Jack_AutomatingManufacturingSystemsPLCs_v5.1_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://archive.org/download/ost-engineering-plcbook5_1/plcbook5_1.pdf",
+    "https://ia801909.us.archive.org/31/items/ost-engineering-plcbook5_1/plcbook5_1.pdf",
+    "https://plc.opdenbrouw.nl/Automating%20Manufacturing%20Systems%20with%20PLCs%20V5_0.pdf"
+   ],
+   "max_mb": 80
+  },
+  "expect": {
+   "title_words": [
+    "Automating",
+    "Manufacturing",
+    "PLCs"
+   ],
+   "min_pages": 200,
+   "allow_scan": true
+  },
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "note": "作者开放教材；Internet Archive Open Textbook Library 收藏",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ }
+]

@@ -1,0 +1,19 @@
+{
+ "id": "CS06P01",
+ "started": "2026-10-29T18:19:41Z",
+ "download_url": "https://arxiv.org/pdf/2511.15044v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2511.15044v1",
+ "http_last_modified": "Thu, 20 Nov 2025 01:22:25 GMT",
+ "verify": "通过：pypdf 可解析 36 页；标题词匹配 1.0",
+ "info": {
+  "pages": 36,
+  "meta_title": "Data-driven control of network systems: Accounting for communication adaptivity and security",
+  "body_sample_chars": 16137,
+  "title_match": 1.0
+ },
+ "bytes": 753522,
+ "sha256": "2f1f9291935bfe0c5f4d5e2677b527928d94017aff66fce8bcd8a26b046415e2",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:19:45Z"
+}

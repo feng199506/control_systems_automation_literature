@@ -1,0 +1,37 @@
+{
+ "id": "CS09X06",
+ "started": "2026-10-29T18:47:09Z",
+ "wget_rc": 8,
+ "quota_hit": false,
+ "dropped_large_files": [],
+ "dropped_count": 0,
+ "download_url": "https://fbswiki.org/",
+ "mirror_scope": {
+  "start": [
+   "https://fbswiki.org/",
+   "https://fbswiki.org/wiki/index.php/Main_Page",
+   "https://fbswiki.org/wiki/index.php/OBC"
+  ],
+  "include": [],
+  "level": "2"
+ },
+ "verify": "文档文件数 1 < 期望 5",
+ "info": {
+  "files": 1,
+  "html": 1,
+  "md_rst_ipynb": 0,
+  "top_ext": [
+   [
+    "html",
+    1
+   ]
+  ],
+  "license_files": []
+ },
+ "bytes": 10240,
+ "sha256": "cda742fd035b684f42ada3a76dcc63e4c0425a41b715bffcd88ae5adf2348fd0",
+ "error": "文档文件数 1 < 期望 5",
+ "status": "failed",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:47:13Z"
+}

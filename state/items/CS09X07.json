@@ -1,0 +1,59 @@
+{
+ "id": "CS09X07",
+ "started": "2026-10-29T18:16:39Z",
+ "dropped_large_files": [],
+ "dropped_count": 0,
+ "download_url": "https://github.com/BYU-PRISM/GEKKO.git",
+ "ref": "(默认分支)",
+ "commit": "b18dcb72e9f08846a3df0ff9477d77dac6f6cbc2",
+ "commit_date": "2026-10-19T12:50:13-06:00",
+ "sparse_paths": [
+  "examples",
+  "README.md",
+  "LICENSE"
+ ],
+ "verify": "通过：86 个文件（HTML 0，文档源 11）",
+ "info": {
+  "files": 86,
+  "html": 0,
+  "md_rst_ipynb": 11,
+  "top_ext": [
+   [
+    "py",
+    67
+   ],
+   [
+    "ipynb",
+    7
+   ],
+   [
+    "md",
+    4
+   ],
+   [
+    "csv",
+    3
+   ],
+   [
+    "m",
+    3
+   ],
+   [
+    "cff",
+    1
+   ],
+   [
+    "",
+    1
+   ]
+  ],
+  "license_files": [
+   "GEKKO_examples_en/LICENSE"
+  ]
+ },
+ "bytes": 655360,
+ "sha256": "3aaded728e0a1a7c9a89ac3903f5f32fff0ab2c364523e6474a3634fa740f072",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:16:40Z"
+}

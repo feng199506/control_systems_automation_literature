@@ -1,0 +1,59 @@
+{
+ "id": "CS09X04",
+ "started": "2026-10-29T18:16:38Z",
+ "dropped_large_files": [],
+ "dropped_count": 0,
+ "download_url": "https://github.com/do-mpc/do-mpc.git",
+ "ref": "(默认分支)",
+ "commit": "9d5a8df0e4d6acac899bf0a65ffd4c30a6e2e4cc",
+ "commit_date": "2026-09-22T14:07:27+02:00",
+ "sparse_paths": [
+  "examples",
+  "README.md",
+  "LICENSE"
+ ],
+ "verify": "通过：99 个文件（HTML 0，文档源 6）",
+ "info": {
+  "files": 99,
+  "html": 0,
+  "md_rst_ipynb": 6,
+  "top_ext": [
+   [
+    "py",
+    89
+   ],
+   [
+    "txt",
+    5
+   ],
+   [
+    "cff",
+    1
+   ],
+   [
+    "md",
+    1
+   ],
+   [
+    "gif",
+    1
+   ],
+   [
+    "pkl",
+    1
+   ],
+   [
+    "pth",
+    1
+   ]
+  ],
+  "license_files": [
+   "do_mpc_examples_en/LICENSE.txt"
+  ]
+ },
+ "bytes": 6533120,
+ "sha256": "4e01773b3c2b3a1bf4f1311655b13d1d77a51dad78193d8625f6ab06fc09a153",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:16:39Z"
+}

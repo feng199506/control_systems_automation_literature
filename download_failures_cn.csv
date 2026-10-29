@@ -1,0 +1,6 @@
+﻿资料编号,子目录,类型,标题,尝试来源,状态,原因,访问日期
+CS09T01,09 仿真与工程实践,官方工具文档,Control System Toolbox — Getting Started / User's Guide (MathWorks 公开 PDF),https://www.mathworks.com/help/control/,下载/核验失败,https://www.mathworks.com/help/pdf_doc/control/control_gs.pdf: 403 HTTP 403 | https://www.mathworks.com/help/pdf_doc/control/control_ug.pdf: 403 HTTP 403,2026-10-29
+CS09T02,09 仿真与工程实践,官方工具文档,System Identification Toolbox — Getting Started / User's Guide (MathWorks 公开 PDF),https://www.mathworks.com/help/ident/,下载/核验失败,https://www.mathworks.com/help/pdf_doc/ident/ident_gs.pdf: 403 HTTP 403 | https://www.mathworks.com/help/pdf_doc/ident/ident_ug.pdf: 403 HTTP 403,2026-10-29
+CS09X01,09 仿真与工程实践,实验及实践案例,Control Tutorials for MATLAB and Simulink (CTMS),https://ctms.engin.umich.edu/CTMS/,下载/核验失败,wget 无输出 rc=8 ,2026-10-29
+CS09X06,09 仿真与工程实践,实验及实践案例,Feedback Systems additional resources (fbswiki OBC / python-control exercises),https://fbswiki.org/,下载/核验失败,文档文件数 1 < 期望 5,2026-10-29
+CS07X01,07 工业自动化,实验及实践案例,open62541 Tutorial pages (OPC UA server/client walkthrough),https://www.open62541.org/doc/1.4/tutorial.html,下载/核验失败,wget 无输出 rc=8 ,2026-10-29

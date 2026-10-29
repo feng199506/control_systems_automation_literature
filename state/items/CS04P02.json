@@ -1,0 +1,19 @@
+{
+ "id": "CS04P02",
+ "started": "2026-10-29T18:18:07Z",
+ "download_url": "https://arxiv.org/pdf/2506.03650v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2506.03650v1",
+ "http_last_modified": "Wed, 11 Jun 2025 13:03:20 GMT",
+ "verify": "通过：pypdf 可解析 15 页；标题词匹配 1.0",
+ "info": {
+  "pages": 15,
+  "meta_title": "Fast Sampling for System Identification: Overcoming Noise, Offsets, and Closed-Loop Challenges with State Variable Filter",
+  "body_sample_chars": 14695,
+  "title_match": 1.0
+ },
+ "bytes": 3046215,
+ "sha256": "9d46c090573b6f8630e1558796b9051474b4f9bb04b851d0f528e22e0096e4f0",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:18:10Z"
+}

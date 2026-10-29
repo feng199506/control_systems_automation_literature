@@ -1,0 +1,61 @@
+{
+ "id": "CS09X08",
+ "started": "2026-10-29T18:16:40Z",
+ "dropped_large_files": [],
+ "dropped_count": 0,
+ "download_url": "https://github.com/scipy-lectures/scientific-python-lectures.git",
+ "ref": "(默认分支)",
+ "commit": "817a97d8d9a26eeb4e735a402420cd34dd7e89fc",
+ "commit_date": "2026-02-03T07:31:08-08:00",
+ "sparse_paths": [
+  "intro/scipy",
+  "advanced/image_processing",
+  "README.rst",
+  "LICENSE.txt",
+  "LICENSE"
+ ],
+ "verify": "通过：75 个文件（HTML 0，文档源 28）",
+ "info": {
+  "files": 75,
+  "html": 0,
+  "md_rst_ipynb": 28,
+  "top_ext": [
+   [
+    "py",
+    29
+   ],
+   [
+    "md",
+    17
+   ],
+   [
+    "png",
+    12
+   ],
+   [
+    "txt",
+    11
+   ],
+   [
+    "npy",
+    4
+   ],
+   [
+    "jpg",
+    1
+   ],
+   [
+    "toml",
+    1
+   ]
+  ],
+  "license_files": [
+   "ScientificPythonLectures_signal_en/LICENSE.md"
+  ]
+ },
+ "bytes": 1720320,
+ "sha256": "0949cd78096d4cd663cec232575add0eb2c528d806ffa273f811a0d54275a638",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:16:42Z"
+}

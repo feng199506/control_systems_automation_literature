@@ -1,0 +1,19 @@
+{
+ "id": "CS04P09",
+ "started": "2026-10-29T18:18:38Z",
+ "download_url": "https://arxiv.org/pdf/2510.24228v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2510.24228v1",
+ "http_last_modified": "Wed, 29 Oct 2025 00:49:35 GMT",
+ "verify": "通过：pypdf 可解析 7 页；标题词匹配 1.0",
+ "info": {
+  "pages": 7,
+  "meta_title": "A comparison between joint and dual UKF implementations for state estimation and leak localization in water distribution networks",
+  "body_sample_chars": 13375,
+  "title_match": 1.0
+ },
+ "bytes": 725988,
+ "sha256": "f55d5c8642c7d7b3e2c086c9ac003a48e32c71a7b597e76519b2ab441d382cec",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:18:41Z"
+}

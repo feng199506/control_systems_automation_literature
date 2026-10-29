@@ -1,0 +1,19 @@
+{
+ "id": "CS07P03",
+ "started": "2026-10-29T18:20:18Z",
+ "download_url": "https://arxiv.org/pdf/2610.02982v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2610.02982v1",
+ "http_last_modified": "Mon, 05 Oct 2026 01:04:23 GMT",
+ "verify": "通过：pypdf 可解析 36 页；标题词匹配 1.0",
+ "info": {
+  "pages": 36,
+  "meta_title": "PLCWorld: Benchmarking LLM-Generated PLC Programs in Closed-Loop Plant Simulation",
+  "body_sample_chars": 13178,
+  "title_match": 1.0
+ },
+ "bytes": 8107851,
+ "sha256": "ad5acf3348b0dcd3597499c9e5fd626244d32b09f0b86ef690b7ae9cc47ba204",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:20:23Z"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "CS04P05",
+ "started": "2026-10-29T18:18:24Z",
+ "download_url": "https://arxiv.org/pdf/2501.17544v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2501.17544v1",
+ "http_last_modified": "Thu, 30 Jan 2025 01:29:02 GMT",
+ "verify": "通过：pypdf 可解析 30 页；标题词匹配 1.0",
+ "info": {
+  "pages": 30,
+  "meta_title": "uwmagazine_17_July",
+  "body_sample_chars": 7669,
+  "title_match": 1.0
+ },
+ "bytes": 792928,
+ "sha256": "04408fa0943f791e7286e69bcd7a1c02c1e63a0556f1aa3da4fa6d2123dab49d",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:18:25Z"
+}

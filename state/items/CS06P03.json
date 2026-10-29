@@ -1,0 +1,19 @@
+{
+ "id": "CS06P03",
+ "started": "2026-10-29T18:19:49Z",
+ "download_url": "https://arxiv.org/pdf/2610.27599v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2610.27599v1",
+ "http_last_modified": "Wed, 21 Oct 2026 00:43:10 GMT",
+ "verify": "通过：pypdf 可解析 13 页；标题词匹配 1.0",
+ "info": {
+  "pages": 13,
+  "meta_title": "Data-Driven Minimum Energy Control for Stochastic Linear Systems with Finite Sample Guarantees",
+  "body_sample_chars": 16371,
+  "title_match": 1.0
+ },
+ "bytes": 719494,
+ "sha256": "0d7b433526093cffa6020efe571a7efd03025d3ebe85e9a3ff7fa38a1047cad0",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:19:54Z"
+}

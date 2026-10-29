@@ -1,0 +1,19 @@
+{
+ "id": "CS07P01",
+ "started": "2026-10-29T18:20:09Z",
+ "download_url": "https://arxiv.org/pdf/2610.28160v2.pdf",
+ "final_url": "https://arxiv.org/pdf/2610.28160v2",
+ "http_last_modified": "Wed, 28 Oct 2026 00:56:06 GMT",
+ "verify": "通过：pypdf 可解析 5 页；标题词匹配 1.0",
+ "info": {
+  "pages": 5,
+  "meta_title": "From Code Generator to Engineering Companion: A Plant-aware Agent for PLC Programming",
+  "body_sample_chars": 13478,
+  "title_match": 1.0
+ },
+ "bytes": 3366465,
+ "sha256": "0719c8a13cd9b5d378c25b4a8a7f0c62797b8e447d4187ce439e22127fd42194",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:20:13Z"
+}

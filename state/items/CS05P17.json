@@ -1,0 +1,19 @@
+{
+ "id": "CS05P17",
+ "started": "2026-10-29T18:20:59Z",
+ "download_url": "https://arxiv.org/pdf/2305.02066v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2305.02066v1",
+ "http_last_modified": "Sat, 06 May 2023 00:01:11 GMT",
+ "verify": "通过：pypdf 可解析 31 页；标题词匹配 1.0",
+ "info": {
+  "pages": 31,
+  "meta_title": "A survey of modularized backstepping control design approaches to nonlinear ODE systems",
+  "body_sample_chars": 15743,
+  "title_match": 1.0
+ },
+ "bytes": 864268,
+ "sha256": "2942c6a940d5cfabedf60f55146c43f2df61fcd0bdda9e5612a4edcc08df0c5d",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:21:03Z"
+}

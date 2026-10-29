@@ -1,0 +1,19 @@
+{
+ "id": "CS04P06",
+ "started": "2026-10-29T18:18:25Z",
+ "download_url": "https://arxiv.org/pdf/2512.20354v2.pdf",
+ "final_url": "https://arxiv.org/pdf/2512.20354v2",
+ "http_last_modified": "Tue, 07 Apr 2026 02:03:13 GMT",
+ "verify": "通过：pypdf 可解析 57 页；标题词匹配 1.0",
+ "info": {
+  "pages": 57,
+  "meta_title": "A Tutorial to Multirate Extended Kalman Filter Design for Monitoring of Agricultural Anaerobic Digestion Plants",
+  "body_sample_chars": 8688,
+  "title_match": 1.0
+ },
+ "bytes": 3415222,
+ "sha256": "1f4c67aea1ab6f3008456cd983622c2a9e327792c4efae30a1c539a50e066deb",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:18:30Z"
+}

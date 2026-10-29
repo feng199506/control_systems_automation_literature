@@ -1,0 +1,19 @@
+{
+ "id": "CS03B01",
+ "started": "2026-10-29T18:07:29Z",
+ "download_url": "https://sontaglab.org/FTPDIR/sontag_mathematical_control_theory_springer98.pdf",
+ "final_url": "https://sontaglab.org/FTPDIR/sontag_mathematical_control_theory_springer98.pdf",
+ "http_last_modified": "Wed, 30 Sep 2026 13:44:44 GMT",
+ "verify": "通过：pypdf 可解析 544 页；标题词匹配 1.0",
+ "info": {
+  "pages": 544,
+  "meta_title": "",
+  "body_sample_chars": 8379,
+  "title_match": 1.0
+ },
+ "bytes": 2484294,
+ "sha256": "dc0efa0cdd14f4e2b1abc48d71ec3fdf943d6949e7f05d29db9a65afea4ee001",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:07:29Z"
+}

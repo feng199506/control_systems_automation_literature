@@ -1,0 +1,19 @@
+{
+ "id": "CS04P01",
+ "started": "2026-10-29T18:18:00Z",
+ "download_url": "https://arxiv.org/pdf/2512.06315v2.pdf",
+ "final_url": "https://arxiv.org/pdf/2512.06315v2",
+ "http_last_modified": "Thu, 16 Jul 2026 00:50:11 GMT",
+ "verify": "通过：pypdf 可解析 48 页；标题词匹配 1.0",
+ "info": {
+  "pages": 48,
+  "meta_title": "Control-Oriented System Identification: Classical, Learning, and Physics-Informed Approaches",
+  "body_sample_chars": 20330,
+  "title_match": 1.0
+ },
+ "bytes": 15086414,
+ "sha256": "eca0045289e1b506cef9be754b0043a7975578cd42b4fedf7d79dc79c5d0b3d6",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:18:07Z"
+}

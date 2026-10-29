@@ -1,0 +1,512 @@
+[
+ {
+  "id": "CS01C01",
+  "cat": "01",
+  "type": "course",
+  "material": "OCW 官方课程包",
+  "title": "18.03 Differential Equations (Spring 2010)",
+  "authors": "Haynes Miller",
+  "school": "MIT OpenCourseWare",
+  "year": "2010",
+  "version": "Spring 2010",
+  "level": "本科基础",
+  "prereq": "单变量微积分",
+  "topics": "ODE、Laplace 变换、线性系统",
+  "source": "https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/",
+  "license": "CC BY-NC-SA 4.0（MIT OCW）",
+  "goal": "控制数学先修：微分方程与 Laplace",
+  "order": 1,
+  "out": "01_foundations/courses/MIT_1803_2010Spring_OCW_en.zip",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/probability_statistics_curriculum_literature/courses/MIT_1803_2010Spring_OCW_en.zip",
+   "source": "https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/"
+  },
+  "note": "已有复用：probability_statistics_curriculum_literature",
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "expect": {},
+  "paper": {}
+ },
+ {
+  "id": "CS01C02",
+  "cat": "01",
+  "type": "course",
+  "material": "OCW 官方课程包",
+  "title": "18.06SC Linear Algebra (Fall 2011)",
+  "authors": "Gilbert Strang",
+  "school": "MIT OpenCourseWare",
+  "year": "2011",
+  "version": "Fall 2011 Scholar 版",
+  "level": "本科基础",
+  "prereq": "多元微积分",
+  "topics": "矩阵、子空间、最小二乘、特征值、SVD",
+  "source": "https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/",
+  "license": "CC BY-NC-SA 4.0（MIT OCW）",
+  "goal": "控制与估计所需线性代数完整课程",
+  "order": 2,
+  "out": "01_foundations/courses/MIT_1806SC_2011Fall_OCWCoursePackage_en.zip",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/ai_undergraduate_graduate_curriculum_literature/courses/MIT_1806SC_2011Fall_OCWCoursePackage_en.zip",
+   "source": "https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/"
+  },
+  "note": "已有复用：ai_undergraduate_graduate_curriculum_literature",
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "expect": {},
+  "paper": {}
+ },
+ {
+  "id": "CS01C03",
+  "cat": "01",
+  "type": "course",
+  "material": "OCW 官方课程包",
+  "title": "6.003 Signals and Systems (Fall 2011)",
+  "authors": "Dennis Freeman",
+  "school": "MIT OpenCourseWare",
+  "year": "2011",
+  "version": "Fall 2011",
+  "level": "本科基础",
+  "prereq": "微分方程、复变初步",
+  "topics": "卷积、Fourier、Laplace、Z 变换、采样、反馈导引",
+  "source": "https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/",
+  "license": "CC BY-NC-SA 4.0（MIT OCW）",
+  "goal": "信号与系统完整课程，含 Z 变换与采样",
+  "order": 3,
+  "out": "01_foundations/courses/MIT_6003_2011Fall_OCWCoursePackage_en.zip",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/ai_undergraduate_graduate_curriculum_literature/courses/MIT_6003_2011Fall_OCWCoursePackage_en.zip",
+   "source": "https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/"
+  },
+  "note": "已有复用：ai_undergraduate_graduate_curriculum_literature",
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "expect": {},
+  "paper": {}
+ },
+ {
+  "id": "CS02C01",
+  "cat": "02",
+  "type": "course",
+  "material": "OCW 官方课程包",
+  "cross": [
+   "09"
+  ],
+  "title": "2.004 Dynamics and Control II (Spring 2008)",
+  "authors": "Derek Rowell",
+  "school": "MIT OpenCourseWare",
+  "year": "2008",
+  "version": "Spring 2008",
+  "level": "本科",
+  "prereq": "动力学、微分方程",
+  "topics": "建模、传递函数、根轨迹、Bode、实验室电机控制",
+  "source": "https://ocw.mit.edu/courses/2-004-dynamics-and-control-ii-spring-2008/",
+  "license": "CC BY-NC-SA 4.0（MIT OCW）",
+  "goal": "经典控制本科课，含完整实验讲义",
+  "order": 1,
+  "out": "02_classical_control/courses/MIT_2004_2008Spring_OCWCoursePackage_en.zip",
+  "get": {
+   "kind": "file",
+   "urls": [
+    "https://ocw.mit.edu/courses/2-004-dynamics-and-control-ii-spring-2008/2.004-spring-2008.zip",
+    "https://ocw.mit.edu/courses/2-004-dynamics-and-control-ii-spring-2008/resources/mit2_004s08_full.zip"
+   ],
+   "max_mb": 800
+  },
+    "expect": {
+     "min_docs": 8,
+     "link_check": false
+    },
+  "lang": "en",
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS02C02",
+  "cat": "02",
+  "type": "course",
+  "material": "OCW 官方课程包",
+  "cross": [
+   "03",
+   "09"
+  ],
+  "title": "2.14 Analysis and Design of Feedback Control Systems (Spring 2014)",
+  "authors": "David Trumper",
+  "school": "MIT OpenCourseWare",
+  "year": "2014",
+  "version": "Spring 2014",
+  "level": "本科进阶",
+  "prereq": "动态系统、Laplace",
+  "topics": "根轨迹、回路成形、PID、描述函数、状态空间、数字控制、伺服实验",
+  "source": "https://ocw.mit.edu/courses/2-14-analysis-and-design-of-feedback-control-systems-spring-2014/",
+  "license": "CC BY-NC-SA 4.0（MIT OCW）",
+  "goal": "反馈设计完整课程（频率域+状态空间+数字+实验）",
+  "order": 2,
+  "out": "02_classical_control/courses/MIT_214_2014Spring_OCWCoursePackage_en.zip",
+  "get": {
+   "kind": "file",
+   "urls": [
+    "https://ocw.mit.edu/courses/2-14-analysis-and-design-of-feedback-control-systems-spring-2014/2.14-spring-2014.zip"
+   ],
+   "max_mb": 800
+  },
+  "expect": {
+   "min_docs": 10,
+   "link_check": false
+  },
+  "lang": "en",
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS02C03",
+  "cat": "02",
+  "type": "course",
+  "material": "OCW 官方课程包",
+  "cross": [
+   "03"
+  ],
+  "title": "16.30 Feedback Control Systems (Fall 2010)",
+  "authors": "Jonathan P. How; Emilio Frazzoli",
+  "school": "MIT OpenCourseWare",
+  "year": "2010",
+  "version": "Fall 2010",
+  "level": "本科高年级",
+  "prereq": "线性系统或飞行力学",
+  "topics": "状态反馈、观测器、频率域、数字实现",
+  "source": "https://ocw.mit.edu/courses/16-30-feedback-control-systems-fall-2010/",
+  "license": "CC BY-NC-SA 4.0（MIT OCW）",
+  "goal": "状态空间反馈与观测器设计课程",
+  "order": 3,
+  "out": "02_classical_control/courses/MIT_1630_2010Fall_OCWCoursePackage_en.zip",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/industrial_process_monitoring_literature/university_materials/MIT_1630_2010Fall_OCWCoursePackage_en.zip",
+   "source": "https://ocw.mit.edu/courses/16-30-feedback-control-systems-fall-2010/"
+  },
+  "note": "已有复用：industrial_process_monitoring_literature 13-014",
+  "lang": "en",
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "expect": {},
+  "paper": {}
+ },
+ {
+  "id": "CS03C01",
+  "cat": "03",
+  "type": "course",
+  "material": "OCW 官方课程包",
+  "title": "6.241J Dynamic Systems and Control (Spring 2011)",
+  "authors": "Mohammed Dahleh; Munther A. Dahleh; George Verghese",
+  "school": "MIT OpenCourseWare",
+  "year": "2011",
+  "version": "Spring 2011",
+  "level": "研究生",
+  "prereq": "线性代数、信号与系统",
+  "topics": "线性动态系统、能控能观、鲁棒性、状态空间",
+  "source": "https://ocw.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011/",
+  "license": "CC BY-NC-SA 4.0（MIT OCW）",
+  "goal": "现代控制研究生核心课",
+  "order": 1,
+  "out": "03_modern_control/courses/MIT_6241J_2011Spring_OCWCoursePackage_en.zip",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/industrial_process_monitoring_literature/university_materials/MIT_6241J_2011Spring_OCWCoursePackage_en.zip",
+   "source": "https://ocw.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011/"
+  },
+  "note": "已有复用：industrial_process_monitoring_literature 13-008",
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "expect": {},
+  "paper": {}
+ },
+ {
+  "id": "CS03C02",
+  "cat": "03",
+  "type": "course",
+  "material": "完整课件包",
+  "title": "EE263 Introduction to Linear Dynamical Systems",
+  "authors": "Stephen Boyd（课程页）",
+  "school": "Stanford University",
+  "year": "2026",
+  "version": "Summer 2026 讲义全集",
+  "level": "研究生",
+  "prereq": "线性代数",
+  "topics": "最小二乘、SVD、线性动态系统、MMSE",
+  "source": "https://ee263.stanford.edu/lectures.html",
+  "license": "课程官网公开讲义",
+  "goal": "线性动态系统与最小二乘，衔接辨识与估计",
+  "order": 2,
+  "out": "03_modern_control/courses/Stanford_EE263_2026Summer_LectureSlides_en",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/industrial_process_monitoring_literature/university_materials/Stanford_EE263_2026Summer_LectureSlides_en",
+   "source": "https://ee263.stanford.edu/lectures.html"
+  },
+  "note": "已有复用：industrial_process_monitoring_literature 13-017",
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "expect": {},
+  "paper": {}
+ },
+ {
+  "id": "CS05C01",
+  "cat": "05",
+  "type": "course",
+  "material": "完整课件包",
+  "cross": [
+   "03",
+   "04"
+  ],
+  "title": "EE363 Linear Dynamical Systems",
+  "authors": "Stephen Boyd",
+  "school": "Stanford University",
+  "year": "2026",
+  "version": "Spring 2026 全部讲次 PDF",
+  "level": "研究生",
+  "prereq": "EE263",
+  "topics": "LQR、Kalman 滤波、能观性、线性二次估计",
+  "source": "https://ee363.stanford.edu/lectures.html",
+  "license": "课程官网公开讲义",
+  "goal": "LQR 与 Kalman 滤波的标准研究生课件",
+  "order": 1,
+  "out": "05_advanced_control/courses/Stanford_EE363_2026Spring_LectureSlides_en",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/industrial_process_monitoring_literature/university_materials/Stanford_EE363_2026Spring_LectureSlides_en",
+   "source": "https://ee363.stanford.edu/lectures.html"
+  },
+  "note": "已有复用：industrial_process_monitoring_literature 13-018",
+  "lang": "en",
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "expect": {},
+  "paper": {}
+ },
+ {
+  "id": "CS04C01",
+  "cat": "04",
+  "type": "course",
+  "material": "OCW 官方课程包",
+  "title": "6.435 System Identification (Spring 2005)",
+  "authors": "Munther A. Dahleh",
+  "school": "MIT OpenCourseWare",
+  "year": "2005",
+  "version": "Spring 2005",
+  "level": "研究生",
+  "prereq": "线性系统、概率",
+  "topics": "预测误差法、子空间辨识、实验设计",
+  "source": "https://ocw.mit.edu/courses/6-435-system-identification-spring-2005/",
+  "license": "CC BY-NC-SA 4.0（MIT OCW）",
+  "goal": "系统辨识完整课程",
+  "order": 1,
+  "out": "04_estimation_identification/courses/MIT_6435_2005Spring_OCWCoursePackage_en.zip",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/industrial_process_monitoring_literature/university_materials/MIT_6435_2005Spring_OCWCoursePackage_en.zip",
+   "source": "https://ocw.mit.edu/courses/6-435-system-identification-spring-2005/"
+  },
+  "note": "已有复用：industrial_process_monitoring_literature 13-005",
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "expect": {},
+  "paper": {}
+ },
+ {
+  "id": "CS04C02",
+  "cat": "04",
+  "type": "course",
+  "material": "完整文字讲义",
+  "title": "ECE5550 Applied Kalman Filtering",
+  "authors": "Gregory L. Plett",
+  "school": "University of Colorado Colorado Springs",
+  "year": "2020",
+  "version": "课程站点 Notes00–Notes0A",
+  "level": "研究生",
+  "prereq": "线性系统、概率",
+  "topics": "Kalman、EKF、UKF、实现问题",
+  "source": "http://mocha-java.uccs.edu/ECE5550/",
+  "license": "课程官网公开讲义",
+  "goal": "应用 Kalman 滤波完整讲义",
+  "order": 2,
+  "out": "04_estimation_identification/courses/UCCS_ECE5550_AppliedKalmanFiltering_LectureNotes_en",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/industrial_process_monitoring_literature/university_materials/UCCS_ECE5550_AppliedKalmanFiltering_LectureNotes_en",
+   "source": "http://mocha-java.uccs.edu/ECE5550/"
+  },
+  "note": "已有复用：industrial_process_monitoring_literature",
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "expect": {},
+  "paper": {}
+ },
+ {
+  "id": "CS05C02",
+  "cat": "05",
+  "type": "course",
+  "material": "OCW 官方课程包",
+  "title": "6.231 Dynamic Programming and Stochastic Control (Fall 2015)",
+  "authors": "Dimitri Bertsekas",
+  "school": "MIT OpenCourseWare",
+  "year": "2015",
+  "version": "Fall 2015",
+  "level": "研究生",
+  "prereq": "概率、高等微积分",
+  "topics": "动态规划、随机控制、近似 DP",
+  "source": "https://ocw.mit.edu/courses/6-231-dynamic-programming-and-stochastic-control-fall-2015/",
+  "license": "CC BY-NC-SA 4.0（MIT OCW）",
+  "goal": "最优控制/随机控制的动态规划课程",
+  "order": 2,
+  "out": "05_advanced_control/courses/MIT_6231_2015Fall_OCWCoursePackage_en.zip",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/ai_undergraduate_graduate_curriculum_literature/courses/MIT_6231_2015Fall_OCWCoursePackage_en.zip",
+   "source": "https://ocw.mit.edu/courses/6-231-dynamic-programming-and-stochastic-control-fall-2015/"
+  },
+  "note": "已有复用：ai_undergraduate_graduate_curriculum_literature",
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "expect": {},
+  "paper": {}
+ },
+ {
+  "id": "CS07C01",
+  "cat": "07",
+  "type": "course",
+  "material": "官方 HTML 离线包",
+  "cross": [
+   "02",
+   "09"
+  ],
+  "title": "Process Dynamics and Control (BYU / APMonitor)",
+  "authors": "John Hedengren",
+  "school": "Brigham Young University",
+  "year": "2024",
+  "version": "课程站点离线包（源库已核验）",
+  "level": "本科/工程",
+  "prereq": "微分方程、化工或机械过程基础",
+  "topics": "FOPDT、PID、串级、前馈、状态空间、过程控制实验",
+  "source": "https://apmonitor.com/pdc/",
+  "license": "课程官网公开",
+  "goal": "工业过程控制完整课程（建模到 PID 与实验）",
+  "order": 1,
+  "out": "07_industrial_automation/courses/BYU_ProcessDynamicsControl_Online_HTML_en.zip",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/industrial_process_monitoring_literature/university_materials/BYU_ProcessDynamicsControl_Online_HTML_en.zip",
+   "source": "https://apmonitor.com/pdc/"
+  },
+  "note": "已有复用：industrial_process_monitoring_literature",
+  "lang": "en",
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "expect": {},
+  "paper": {}
+ },
+ {
+  "id": "CS04C03",
+  "cat": "04",
+  "type": "course",
+  "material": "完整文字讲义",
+  "title": "ECE5560 System Identification",
+  "authors": "Gregory L. Plett",
+  "school": "University of Colorado Colorado Springs",
+  "year": "2020",
+  "version": "课程站点全部 Notes",
+  "level": "研究生",
+  "prereq": "线性系统、最小二乘",
+  "topics": "最小二乘、实验激励、参数估计、辨识实践",
+  "source": "http://mocha-java.uccs.edu/ECE5560/",
+  "license": "课程官网公开讲义",
+  "goal": "系统辨识应用讲义，与 6.435 互补",
+  "order": 3,
+  "out": "04_estimation_identification/courses/UCCS_ECE5560_SystemIdentification_LectureNotes_en",
+  "get": {
+   "kind": "reuse"
+  },
+  "reuse": {
+   "path": "/root/industrial_process_monitoring_literature/university_materials/UCCS_ECE5560_SystemIdentification_LectureNotes_en",
+   "source": "http://mocha-java.uccs.edu/ECE5560/"
+  },
+  "note": "已有复用：industrial_process_monitoring_literature",
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "use": "通读",
+  "stack": "",
+  "expect": {},
+  "paper": {}
+ }
+]

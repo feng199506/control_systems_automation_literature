@@ -1,0 +1,52 @@
+{
+ "id": "CS09X09",
+ "started": "2026-10-29T18:49:25Z",
+ "dropped_large_files": [],
+ "dropped_count": 0,
+ "download_url": "https://github.com/APMonitor/tclab.git",
+ "ref": "(默认分支)",
+ "commit": "962a244468877398dde17ca6d1c26ca78c8fc605",
+ "commit_date": "2026-10-23T13:56:15-06:00",
+ "sparse_paths": [
+  "tclab",
+  "examples",
+  "README.md",
+  "LICENSE"
+ ],
+ "verify": "通过：17 个文件（HTML 0，文档源 7）",
+ "info": {
+  "files": 17,
+  "html": 0,
+  "md_rst_ipynb": 7,
+  "top_ext": [
+   [
+    "py",
+    9
+   ],
+   [
+    "rst",
+    3
+   ],
+   [
+    "md",
+    2
+   ],
+   [
+    "txt",
+    2
+   ],
+   [
+    "ino",
+    1
+   ]
+  ],
+  "license_files": [
+   "TCLab_python_package_en/LICENSE.txt"
+  ]
+ },
+ "bytes": 122880,
+ "sha256": "e87b4394e2f3d2d730e2f786942c5cadc2524981a7e6b364a49ddd3ed9072b52",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:49:26Z"
+}

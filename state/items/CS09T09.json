@@ -1,0 +1,66 @@
+{
+ "id": "CS09T09",
+ "started": "2026-10-29T18:35:57Z",
+ "wget_rc": 8,
+ "quota_hit": false,
+ "dropped_large_files": [],
+ "dropped_count": 0,
+ "download_url": "https://gnu-octave.github.io/packages/control/",
+ "mirror_scope": {
+  "start": [
+   "https://gnu-octave.github.io/packages/control/",
+   "https://octave.sourceforge.io/control/overview.html",
+   "https://octave.sourceforge.io/control/package_doc/index.html"
+  ],
+  "include": [],
+  "level": "2"
+ },
+ "verify": "通过：233 个文件（HTML 171，文档源 1）",
+ "info": {
+  "files": 233,
+  "html": 171,
+  "md_rst_ipynb": 1,
+  "top_ext": [
+   [
+    "html",
+    171
+   ],
+   [
+    "png",
+    21
+   ],
+   [
+    "svg",
+    7
+   ],
+   [
+    "eot",
+    6
+   ],
+   [
+    "eot?",
+    6
+   ],
+   [
+    "ttf",
+    6
+   ],
+   [
+    "woff",
+    6
+   ],
+   [
+    "css",
+    5
+   ]
+  ],
+  "license_files": [
+   "OctaveForge_control_package_docs_html_en/control/COPYING.html"
+  ]
+ },
+ "bytes": 7475200,
+ "sha256": "c7a53004ed42fd2f99cd622045a6a30fc85cb67d8421e183b6ba8bf5c80693e2",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:37:58Z"
+}

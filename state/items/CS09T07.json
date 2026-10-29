@@ -1,0 +1,66 @@
+{
+ "id": "CS09T07",
+ "started": "2026-10-29T18:33:15Z",
+ "wget_rc": 8,
+ "quota_hit": true,
+ "dropped_large_files": [],
+ "dropped_count": 0,
+ "download_url": "https://www.do-mpc.com/en/latest/",
+ "mirror_scope": {
+  "start": [
+   "https://www.do-mpc.com/en/latest/",
+   "https://www.do-mpc.com/en/stable/"
+  ],
+  "include": [],
+  "level": "2"
+ },
+ "verify": "配额截断但核验通过（部分离线包）：通过：279 个文件（HTML 124，文档源 88）",
+ "info": {
+  "files": 279,
+  "html": 124,
+  "md_rst_ipynb": 88,
+  "top_ext": [
+   [
+    "html",
+    124
+   ],
+   [
+    "rst",
+    76
+   ],
+   [
+    "png",
+    17
+   ],
+   [
+    "svg",
+    14
+   ],
+   [
+    "ipynb",
+    10
+   ],
+   [
+    "gif",
+    9
+   ],
+   [
+    "css",
+    8
+   ],
+   [
+    "js",
+    4
+   ]
+  ],
+  "license_files": [
+   "do_mpc_Documentation_html_en/en/latest/_sources/license.rst",
+   "do_mpc_Documentation_html_en/en/latest/license.html"
+  ]
+ },
+ "bytes": 55316480,
+ "sha256": "094053e6564f3966e96dcc49427328dfae7fbb2e52a86b61a86ff1b8bc7f04a3",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:37:55Z"
+}

@@ -1,0 +1,53 @@
+{
+ "id": "CS09T04",
+ "dropped_large_files": [],
+ "dropped_count": 0,
+ "status": "ok",
+ "download_url": "https://python-control.readthedocs.io/en/stable/",
+ "verify": "通过：961 个文件（HTML 302，文档源 283）",
+ "info": {
+  "files": 961,
+  "html": 302,
+  "md_rst_ipynb": 283,
+  "top_ext": [
+   [
+    "png",
+    340
+   ],
+   [
+    "html",
+    302
+   ],
+   [
+    "txt",
+    283
+   ],
+   [
+    "js",
+    5
+   ],
+   [
+    "css",
+    5
+   ],
+   [
+    "svg",
+    1
+   ],
+   [
+    "js?v=2cd50e6c",
+    1
+   ],
+   [
+    "js?v=a7894cd8",
+    1
+   ]
+  ],
+  "license_files": []
+ },
+ "bytes": 22394880,
+ "sha256": "e45f050c9b62baea41f41786eb21b0260748371a83c76b15099d4951ecece2bb",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:28:53Z",
+ "note": "wget 在已超过 min_docs 后停止；保存当时完整镜像"
+}

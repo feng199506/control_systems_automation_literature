@@ -1,0 +1,19 @@
+{
+ "id": "CS04P03",
+ "started": "2026-10-29T18:18:10Z",
+ "download_url": "https://arxiv.org/pdf/2605.11460v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2605.11460v1",
+ "http_last_modified": "Wed, 13 May 2026 00:34:07 GMT",
+ "verify": "通过：pypdf 可解析 37 页；标题词匹配 1.0",
+ "info": {
+  "pages": 37,
+  "meta_title": "Beyond Prediction: Interval Neural Networks for Uncertainty-Aware System Identification",
+  "body_sample_chars": 10112,
+  "title_match": 1.0
+ },
+ "bytes": 7586672,
+ "sha256": "ab3bf025c8ae5827cf65d2e0de4dcbca529b830960e97977b6b4733a0a1daeb1",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:18:14Z"
+}

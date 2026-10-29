@@ -1,0 +1,16 @@
+{
+ "id": "CS02B02",
+ "reused_from": "/root/industrial_process_monitoring_literature/books/Doyle_FeedbackControlTheory_1990_en.pdf",
+ "status": "ok",
+ "verify": "通过：pypdf 可解析 219 页；标题词匹配 1.0",
+ "info": {
+  "pages": 219,
+  "meta_title": "root.dvi",
+  "body_sample_chars": 7084,
+  "title_match": 1.0
+ },
+ "bytes": 1273333,
+ "sha256": "78ce9401e16b8579779bd731f65b94fb161e6ef082326358fc940ab9615aee39",
+ "error": "",
+ "access_date": "2026-10-29"
+}

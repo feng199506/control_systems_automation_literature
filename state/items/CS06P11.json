@@ -1,0 +1,19 @@
+{
+ "id": "CS06P11",
+ "started": "2026-10-29T18:20:51Z",
+ "download_url": "https://arxiv.org/pdf/1806.09460v2.pdf",
+ "final_url": "https://arxiv.org/pdf/1806.09460v2",
+ "http_last_modified": "Sun, 22 Jan 2023 21:47:22 GMT",
+ "verify": "通过：pypdf 可解析 28 页；标题词匹配 1.0",
+ "info": {
+  "pages": 28,
+  "meta_title": "",
+  "body_sample_chars": 12322,
+  "title_match": 1.0
+ },
+ "bytes": 887749,
+ "sha256": "3b8d16b6346c047c75826a6b6f14685d2c4cc9cf4e5ecf814fbb3950abb8c648",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:20:55Z"
+}

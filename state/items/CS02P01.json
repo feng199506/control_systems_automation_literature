@@ -1,0 +1,19 @@
+{
+ "id": "CS02P01",
+ "started": "2026-10-29T18:17:39Z",
+ "download_url": "https://arxiv.org/pdf/2606.01959v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2606.01959v1",
+ "http_last_modified": "Tue, 02 Jun 2026 03:07:11 GMT",
+ "verify": "通过：pypdf 可解析 31 页；标题词匹配 1.0",
+ "info": {
+  "pages": 31,
+  "meta_title": "Anti-Windup in PID Control: Review, Analysis, and New Tuning Directions",
+  "body_sample_chars": 11901,
+  "title_match": 1.0
+ },
+ "bytes": 4749651,
+ "sha256": "9133b9485ab182f4074dd67ec20791c55b574382f0d0f5b739bb56103e1caa7f",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:17:41Z"
+}

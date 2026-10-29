@@ -1,0 +1,19 @@
+{
+ "id": "CS07P02",
+ "started": "2026-10-29T18:20:13Z",
+ "download_url": "https://arxiv.org/pdf/2610.28675v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2610.28675v1",
+ "http_last_modified": "Thu, 22 Oct 2026 00:05:04 GMT",
+ "verify": "通过：pypdf 可解析 21 页；标题词匹配 1.0",
+ "info": {
+  "pages": 21,
+  "meta_title": "Compilation Is Not Correctness: Scan-by-Scan Evaluation of LLM-Generated PLC Programs",
+  "body_sample_chars": 17148,
+  "title_match": 1.0
+ },
+ "bytes": 6258798,
+ "sha256": "fd61969c70c27263f3dae6bce299ce7ff269640af6d37266fb9c8d2f93df4bb6",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:20:18Z"
+}

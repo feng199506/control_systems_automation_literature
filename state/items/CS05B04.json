@@ -1,0 +1,19 @@
+{
+ "id": "CS05B04",
+ "started": "2026-10-29T18:07:31Z",
+ "download_url": "https://cse.lab.imtlucca.it/~bemporad/publications/papers/BBMbook.pdf",
+ "final_url": "https://cse.lab.imtlucca.it/~bemporad/publications/papers/BBMbook.pdf",
+ "http_last_modified": "Sun, 26 Jan 2020 20:57:12 GMT",
+ "verify": "通过：pypdf 可解析 448 页；标题词匹配 1.0",
+ "info": {
+  "pages": 448,
+  "meta_title": "Predictive Control",
+  "body_sample_chars": 6386,
+  "title_match": 1.0
+ },
+ "bytes": 12423480,
+ "sha256": "4bb640a3e3c12fac7f53e9b508d46f78a5f0aa661eac0965253fd044abe8f88a",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:07:36Z"
+}

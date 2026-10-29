@@ -1,0 +1,19 @@
+{
+ "id": "CS07T03",
+ "started": "2026-10-29T18:24:46Z",
+ "download_url": "https://www.modbus.org/file/secure/modbusprotocolspecification.pdf",
+ "final_url": "https://www.modbus.org/file/secure/modbusprotocolspecification.pdf",
+ "http_last_modified": "",
+ "verify": "通过：pypdf 可解析 50 页；标题词匹配 1.0",
+ "info": {
+  "pages": 50,
+  "meta_title": "MODBUS Application Protocol 1 1 b",
+  "body_sample_chars": 6769,
+  "title_match": 1.0
+ },
+ "bytes": 932519,
+ "sha256": "f80d0d7132fd035104c3f21b01026470e3310ca3d8d493d9a9737d0d32ad2eb1",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:24:48Z"
+}

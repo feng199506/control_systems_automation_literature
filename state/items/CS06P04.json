@@ -1,0 +1,19 @@
+{
+ "id": "CS06P04",
+ "started": "2026-10-29T18:19:54Z",
+ "download_url": "https://arxiv.org/pdf/2610.05724v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2610.05724v1",
+ "http_last_modified": "Tue, 06 Oct 2026 02:14:43 GMT",
+ "verify": "通过：pypdf 可解析 23 页；标题词匹配 1.0",
+ "info": {
+  "pages": 23,
+  "meta_title": "Data-driven control of linear systems using quantized data",
+  "body_sample_chars": 7120,
+  "title_match": 1.0
+ },
+ "bytes": 532892,
+ "sha256": "44d69b43995bb107f80145c0d204fbb110e433cffd580ac1850e63dfb399854b",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:19:57Z"
+}

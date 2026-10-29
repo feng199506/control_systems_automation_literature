@@ -1,0 +1,19 @@
+{
+ "id": "CS09T06",
+ "started": "2026-10-29T18:21:06Z",
+ "download_url": "https://github.com/casadi/casadi/releases/download/3.7.2/casadi-users_guide-v3.7.2.pdf",
+ "final_url": "https://release-assets.githubusercontent.com/github-production-release-asset/6474647/33d8032b-41dc-4484-a14a-3cee65a97369?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-29T19%3A10%3A15Z&rscd=attachment%3B+filename%3Dcasadi-users_guide-v3.7.2.pdf&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-29T18%3A09%3A57Z&ske=2026-10-29T19%3A10%3A15Z&sks=b&skv=2018-11-09&sig=RZig2zROIK3UwwGkNyU1vvFiG7SMVTUdkqtjF%2BVo2MY%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MzI5ODM2NiwibmJmIjoxNzkzMjk4MDY2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.fFXVXv0aNNK84DBUUPBtLvGM3EA53jbwKwnqso_LOQE&response-content-disposition=attachment%3B%20filename%3Dcasadi-users_guide-v3.7.2.pdf&response-content-type=application%2Foctet-stream",
+ "http_last_modified": "Tue, 16 Sep 2025 09:12:02 GMT",
+ "verify": "通过：pypdf 可解析 77 页；标题词匹配 1.0",
+ "info": {
+  "pages": 77,
+  "meta_title": "CasADi Documentation",
+  "body_sample_chars": 8719,
+  "title_match": 1.0
+ },
+ "bytes": 494132,
+ "sha256": "4fa152dec22de1643e74189ada9bd8fde7e53dcf07e02949f9b837b92a28a78c",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:21:07Z"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "CS09X01",
+ "started": "2026-10-29T18:39:15Z",
+ "wget_rc": 8,
+ "quota_hit": false,
+ "error": "wget 无输出 rc=8 ",
+ "status": "failed",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:39:16Z"
+}

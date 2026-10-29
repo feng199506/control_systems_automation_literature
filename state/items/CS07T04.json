@@ -1,0 +1,64 @@
+{
+ "id": "CS07T04",
+ "started": "2026-10-29T18:38:05Z",
+ "dropped_large_files": [],
+ "dropped_count": 0,
+ "download_url": "https://github.com/open62541/open62541.git",
+ "ref": "(默认分支)",
+ "commit": "0113f790073be21f5f39572ce1318adf9072be28",
+ "commit_date": "2026-10-29T11:27:48+01:00",
+ "sparse_paths": [
+  "doc",
+  "README.md",
+  "LICENSE"
+ ],
+ "verify": "通过：49 个文件（HTML 0，文档源 29）",
+ "info": {
+  "files": 49,
+  "html": 0,
+  "md_rst_ipynb": 29,
+  "top_ext": [
+   [
+    "rst",
+    20
+   ],
+   [
+    "svg",
+    7
+   ],
+   [
+    "png",
+    7
+   ],
+   [
+    "md",
+    6
+   ],
+   [
+    "txt",
+    3
+   ],
+   [
+    "",
+    2
+   ],
+   [
+    "py",
+    2
+   ],
+   [
+    "pdf",
+    2
+   ]
+  ],
+  "license_files": [
+   "open62541_OPC_UA_docs_rst_en/LICENSE",
+   "open62541_OPC_UA_docs_rst_en/LICENSE-CC0"
+  ]
+ },
+ "bytes": 4270080,
+ "sha256": "b8316a5c4893e9647b402ad2fd0179b0a61afefe8bc43eccd0836f0e1bf99647",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:38:06Z"
+}

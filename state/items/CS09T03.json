@@ -1,0 +1,19 @@
+{
+ "id": "CS09T03",
+ "started": "2026-10-29T18:21:03Z",
+ "download_url": "https://docs.octave.org/octave.pdf",
+ "final_url": "https://docs.octave.org/octave.pdf",
+ "http_last_modified": "Wed, 18 Feb 2026 17:54:40 GMT",
+ "verify": "通过：pypdf 可解析 1262 页；标题词匹配 1.0",
+ "info": {
+  "pages": 1262,
+  "meta_title": "",
+  "body_sample_chars": 15532,
+  "title_match": 1.0
+ },
+ "bytes": 4900573,
+ "sha256": "db23c35d4472fd63999f15d58c23e35764820376f38b143f5885642fe268a601",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:21:06Z"
+}

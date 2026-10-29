@@ -1,0 +1,19 @@
+{
+ "id": "CS05B02",
+ "started": "2026-10-29T18:07:29Z",
+ "download_url": "http://www.cds.caltech.edu/~murray/books/AM08/pdf/obc-complete_12Mar2023.pdf",
+ "final_url": "http://www.cds.caltech.edu/~murray/books/AM08/pdf/obc-complete_12Mar2023.pdf",
+ "http_last_modified": "Sun, 12 Mar 2023 23:44:39 GMT",
+ "verify": "通过：pypdf 可解析 165 页；标题词匹配 1.0",
+ "info": {
+  "pages": 165,
+  "meta_title": "",
+  "body_sample_chars": 3985,
+  "title_match": 1.0
+ },
+ "bytes": 4612622,
+ "sha256": "b9fa6abce89a20c4d9ad8acf44da7998531da0e5a1e618ad5aa81907d1d733e2",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:07:31Z"
+}

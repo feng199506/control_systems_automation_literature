@@ -1,0 +1,19 @@
+{
+ "id": "CS05P01",
+ "started": "2026-10-29T18:18:41Z",
+ "download_url": "https://arxiv.org/pdf/2610.31295v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2610.31295v1",
+ "http_last_modified": "Fri, 23 Oct 2026 01:19:44 GMT",
+ "verify": "通过：pypdf 可解析 10 页；标题词匹配 1.0",
+ "info": {
+  "pages": 10,
+  "meta_title": "MODEL PREDICTIVE CONTROL OF WIND TURBINES: A MODEL-ORIENTED REVIEW OF PREDICTION MODELS, CONTROL OBJECTIVES, AND NONLINEAR AERODYNAMIC FORMULATIONS",
+  "body_sample_chars": 21568,
+  "title_match": 1.0
+ },
+ "bytes": 540515,
+ "sha256": "1b5ff0aa540412d76c22b5f762461fd6223b9b85fea9a9d98a47c89c6da93b0c",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:18:45Z"
+}

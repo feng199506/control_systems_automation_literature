@@ -1,0 +1,19 @@
+{
+ "id": "CS05P09",
+ "started": "2026-10-29T18:19:13Z",
+ "download_url": "https://arxiv.org/pdf/2604.07644v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2604.07644v1",
+ "http_last_modified": "Fri, 10 Apr 2026 00:24:44 GMT",
+ "verify": "通过：pypdf 可解析 17 页；标题词匹配 1.0",
+ "info": {
+  "pages": 17,
+  "meta_title": "Safe Large-Scale Robust Nonlinear MPC in Milliseconds via Reachability-Constrained System Level Synthesis on the GPU",
+  "body_sample_chars": 31099,
+  "title_match": 1.0
+ },
+ "bytes": 10675826,
+ "sha256": "9501f44e867289aea41cbae9f0f22d985d0f1152964d6d1f2ca82b6764e64bed",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:19:21Z"
+}

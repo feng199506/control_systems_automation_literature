@@ -1,0 +1,19 @@
+{
+ "id": "CS03P02",
+ "started": "2026-10-29T18:17:52Z",
+ "download_url": "https://arxiv.org/pdf/2608.22204v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2608.22204v1",
+ "http_last_modified": "Tue, 25 Aug 2026 01:09:35 GMT",
+ "verify": "通过：pypdf 可解析 12 页；标题词匹配 1.0",
+ "info": {
+  "pages": 12,
+  "meta_title": "Antagonistic Control: Foundations, Scalability and Nonlinearity",
+  "body_sample_chars": 16292,
+  "title_match": 1.0
+ },
+ "bytes": 283616,
+ "sha256": "576ef6d5289d7ab97583ee883053b481e20cdfb04d1e930f9b7062b33bae3dfe",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:17:56Z"
+}

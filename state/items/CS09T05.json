@@ -1,0 +1,42 @@
+{
+ "id": "CS09T05",
+ "started": "2026-10-29T18:29:24Z",
+ "wget_rc": -15,
+ "quota_hit": false,
+ "dropped_large_files": [],
+ "dropped_count": 0,
+ "download_url": "https://docs.scipy.org/doc/scipy/tutorial/signal.html",
+ "mirror_scope": {
+  "start": [
+   "https://docs.scipy.org/doc/scipy/tutorial/signal.html",
+   "https://docs.scipy.org/doc/scipy/reference/signal.html"
+  ],
+  "include": [
+   "/doc/scipy/tutorial",
+   "/doc/scipy/reference"
+  ],
+  "level": "2"
+ },
+ "verify": "通过：562 个文件（HTML 561，文档源 1）",
+ "info": {
+  "files": 562,
+  "html": 561,
+  "md_rst_ipynb": 1,
+  "top_ext": [
+   [
+    "html",
+    561
+   ],
+   [
+    "txt",
+    1
+   ]
+  ],
+  "license_files": []
+ },
+ "bytes": 24227840,
+ "sha256": "65b0f19dbb0102d0325a0bf508c2eada873ae3351ef49a4fbb0c100a7fa0bc85",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:33:15Z"
+}

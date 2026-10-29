@@ -1,0 +1,19 @@
+{
+ "id": "CS04P07",
+ "started": "2026-10-29T18:18:30Z",
+ "download_url": "https://arxiv.org/pdf/2609.27506v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2609.27506v1",
+ "http_last_modified": "Thu, 24 Sep 2026 00:44:28 GMT",
+ "verify": "通过：pypdf 可解析 13 页；标题词匹配 1.0",
+ "info": {
+  "pages": 13,
+  "meta_title": "Conformalized Kalman Filters for State Estimation with Trustworthy Confidence Regions",
+  "body_sample_chars": 17538,
+  "title_match": 1.0
+ },
+ "bytes": 1183365,
+ "sha256": "37894357980ce3212f4630d4778b1cd769440f331c66cae11145a9b16fef64bf",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:18:33Z"
+}

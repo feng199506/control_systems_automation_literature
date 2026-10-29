@@ -1,0 +1,19 @@
+{
+ "id": "CS03P01",
+ "started": "2026-10-29T18:17:48Z",
+ "download_url": "https://arxiv.org/pdf/2412.13082v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2412.13082v1",
+ "http_last_modified": "Wed, 18 Dec 2024 02:08:09 GMT",
+ "verify": "通过：pypdf 可解析 26 页；标题词匹配 1.0",
+ "info": {
+  "pages": 26,
+  "meta_title": "Polyhedral Control Design: Theory and Methods",
+  "body_sample_chars": 22452,
+  "title_match": 1.0
+ },
+ "bytes": 510748,
+ "sha256": "09070700aeb8ae1e1acd8bc07239ff36cb6fdb58c027f72a66971ff68dab0fe4",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:17:52Z"
+}

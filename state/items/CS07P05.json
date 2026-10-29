@@ -1,0 +1,19 @@
+{
+ "id": "CS07P05",
+ "started": "2026-10-29T18:20:55Z",
+ "download_url": "https://arxiv.org/pdf/2301.06073v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2301.06073v1",
+ "http_last_modified": "Mon, 23 Jan 2023 18:43:02 GMT",
+ "verify": "通过：pypdf 可解析 40 页；标题词匹配 1.0",
+ "info": {
+  "pages": 40,
+  "meta_title": "",
+  "body_sample_chars": 15637,
+  "title_match": 1.0
+ },
+ "bytes": 608103,
+ "sha256": "1139b4c6705c5b1c26baa56ac57395b0258a4e479be41711342ba7a8f3e79ed4",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:20:59Z"
+}

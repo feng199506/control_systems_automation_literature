@@ -1,0 +1,55 @@
+{
+ "id": "CS02C01",
+ "started": "2026-10-29T18:16:35Z",
+ "download_url": "https://ocw.mit.edu/courses/2-004-dynamics-and-control-ii-spring-2008/2.004-spring-2008.zip",
+ "final_url": "https://ocw.mit.edu/courses/2-004-dynamics-and-control-ii-spring-2008/2.004-spring-2008.zip",
+ "http_last_modified": "Thu, 15 Oct 2026 10:19:10 GMT",
+ "verify": "通过：671 个文件（HTML 83，文档源 3）",
+ "info": {
+  "files": 671,
+  "html": 83,
+  "md_rst_ipynb": 3,
+  "top_ext": [
+   [
+    "pdf",
+    241
+   ],
+   [
+    "json",
+    96
+   ],
+   [
+    "js",
+    92
+   ],
+   [
+    "html",
+    83
+   ],
+   [
+    "jpg",
+    55
+   ],
+   [
+    "svg",
+    22
+   ],
+   [
+    "png",
+    19
+   ],
+   [
+    "srt",
+    12
+   ]
+  ],
+  "license_files": [
+   "static_shared/mathjax/LICENSE.42368b5a19b817284b3c"
+  ]
+ },
+ "bytes": 116253316,
+ "sha256": "e0cd9bd00404524384cab35afe64d30e26a35c4cad1959a1b5d36394125cd01c",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:16:37Z"
+}

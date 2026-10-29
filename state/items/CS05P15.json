@@ -1,0 +1,19 @@
+{
+ "id": "CS05P15",
+ "started": "2026-10-29T18:19:38Z",
+ "download_url": "https://arxiv.org/pdf/2610.05689v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2610.05689v1",
+ "http_last_modified": "Tue, 06 Oct 2026 02:40:53 GMT",
+ "verify": "通过：pypdf 可解析 12 页；标题词匹配 1.0",
+ "info": {
+  "pages": 12,
+  "meta_title": "Toward AI Trustworthiness: Finding Analytically Proven Forward-Invariant Sets for AI-Controlled Systems",
+  "body_sample_chars": 23875,
+  "title_match": 1.0
+ },
+ "bytes": 739600,
+ "sha256": "64453fd667accb6e8302724865ef5982c56981bd4f3e86a1582188f538d37949",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:19:41Z"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "CS05P07",
+ "started": "2026-10-29T18:19:05Z",
+ "download_url": "https://arxiv.org/pdf/2405.01753v2.pdf",
+ "final_url": "https://arxiv.org/pdf/2405.01753v2",
+ "http_last_modified": "Thu, 03 Sep 2026 00:17:14 GMT",
+ "verify": "通过：pypdf 可解析 12 页；标题词匹配 1.0",
+ "info": {
+  "pages": 12,
+  "meta_title": "A Feedback Linearized Model Predictive Control Strategy for Input-Constrained Self-Driving Cars",
+  "body_sample_chars": 18188,
+  "title_match": 1.0
+ },
+ "bytes": 1478690,
+ "sha256": "79374287a5cc202fdb5926a5d6ca0d7d2c7e349b84064e7a88aaf71d52d7c033",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:19:09Z"
+}

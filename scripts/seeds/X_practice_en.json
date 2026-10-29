@@ -1,0 +1,616 @@
+[
+ {
+  "id": "CS09X01",
+  "cat": "09",
+  "type": "practice",
+  "material": "大学公开实验教程 HTML",
+  "title": "Control Tutorials for MATLAB and Simulink (CTMS)",
+  "authors": "Bill Messner; Dawn Tilbury; et al.",
+  "school": "University of Michigan / Carnegie Mellon",
+  "year": "2024",
+  "version": "ctms.engin.umich.edu 当前站点",
+  "level": "本科",
+  "prereq": "经典控制概念、MATLAB 或 Octave",
+  "topics": "建模、PID、根轨迹、频率、状态空间、数字控制；巡航/电机/悬架等案例",
+  "source": "https://ctms.engin.umich.edu/CTMS/",
+  "license": "CC BY-SA（站点声明）",
+  "goal": "按对象走完建模-分析-PID-根轨迹-频率-状态空间-数字控制的实验教程",
+  "order": 1,
+  "out": "09_simulation_practice/practice/Michigan_CTMS_html_en.tar",
+  "get": {
+   "kind": "mirror",
+   "start": "https://ctms.engin.umich.edu/CTMS/",
+   "domains": [
+    "ctms.engin.umich.edu"
+   ],
+   "level": "3",
+   "quota_mb": 120,
+   "wait": 0.25,
+   "timeout": 1800
+  },
+  "expect": {
+   "min_docs": 20,
+   "link_check": false
+  },
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS09X02",
+  "cat": "09",
+  "type": "practice",
+  "material": "官方示例源码归档",
+  "title": "python-control examples (official repository examples/)",
+  "authors": "python-control developers",
+  "school": "python-control",
+  "year": "2025",
+  "version": "官方仓库 examples 目录（depth-1）",
+  "level": "本科/研究生",
+  "prereq": "Python、python-control 文档",
+  "topics": "Bode/Nyquist、LQR、MPC 笔记本、MRAC、巡航控制、CDS110/112 练习",
+  "source": "https://github.com/python-control/python-control",
+  "license": "BSD-3-Clause",
+  "goal": "官方示例（含 FBS/OBC 配套笔记本）",
+  "order": 2,
+  "out": "09_simulation_practice/practice/python_control_examples_en.tar",
+  "get": {
+   "kind": "git",
+   "repo": "https://github.com/python-control/python-control.git",
+   "paths": [
+    "examples",
+    "README.md",
+    "LICENSE"
+   ]
+  },
+  "expect": {
+   "min_docs": 5,
+   "need_license": true,
+   "must_have": [
+    "examples/"
+   ]
+  },
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS09X03",
+  "cat": "09",
+  "type": "practice",
+  "material": "官方示例包",
+  "title": "CasADi example pack v3.7.2",
+  "authors": "CasADi project",
+  "school": "CasADi",
+  "year": "2025",
+  "version": "3.7.2 example pack",
+  "level": "研究生/工程",
+  "prereq": "CasADi 用户指南",
+  "topics": "最优控制、积分器、NLP 示例（不含 CasADi 软件本体）",
+  "source": "https://github.com/casadi/casadi/releases/tag/3.7.2",
+  "license": "LGPL",
+  "goal": "CasADi 官方示例包",
+  "order": 3,
+  "out": "09_simulation_practice/practice/CasADi_example_pack_v3.7.2_en.zip",
+  "get": {
+   "kind": "file",
+   "urls": [
+    "https://github.com/casadi/casadi/releases/download/3.7.2/casadi-example_pack-v3.7.2.zip"
+   ],
+   "max_mb": 50
+  },
+  "expect": {
+   "min_docs": 1,
+   "link_check": false
+  },
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS09X04",
+  "cat": "09",
+  "type": "practice",
+  "material": "官方示例源码归档",
+  "title": "do-mpc examples",
+  "authors": "do-mpc developers",
+  "school": "do-mpc",
+  "year": "2025",
+  "version": "官方仓库 examples 目录",
+  "level": "研究生/工程",
+  "prereq": "do-mpc 文档、CasADi",
+  "topics": "CSTR、批处理、振荡器等 MPC/MHE 示例",
+  "source": "https://github.com/do-mpc/do-mpc",
+  "license": "LGPL",
+  "goal": "do-mpc 官方示例",
+  "order": 4,
+  "out": "09_simulation_practice/practice/do_mpc_examples_en.tar",
+  "get": {
+   "kind": "git",
+   "repo": "https://github.com/do-mpc/do-mpc.git",
+   "paths": [
+    "examples",
+    "README.md",
+    "LICENSE"
+   ]
+  },
+  "expect": {
+   "min_docs": 3,
+   "need_license": true,
+   "must_have": [
+    "examples/"
+   ]
+  },
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS09X05",
+  "cat": "09",
+  "type": "practice",
+  "material": "公开实验 HTML",
+  "cross": [
+   "07"
+  ],
+  "title": "APMonitor Process Dynamics and Control — Temperature Control Lab and modules",
+  "authors": "John Hedengren",
+  "school": "Brigham Young University / APMonitor",
+  "year": "2024",
+  "version": "apmonitor.com/pdc 实验与模块页",
+  "level": "本科/工程",
+  "prereq": "ODE、PID 概念",
+  "topics": "温度控制实验、FOPDT 辨识、PID、GEKKO 仿真",
+  "source": "https://apmonitor.com/pdc/",
+  "license": "课程官网公开",
+  "goal": "可离线阅读的过程控制实验与仿真模块（不含 BYU 整课重复计数的完整课程包）",
+  "order": 5,
+  "out": "09_simulation_practice/practice/APMonitor_PDC_labs_html_en.tar",
+  "get": {
+   "kind": "mirror",
+   "start": [
+    "https://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl",
+    "https://apmonitor.com/pdc/index.php/Main/HomePage",
+    "https://apmonitor.com/pdc/index.php/Main/TCLab"
+   ],
+   "domains": [
+    "apmonitor.com"
+   ],
+   "include": [
+    "/pdc"
+   ],
+   "level": "2",
+   "quota_mb": 80,
+   "wait": 0.25,
+   "timeout": 1200
+  },
+  "expect": {
+   "min_docs": 10,
+   "link_check": false
+  },
+  "complete": "部分",
+  "scope": "PDC 课程实验与模块 HTML，不含视频",
+  "note": "与 CS07C01 BYU 整课包互补：本项只计实验/案例，课程计在 CS07C01",
+  "lang": "en",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS02X01",
+  "cat": "02",
+  "type": "practice",
+  "material": "工业 PID 案例教程 HTML",
+  "cross": [
+   "07",
+   "09"
+  ],
+  "title": "Control Guru — Practical Process Control",
+  "authors": "Douglas J. Cooper / Control Station",
+  "school": "Control Guru",
+  "year": "2024",
+  "version": "controlguru.com 公开教程",
+  "level": "工程",
+  "prereq": "一阶过程、PID 概念",
+  "topics": "FOPDT、PID 整定、振荡诊断、工业回路实践",
+  "source": "https://controlguru.com/",
+  "license": "站点公开教程（版权 Control Station）",
+  "goal": "工业 PID 整定与回路诊断的实践案例集",
+  "order": 1,
+  "out": "02_classical_control/practice/ControlGuru_PracticalProcessControl_html_en.tar",
+  "get": {
+   "kind": "mirror",
+   "start": "https://controlguru.com/",
+   "domains": [
+    "controlguru.com",
+    "www.controlguru.com"
+   ],
+   "span": true,
+   "level": "2",
+   "quota_mb": 50,
+   "wait": 0.25,
+   "timeout": 900
+  },
+  "expect": {
+   "min_docs": 10,
+   "link_check": false
+  },
+  "complete": "部分",
+  "scope": "公开 HTML 教程页，不含专有 Loop-Pro 软件",
+  "lang": "en",
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS09X06",
+  "cat": "09",
+  "type": "practice",
+  "material": "教材配套练习站点 HTML",
+  "title": "Feedback Systems additional resources (fbswiki OBC / python-control exercises)",
+  "authors": "Karl Johan Åström; Richard M. Murray",
+  "school": "Caltech / Lund",
+  "year": "2024",
+  "version": "fbswiki.org 公开页",
+  "level": "本科进阶",
+  "prereq": "Feedback Systems 教材",
+  "topics": "python-control 练习、OBC 补充、章节资源",
+  "source": "https://fbswiki.org/",
+  "license": "教材配套公开 wiki",
+  "goal": "Åström–Murray 教材的配套练习与计算资源",
+  "order": 6,
+  "out": "09_simulation_practice/practice/FBS_wiki_resources_html_en.tar",
+  "get": {
+   "kind": "mirror",
+   "start": [
+    "https://fbswiki.org/",
+    "https://fbswiki.org/wiki/index.php/Main_Page",
+    "https://fbswiki.org/wiki/index.php/OBC"
+   ],
+   "domains": [
+    "fbswiki.org",
+    "www.cds.caltech.edu"
+   ],
+   "span": true,
+   "level": "2",
+   "quota_mb": 40,
+   "wait": 0.25,
+   "timeout": 900
+  },
+  "expect": {
+   "min_docs": 5,
+   "link_check": false
+  },
+  "complete": "部分",
+  "scope": "wiki 主页面与 OBC/资源页及一级链接",
+  "lang": "en",
+  "cross": [],
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS09X07",
+  "cat": "09",
+  "type": "practice",
+  "material": "官方示例源码归档",
+  "title": "GEKKO examples (process control / MPC Python)",
+  "authors": "BYU PRISM / John Hedengren",
+  "school": "Brigham Young University",
+  "year": "2025",
+  "version": "GEKKO 仓库 examples 目录",
+  "level": "本科高年级/工程",
+  "prereq": "Python、ODE",
+  "topics": "动态优化、MPC、估计、过程控制示例",
+  "source": "https://github.com/BYU-PRISM/GEKKO",
+  "license": "MIT",
+  "goal": "过程控制与动态优化的 Python 实践示例",
+  "order": 7,
+  "out": "09_simulation_practice/practice/GEKKO_examples_en.tar",
+  "get": {
+   "kind": "git",
+   "repo": "https://github.com/BYU-PRISM/GEKKO.git",
+   "paths": [
+    "examples",
+    "README.md",
+    "LICENSE"
+   ]
+  },
+  "expect": {
+   "min_docs": 3,
+   "need_license": true
+  },
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS08X01",
+  "cat": "08",
+  "type": "practice",
+  "material": "官方教程 PDF",
+  "title": "Mastering the FreeRTOS Real Time Kernel — A Hands-On Tutorial Guide",
+  "authors": "Richard Barry",
+  "school": "FreeRTOS",
+  "year": "2016",
+  "version": "Pre-release 161204（freertos.org 公开 PDF）",
+  "level": "工程",
+  "prereq": "C、嵌入式基础",
+  "topics": "任务、队列、中断、实时调度，控制回路部署基础",
+  "source": "https://www.freertos.org/Documentation/RTOS_book.html",
+  "license": "Real Time Engineers Ltd. 公开免费教程（版权保留）",
+  "goal": "实时内核官方教程，服务控制回路的嵌入式部署（不装软件）",
+  "order": 1,
+  "out": "08_hardware_realtime/practice/Barry_MasteringFreeRTOS_KernelTutorial_161204_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://www.freertos.org/media/2018/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf"
+   ],
+   "max_mb": 40
+  },
+  "expect": {
+   "title_words": [
+    "FreeRTOS",
+    "Real",
+    "Time",
+    "Kernel"
+   ],
+   "min_pages": 100,
+   "allow_scan": true
+  },
+  "complete": "完整",
+  "scope": "",
+  "lang": "en",
+  "cross": [],
+  "note": "HTML 文档站点 wget 空响应后改用官方公开教程 PDF",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS07X01",
+  "cat": "07",
+  "type": "practice",
+  "material": "官方示例/入门 HTML",
+  "title": "open62541 Tutorial pages (OPC UA server/client walkthrough)",
+  "authors": "open62541 contributors",
+  "school": "open62541",
+  "year": "2025",
+  "version": "1.4 文档 tutorials",
+  "level": "工程",
+  "prereq": "C、OPC UA 概念",
+  "topics": "创建 Server/Client、读写节点、订阅",
+  "source": "https://www.open62541.org/doc/1.4/tutorial.html",
+  "license": "MPL-2.0",
+  "goal": "OPC UA 开源实现的官方教程页（实践向）",
+  "order": 2,
+  "out": "07_industrial_automation/practice/open62541_tutorials_html_en.tar",
+  "get": {
+   "kind": "mirror",
+   "start": [
+    "https://www.open62541.org/doc/1.4/tutorial.html",
+    "https://www.open62541.org/doc/1.4/tutorial_server_firststeps.html",
+    "https://www.open62541.org/doc/1.4/tutorial_client_firststeps.html"
+   ],
+   "domains": [
+    "www.open62541.org"
+   ],
+   "include": [
+    "/doc/1.4"
+   ],
+   "level": "2",
+   "quota_mb": 30,
+   "wait": 0.25,
+   "timeout": 600
+  },
+  "expect": {
+   "min_docs": 3,
+   "link_check": false
+  },
+  "complete": "部分",
+  "scope": "tutorial*.html 及相关页面资源",
+  "note": "与 CS07T04 文档包互补：本项只计教程页实践路径",
+  "lang": "en",
+  "cross": [],
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS09X08",
+  "cat": "09",
+  "type": "practice",
+  "material": "官方示例源码归档",
+  "title": "python-control documentation notebooks packaged with examples (already in CS09X02 if present); SciPy cookbook signal-control scripts via scipy-lectures subset",
+  "authors": "Scientific Python Lectures",
+  "school": "scipy-lectures",
+  "year": "2025",
+  "version": "scientific-python-lectures 仓库 signal 相关讲义",
+  "level": "本科",
+  "prereq": "Python、NumPy",
+  "topics": "信号处理与 LTI 系统数值实验",
+  "source": "https://github.com/scipy-lectures/scientific-python-lectures",
+  "license": "CC BY",
+  "goal": "用 SciPy 做 LTI/滤波数值实验的公开讲义",
+  "order": 8,
+  "out": "09_simulation_practice/practice/ScientificPythonLectures_signal_en.tar",
+  "get": {
+   "kind": "git",
+   "repo": "https://github.com/scipy-lectures/scientific-python-lectures.git",
+   "paths": [
+    "intro/scipy",
+    "advanced/image_processing",
+    "README.rst",
+    "LICENSE.txt",
+    "LICENSE"
+   ]
+  },
+  "expect": {
+   "min_docs": 3,
+   "need_license": false
+  },
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS07X02",
+  "cat": "07",
+  "type": "practice",
+  "material": "官方规范 PDF",
+  "title": "Modbus Messaging Implementation Guide V1.0b (TCP/IP)",
+  "authors": "Modbus Organization",
+  "school": "Modbus Organization",
+  "year": "2006",
+  "version": "V1.0b",
+  "level": "工程",
+  "prereq": "Modbus 应用层规范",
+  "topics": "Modbus TCP 实现、MBAP 头、客户端/服务器",
+  "source": "https://modbus.org/specs.php",
+  "license": "Modbus Organization 公开规范",
+  "goal": "工业以太网 Modbus TCP 实现指南（实践向规范）",
+  "order": 3,
+  "out": "07_industrial_automation/practice/Modbus_MessagingImplementationGuide_V1_0b_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://www.modbus.org/file/secure/messagingimplementationguide.pdf",
+    "https://modbus.org/file/secure/messagingimplementationguide.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Modbus",
+    "Messaging"
+   ],
+   "min_pages": 20
+  },
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS07X03",
+  "cat": "07",
+  "type": "practice",
+  "material": "官方示例源码归档",
+  "title": "open62541 examples (OPC UA server/client samples)",
+  "authors": "open62541 contributors",
+  "school": "open62541 project",
+  "year": "2025",
+  "version": "官方仓库 examples 目录",
+  "level": "工程",
+  "prereq": "C、OPC UA 概念",
+  "topics": "OPC UA Server/Client 示例、读写与订阅",
+  "source": "https://github.com/open62541/open62541",
+  "license": "MPL-2.0",
+  "goal": "OPC UA 开源实现官方示例（实践向，不含付费标准原文）",
+  "order": 4,
+  "out": "07_industrial_automation/practice/open62541_examples_en.tar",
+  "get": {
+   "kind": "git",
+   "repo": "https://github.com/open62541/open62541.git",
+   "paths": [
+    "examples",
+    "README.md",
+    "LICENSE"
+   ]
+  },
+  "expect": {
+   "min_docs": 3,
+   "need_license": true,
+   "must_have": [
+    "examples/"
+   ]
+  },
+  "lang": "en",
+  "cross": [],
+  "complete": "完整",
+  "scope": "",
+  "note": "与 CS07T04/CS07X01 互补：本项只计官方 examples 源码",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ },
+ {
+  "id": "CS09X09",
+  "cat": "09",
+  "type": "practice",
+  "material": "官方示例源码归档",
+  "cross": [
+   "07"
+  ],
+  "title": "TCLab Python package (Temperature Control Lab examples)",
+  "authors": "John Hedengren / APMonitor",
+  "school": "Brigham Young University",
+  "year": "2025",
+  "version": "官方仓库（depth-1）",
+  "level": "本科/工程",
+  "prereq": "Python、ODE、PID 概念",
+  "topics": "温度控制实验、FOPDT、PID、硬件在环入门（软件接口与示例）",
+  "source": "https://github.com/APMonitor/tclab",
+  "license": "MIT",
+  "goal": "过程控制温度实验的官方 Python 接口与示例",
+  "order": 9,
+  "out": "09_simulation_practice/practice/TCLab_python_package_en.tar",
+  "get": {
+   "kind": "git",
+   "repo": "https://github.com/APMonitor/tclab.git",
+   "paths": [
+    "tclab",
+    "examples",
+    "README.md",
+    "LICENSE"
+   ]
+  },
+  "expect": {
+   "min_docs": 3,
+   "need_license": true
+  },
+  "lang": "en",
+  "complete": "完整",
+  "scope": "",
+  "note": "与 CS09X05 APMonitor 实验页互补：本项为可离线的官方软件包示例",
+  "use": "通读",
+  "stack": "",
+  "paper": {}
+ }
+]

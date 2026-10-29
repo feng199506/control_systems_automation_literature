@@ -1,0 +1,19 @@
+{
+ "id": "CS07P04",
+ "started": "2026-10-29T18:20:23Z",
+ "download_url": "https://arxiv.org/pdf/2609.38528v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2609.38528v1",
+ "http_last_modified": "Thu, 01 Oct 2026 00:23:38 GMT",
+ "verify": "通过：pypdf 可解析 17 页；标题词匹配 1.0",
+ "info": {
+  "pages": 17,
+  "meta_title": "RISK: Auditing Industrial Control Systems for Too-Late-to-Recover Vulnerabilities",
+  "body_sample_chars": 20944,
+  "title_match": 1.0
+ },
+ "bytes": 3649037,
+ "sha256": "3cec3f63932833dafad8d0569809f7fe86257c123015459368169ae49c2f85da",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:20:26Z"
+}

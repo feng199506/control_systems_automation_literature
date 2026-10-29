@@ -1,0 +1,37 @@
+{
+ "id": "CS09X03",
+ "started": "2026-10-29T18:17:13Z",
+ "download_url": "https://github.com/casadi/casadi/releases/download/3.7.2/casadi-example_pack-v3.7.2.zip",
+ "final_url": "https://release-assets.githubusercontent.com/github-production-release-asset/6474647/2465d93b-cc96-4613-a638-4267f41a6c61?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-29T19%3A13%3A46Z&rscd=attachment%3B+filename%3Dcasadi-example_pack-v3.7.2.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a",
+ "http_last_modified": "Tue, 16 Sep 2025 09:11:57 GMT",
+ "verify": "通过：60 个文件（HTML 0，文档源 1）",
+ "info": {
+  "files": 60,
+  "html": 0,
+  "md_rst_ipynb": 1,
+  "top_ext": [
+   [
+    "py",
+    41
+   ],
+   [
+    "m",
+    16
+   ],
+   [
+    "pdf",
+    2
+   ],
+   [
+    "txt",
+    1
+   ]
+  ],
+  "license_files": []
+ },
+ "bytes": 709849,
+ "sha256": "9a9e30f94001d80147b67759c68deb2648c9cf3d40d7fc3774f6b61d9ac61081",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:17:13Z"
+}

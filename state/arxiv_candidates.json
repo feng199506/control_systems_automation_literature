@@ -1,0 +1,722 @@
+[
+ {
+  "q": "all:\"PID control\" AND (all:survey OR all",
+  "id": "2606.01959v1",
+  "title": "Anti-Windup in PID Control: Review, Analysis, and New Tuning Directions",
+  "published": "2026-06-01"
+ },
+ {
+  "q": "all:\"PID control\" AND (all:survey OR all",
+  "id": "2604.13308v1",
+  "title": "Threat Modeling and Attack Surface Analysis of IoT-Enabled Controlled Environment Agriculture Systems",
+  "published": "2026-04-14"
+ },
+ {
+  "q": "all:\"PID control\" AND (all:survey OR all",
+  "id": "2512.00051v1",
+  "title": "Modeling and Control of Magnetic Forces between Microrobots",
+  "published": "2025-11-19"
+ },
+ {
+  "q": "all:\"PID control\" AND (all:survey OR all",
+  "id": "2502.17742v1",
+  "title": "Toward 6-DOF Autonomous Underwater Vehicle Energy-Aware Position Control based on Deep Reinforcement Learning: Preliminary Results",
+  "published": "2025-02-25"
+ },
+ {
+  "q": "all:\"PID control\" AND (all:survey OR all",
+  "id": "2409.00538v1",
+  "title": "Review of meta-heuristic optimization algorithms to tune the PID controller parameters for automatic voltage regulator",
+  "published": "2024-08-31"
+ },
+ {
+  "q": "all:\"PID control\" AND (all:survey OR all",
+  "id": "2405.18030v1",
+  "title": "Modeling and Controlling Many-Core HPC Processors: an Alternative to PID and Moving Average Algorithms",
+  "published": "2024-05-28"
+ },
+ {
+  "q": "all:\"PID control\" AND (all:survey OR all",
+  "id": "2308.08074v1",
+  "title": "Real-Time Numerical Differentiation of Sampled Data Using Adaptive Input and State Estimation",
+  "published": "2023-08-16"
+ },
+ {
+  "q": "all:\"PID control\" AND (all:survey OR all",
+  "id": "2306.07510v2",
+  "title": "Require Process Control? LSTMc is all you need!",
+  "published": "2023-06-13"
+ },
+ {
+  "q": "all:\"PID control\" AND (all:survey OR all",
+  "id": "2111.11861v1",
+  "title": "Flight Control System Design for Autonomous Aerial Surveys of Volcanoes",
+  "published": "2021-11-21"
+ },
+ {
+  "q": "all:\"PID control\" AND (all:survey OR all",
+  "id": "2008.05699v3",
+  "title": "A Vision-Based Control Method for Autonomous Landing of Vertical Flight Aircraft On a Moving Platform Without Using GPS",
+  "published": "2020-08-13"
+ },
+ {
+  "q": "all:\"PID control\" AND (all:survey OR all",
+  "id": "1801.10399v1",
+  "title": "Deux améliorations concurrentes des PID",
+  "published": "2018-01-31"
+ },
+ {
+  "q": "all:\"PID control\" AND (all:survey OR all",
+  "id": "1612.01476v1",
+  "title": "Modeling and Control of an Autonomous Three Wheeled Mobile Robot with Front Steer",
+  "published": "2016-12-05"
+ },
+ {
+  "q": "all:\"system identification\" AND (all:sur",
+  "id": "2605.11460v1",
+  "title": "Beyond Prediction: Interval Neural Networks for Uncertainty-Aware System Identification",
+  "published": "2026-05-12"
+ },
+ {
+  "q": "all:\"system identification\" AND (all:sur",
+  "id": "2602.06944v1",
+  "title": "Optimal Derivative Feedback Control for an Active Magnetic Levitation System: An Experimental Study on Data-Driven Approaches",
+  "published": "2026-02-06"
+ },
+ {
+  "q": "all:\"system identification\" AND (all:sur",
+  "id": "2512.06315v2",
+  "title": "Control-Oriented System Identification: Classical, Learning, and Physics-Informed Approaches",
+  "published": "2025-12-06"
+ },
+ {
+  "q": "all:\"system identification\" AND (all:sur",
+  "id": "2512.05400v1",
+  "title": "Hybrid modeling approach for better identification of building thermal network model and improved prediction",
+  "published": "2025-12-05"
+ },
+ {
+  "q": "all:\"system identification\" AND (all:sur",
+  "id": "2511.15044v1",
+  "title": "Data-driven control of network systems: Accounting for communication adaptivity and security",
+  "published": "2025-11-19"
+ },
+ {
+  "q": "all:\"system identification\" AND (all:sur",
+  "id": "2506.03650v1",
+  "title": "Fast Sampling for System Identification: Overcoming Noise, Offsets, and Closed-Loop Challenges with State Variable Filter",
+  "published": "2025-06-04"
+ },
+ {
+  "q": "all:\"system identification\" AND (all:sur",
+  "id": "2505.07234v2",
+  "title": "A Novel Online Pseudospectral Method for Approximation of Nonlinear Systems Dynamics",
+  "published": "2025-05-12"
+ },
+ {
+  "q": "all:\"system identification\" AND (all:sur",
+  "id": "2501.17544v1",
+  "title": "Pole-Zero Identification: Unveiling the Critical Dynamics of Microwave Circuits Beyond Stability Analysis",
+  "published": "2025-01-29"
+ },
+ {
+  "q": "all:\"system identification\" AND (all:sur",
+  "id": "2409.16825v1",
+  "title": "Measurements and System Identification for the Characterization of Smooth Muscle Cell Dynamics",
+  "published": "2024-09-25"
+ },
+ {
+  "q": "all:\"system identification\" AND (all:sur",
+  "id": "2404.18267v1",
+  "title": "LINOCS: Lookahead Inference of Networked Operators for Continuous Stability",
+  "published": "2024-04-28"
+ },
+ {
+  "q": "all:\"system identification\" AND (all:sur",
+  "id": "2403.00128v1",
+  "title": "From Flies to Robots: Inverted Landing in Small Quadcopters with Dynamic Perching",
+  "published": "2024-02-29"
+ },
+ {
+  "q": "all:\"system identification\" AND (all:sur",
+  "id": "2309.16589v3",
+  "title": "Connecting Space Missions Through NGSO Constellations: Feasibility Study",
+  "published": "2023-09-28"
+ },
+ {
+  "q": "all:\"model predictive control\" AND (all:",
+  "id": "2610.36678v1",
+  "title": "Retrofitting centralized air compressor stations with end-use-aware predictive set-pressure control using a physics-constrained pressure-drop model",
+  "published": "2026-10-27"
+ },
+ {
+  "q": "all:\"model predictive control\" AND (all:",
+  "id": "2610.31295v1",
+  "title": "Model Predictive Control of Wind Turbines: A Model-Oriented Review of Prediction Models, Control Objectives, and Nonlinear Aerodynamic Formulations",
+  "published": "2026-10-22"
+ },
+ {
+  "q": "all:\"model predictive control\" AND (all:",
+  "id": "2610.19390v1",
+  "title": "Multiscale distributed MPC for Optimal Transport",
+  "published": "2026-10-14"
+ },
+ {
+  "q": "all:\"model predictive control\" AND (all:",
+  "id": "2610.08112v1",
+  "title": "Energy-Aware Path Following: Comparative Analysis of Reinforcement Learning and NMPC for Electric Vehicles",
+  "published": "2026-10-06"
+ },
+ {
+  "q": "all:\"model predictive control\" AND (all:",
+  "id": "2609.12853v2",
+  "title": "Very Exciting: Zero-Shot Model Predictive Control of Buildings via Excitation-Based Generalized Transfer Learning Models",
+  "published": "2026-09-11"
+ },
+ {
+  "q": "all:\"model predictive control\" AND (all:",
+  "id": "2609.13270v1",
+  "title": "Conflict-Predictive Variable Horizons in Multi-Drone Distributed Model Predictive Control",
+  "published": "2026-09-07"
+ },
+ {
+  "q": "all:\"model predictive control\" AND (all:",
+  "id": "2609.05314v1",
+  "title": "Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness",
+  "published": "2026-09-04"
+ },
+ {
+  "q": "all:\"model predictive control\" AND (all:",
+  "id": "2608.17902v1",
+  "title": "Adaptive Model Predictive Control for Ground Vehicles: Review and Demonstrative Implementation",
+  "published": "2026-08-18"
+ },
+ {
+  "q": "all:\"model predictive control\" AND (all:",
+  "id": "2606.06642v1",
+  "title": "MPC for nonlinear systems: a comparative review of discretization methods",
+  "published": "2026-06-04"
+ },
+ {
+  "q": "all:\"model predictive control\" AND (all:",
+  "id": "2605.27017v1",
+  "title": "Graph-Based Modeling, Control, and Optimization for Multi-Domain and Multi-Timescale Energy Systems",
+  "published": "2026-05-26"
+ },
+ {
+  "q": "all:\"model predictive control\" AND (all:",
+  "id": "2605.05575v1",
+  "title": "Maximal Controlled Invariant-MPC: Enhancing Feasibility and Reducing Conservatism through Terminal CBF Constraint in Safety-Critical Control",
+  "published": "2026-05-07"
+ },
+ {
+  "q": "all:\"model predictive control\" AND (all:",
+  "id": "2604.21030v2",
+  "title": "A Systematic Review and Taxonomy of Reinforcement Learning-Model Predictive Control Integration for Linear Systems",
+  "published": "2026-04-22"
+ },
+ {
+  "q": "all:\"Kalman filter\" AND (all:tutorial OR",
+  "id": "2609.27506v1",
+  "title": "Conformalized Kalman Filters for State Estimation with Trustworthy Confidence Regions",
+  "published": "2026-09-23"
+ },
+ {
+  "q": "all:\"Kalman filter\" AND (all:tutorial OR",
+  "id": "2608.11798v1",
+  "title": "TRACE: A Modular Framework for RIS-Assisted Channel Estimation and Differential Channel-Aware Reconfiguration",
+  "published": "2026-08-12"
+ },
+ {
+  "q": "all:\"Kalman filter\" AND (all:tutorial OR",
+  "id": "2609.16254v1",
+  "title": "Comparative Analysis on Inertia Estimation Algorithms (IEAs) in Providing Proper Frequency Response",
+  "published": "2026-08-03"
+ },
+ {
+  "q": "all:\"Kalman filter\" AND (all:tutorial OR",
+  "id": "2606.10192v1",
+  "title": "Submodular Optimization with Applications to Decision and Control",
+  "published": "2026-06-08"
+ },
+ {
+  "q": "all:\"Kalman filter\" AND (all:tutorial OR",
+  "id": "2605.02306v1",
+  "title": "Natural Gradient Bayesian Filtering: Geometry-Aware Filter for Dynamical Systems",
+  "published": "2026-05-04"
+ },
+ {
+  "q": "all:\"Kalman filter\" AND (all:tutorial OR",
+  "id": "2604.21302v1",
+  "title": "Scalable Sensor Scheduling for Continuous-Discrete Kalman Filtering via Information-Form Surrogate Dynamics",
+  "published": "2026-04-23"
+ },
+ {
+  "q": "all:\"Kalman filter\" AND (all:tutorial OR",
+  "id": "2601.20561v2",
+  "title": "Tilt-based Aberration Estimation in Transmission Electron Microscopy",
+  "published": "2026-01-28"
+ },
+ {
+  "q": "all:\"Kalman filter\" AND (all:tutorial OR",
+  "id": "2512.20354v2",
+  "title": "A Tutorial to Multirate Extended Kalman Filter Design for Monitoring of Agricultural Anaerobic Digestion Plants",
+  "published": "2025-12-23"
+ },
+ {
+  "q": "all:\"Kalman filter\" AND (all:tutorial OR",
+  "id": "2511.22673v1",
+  "title": "Advances in electromagnetic techniques for subsurface infrastructure detection: A comprehensive review of methods, challenges, and innovations",
+  "published": "2025-11-27"
+ },
+ {
+  "q": "all:\"Kalman filter\" AND (all:tutorial OR",
+  "id": "2510.24228v1",
+  "title": "A comparison between joint and dual UKF implementations for state estimation and leak localization in water distribution networks",
+  "published": "2025-10-28"
+ },
+ {
+  "q": "all:\"Kalman filter\" AND (all:tutorial OR",
+  "id": "2509.20141v1",
+  "title": "Digital Signal Processing from Classical Coherent Systems to Continuous-Variable QKD: A Review of Cross-Domain Techniques, Applications, and Challenges",
+  "published": "2025-09-24"
+ },
+ {
+  "q": "all:\"Kalman filter\" AND (all:tutorial OR",
+  "id": "2508.18246v3",
+  "title": "Flight-Ready Precise and Robust Carrier-Phase GNSS Navigation Software for Distributed Space Systems",
+  "published": "2025-08-25"
+ },
+ {
+  "q": "all:\"adaptive control\" AND (all:survey O",
+  "id": "2610.30101v1",
+  "title": "Machine Learning-Enabled Wireless Power Transfer: A Task-Oriented Review of Structural Optimization, State and Parameter Estimation, and Adaptive Control",
+  "published": "2026-10-21"
+ },
+ {
+  "q": "all:\"adaptive control\" AND (all:survey O",
+  "id": "2608.19907v1",
+  "title": "Spike-based Belief Propagation in Nonlinear Dynamical Systems",
+  "published": "2026-08-20"
+ },
+ {
+  "q": "all:\"adaptive control\" AND (all:survey O",
+  "id": "2608.11798v1",
+  "title": "TRACE: A Modular Framework for RIS-Assisted Channel Estimation and Differential Channel-Aware Reconfiguration",
+  "published": "2026-08-12"
+ },
+ {
+  "q": "all:\"adaptive control\" AND (all:survey O",
+  "id": "2605.08525v2",
+  "title": "Model-Reference Adaptive Flight Control of a 95-mg Insect-Scale Flapping-Wing Aerial Robot",
+  "published": "2026-05-08"
+ },
+ {
+  "q": "all:\"adaptive control\" AND (all:survey O",
+  "id": "2604.21030v2",
+  "title": "A Systematic Review and Taxonomy of Reinforcement Learning-Model Predictive Control Integration for Linear Systems",
+  "published": "2026-04-22"
+ },
+ {
+  "q": "all:\"adaptive control\" AND (all:survey O",
+  "id": "2509.07304v1",
+  "title": "Distributed Leader-Follower Consensus for Uncertain Multiagent Systems with Time-Triggered Switching of the Communication Network",
+  "published": "2025-09-09"
+ },
+ {
+  "q": "all:\"adaptive control\" AND (all:survey O",
+  "id": "2505.03815v1",
+  "title": "Towards Cognitive Collaborative Robots: Semantic-Level Integration and Explainable Control for Human-Centric Cooperation",
+  "published": "2025-05-02"
+ },
+ {
+  "q": "all:\"adaptive control\" AND (all:survey O",
+  "id": "2505.00210v2",
+  "title": "Generative Machine Learning in Adaptive Control of Dynamic Manufacturing Processes: A Review",
+  "published": "2025-04-30"
+ },
+ {
+  "q": "all:\"adaptive control\" AND (all:survey O",
+  "id": "2504.08210v2",
+  "title": "Optimizing Power Grid Topologies with Reinforcement Learning: A Survey of Methods and Challenges",
+  "published": "2025-04-11"
+ },
+ {
+  "q": "all:\"adaptive control\" AND (all:survey O",
+  "id": "2408.13271v1",
+  "title": "Survey Paper on Control Barrier Functions",
+  "published": "2024-08-17"
+ },
+ {
+  "q": "all:\"adaptive control\" AND (all:survey O",
+  "id": "2407.11069v2",
+  "title": "Combining Federated Learning and Control: A Survey",
+  "published": "2024-07-12"
+ },
+ {
+  "q": "all:\"adaptive control\" AND (all:survey O",
+  "id": "2403.17142v2",
+  "title": "Approximation with Random Shallow ReLU Networks with Applications to Model Reference Adaptive Control",
+  "published": "2024-03-25"
+ },
+ {
+  "q": "all:\"robust control\" AND (all:survey OR ",
+  "id": "2608.22204v1",
+  "title": "Antagonistic Control: Foundations, Scalability and Nonlinearity",
+  "published": "2026-08-23"
+ },
+ {
+  "q": "all:\"robust control\" AND (all:survey OR ",
+  "id": "2604.07644v1",
+  "title": "Safe Large-Scale Robust Nonlinear MPC in Milliseconds via Reachability-Constrained System Level Synthesis on the GPU",
+  "published": "2026-04-08"
+ },
+ {
+  "q": "all:\"robust control\" AND (all:survey OR ",
+  "id": "2603.28891v1",
+  "title": "H Infinity Minimal Destabilizing Feedback for Vulnerability Analysis and Attack Design of Nonlinear Systems",
+  "published": "2026-03-30"
+ },
+ {
+  "q": "all:\"robust control\" AND (all:survey OR ",
+  "id": "2512.23505v1",
+  "title": "Robust Deep Learning Control with Guaranteed Performance for Safe and Reliable Robotization in Heavy-Duty Machinery",
+  "published": "2025-12-29"
+ },
+ {
+  "q": "all:\"robust control\" AND (all:survey OR ",
+  "id": "2511.17865v1",
+  "title": "Generative Model Predictive Control in Manufacturing Processes: A Review",
+  "published": "2025-11-22"
+ },
+ {
+  "q": "all:\"robust control\" AND (all:survey OR ",
+  "id": "2511.13260v1",
+  "title": "Robust Control Design Using a Hybrid-Gain Finite-Time Sliding-Mode Controller",
+  "published": "2025-11-17"
+ },
+ {
+  "q": "all:\"robust control\" AND (all:survey OR ",
+  "id": "2507.23139v2",
+  "title": "Robust Control Design and Analysis Based on Lifting Linearization of Nonlinear Systems Under Uncertain Initial Conditions",
+  "published": "2025-07-30"
+ },
+ {
+  "q": "all:\"robust control\" AND (all:survey OR ",
+  "id": "2501.09889v1",
+  "title": "Learning port maneuvers from data for automatic guidance of Unmanned Surface Vehicles",
+  "published": "2025-01-17"
+ },
+ {
+  "q": "all:\"robust control\" AND (all:survey OR ",
+  "id": "2412.13082v1",
+  "title": "Polyhedral Control Design: Theory and Methods",
+  "published": "2024-12-17"
+ },
+ {
+  "q": "all:\"robust control\" AND (all:survey OR ",
+  "id": "2405.01753v2",
+  "title": "A Feedback Linearized Model Predictive Control Strategy for Input-Constrained Self-Driving Cars",
+  "published": "2024-05-02"
+ },
+ {
+  "q": "all:\"robust control\" AND (all:survey OR ",
+  "id": "2305.02066v1",
+  "title": "A survey of modularized backstepping control design approaches to nonlinear ODE systems",
+  "published": "2023-05-03"
+ },
+ {
+  "q": "all:\"robust control\" AND (all:survey OR ",
+  "id": "2301.06073v1",
+  "title": "Machine Learning for Process Control of (Bio)Chemical Processes",
+  "published": "2023-01-15"
+ },
+ {
+  "q": "all:\"nonlinear control\" Lyapunov AND (al",
+  "id": "2610.35319v1",
+  "title": "Quadratic Returns for a Moving Water Tank: An Explicit Right Inverse and a Sylvester Representation",
+  "published": "2026-10-26"
+ },
+ {
+  "q": "all:\"nonlinear control\" Lyapunov AND (al",
+  "id": "2610.34454v1",
+  "title": "Nonlinear Control of Aerial Manipulator",
+  "published": "2026-10-25"
+ },
+ {
+  "q": "all:\"nonlinear control\" Lyapunov AND (al",
+  "id": "2610.34316v1",
+  "title": "Recursive Neighbor Pruning: Decentralized Community Detection with Certified Behavior from Saturated Opinion Dynamics",
+  "published": "2026-10-25"
+ },
+ {
+  "q": "all:\"nonlinear control\" Lyapunov AND (al",
+  "id": "2610.31488v1",
+  "title": "Barrier Function Control for the Interconnection of DC Electronic Loads to Utility Grid",
+  "published": "2026-10-22"
+ },
+ {
+  "q": "all:\"nonlinear control\" Lyapunov AND (al",
+  "id": "2610.23809v1",
+  "title": "Lyapunov Exponents in Power Systems: A Survey of Theory and Applications in Stability, Control, Forecasting, and Protection",
+  "published": "2026-10-16"
+ },
+ {
+  "q": "all:\"nonlinear control\" Lyapunov AND (al",
+  "id": "2610.17604v1",
+  "title": "Stability Transfer for Autonomous Systems via Higher-Order Taylor-Truncated Lyapunov Certificates",
+  "published": "2026-10-13"
+ },
+ {
+  "q": "all:\"nonlinear control\" Lyapunov AND (al",
+  "id": "2610.17330v1",
+  "title": "STATCOM-Based Flicker Mitigation in Electric Arc Furnace Systems Using DQ-PI and Lyapunov-Based Nonlinear Control",
+  "published": "2026-10-12"
+ },
+ {
+  "q": "all:\"nonlinear control\" Lyapunov AND (al",
+  "id": "2610.14537v1",
+  "title": "Learn the Dynamics, Enforce the Physics: Generative Latent Operators for High-Dimensional Beam Evolution",
+  "published": "2026-10-10"
+ },
+ {
+  "q": "all:\"nonlinear control\" Lyapunov AND (al",
+  "id": "2610.14385v1",
+  "title": "Deep learning from a control vantage point",
+  "published": "2026-10-09"
+ },
+ {
+  "q": "all:\"nonlinear control\" Lyapunov AND (al",
+  "id": "2610.11900v1",
+  "title": "Reach-Stabilize Control of Control-Affine Systems with Unknown Affine Parameters",
+  "published": "2026-10-08"
+ },
+ {
+  "q": "all:\"nonlinear control\" Lyapunov AND (al",
+  "id": "2610.05797v1",
+  "title": "Partial-State Deadzone-Adapted Disturbance Suppression Control For Strict-Feedback Systems",
+  "published": "2026-10-05"
+ },
+ {
+  "q": "all:\"nonlinear control\" Lyapunov AND (al",
+  "id": "2610.05689v1",
+  "title": "Toward AI Trustworthiness: Finding Analytically Proven Forward-Invariant Sets for AI-Controlled Systems",
+  "published": "2026-10-05"
+ },
+ {
+  "q": "all:\"reinforcement learning\" control saf",
+  "id": "2610.37666v1",
+  "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+  "published": "2026-10-27"
+ },
+ {
+  "q": "all:\"reinforcement learning\" control saf",
+  "id": "2610.37664v1",
+  "title": "Improving cosmological distance measurements at high redshift using Lyman-Alpha forest BAO reconstruction",
+  "published": "2026-10-27"
+ },
+ {
+  "q": "all:\"reinforcement learning\" control saf",
+  "id": "2610.37658v1",
+  "title": "When Should We Intervene at Test Time?",
+  "published": "2026-10-27"
+ },
+ {
+  "q": "all:\"reinforcement learning\" control saf",
+  "id": "2610.37652v1",
+  "title": "Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well",
+  "published": "2026-10-27"
+ },
+ {
+  "q": "all:\"reinforcement learning\" control saf",
+  "id": "2610.37648v1",
+  "title": "Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis",
+  "published": "2026-10-27"
+ },
+ {
+  "q": "all:\"reinforcement learning\" control saf",
+  "id": "2610.37647v1",
+  "title": "MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control",
+  "published": "2026-10-27"
+ },
+ {
+  "q": "all:\"reinforcement learning\" control saf",
+  "id": "2610.37642v1",
+  "title": "Metacognitive Decoding: Efficient Inference for Diffusion Language Agents",
+  "published": "2026-10-27"
+ },
+ {
+  "q": "all:\"reinforcement learning\" control saf",
+  "id": "2610.37632v1",
+  "title": "A heuristic for optimal coordination of autonomous vehicles: real-time algorithms",
+  "published": "2026-10-27"
+ },
+ {
+  "q": "all:\"reinforcement learning\" control saf",
+  "id": "2610.37630v1",
+  "title": "Approximate Counting for Mixed $p$-Spin Glasses in Weak External Fields via Cluster Expansion",
+  "published": "2026-10-27"
+ },
+ {
+  "q": "all:\"reinforcement learning\" control saf",
+  "id": "2610.37629v1",
+  "title": "Lower- and upper-$C^2$ integrands: a structured class of functions for stochastic nonconvex optimization",
+  "published": "2026-10-27"
+ },
+ {
+  "q": "all:\"reinforcement learning\" control saf",
+  "id": "2610.37626v1",
+  "title": "Know, then Draw: A New Learning Paradigm for Visual Generation",
+  "published": "2026-10-27"
+ },
+ {
+  "q": "all:\"reinforcement learning\" control saf",
+  "id": "2610.37622v1",
+  "title": "Linear-quadratic mean field games with Volterra dynamics",
+  "published": "2026-10-27"
+ },
+ {
+  "q": "all:\"PLC\" OR all:\"programmable logic con",
+  "id": "2610.35308v1",
+  "title": "Quantitative Reachability Properties Beyond Decisiveness",
+  "published": "2026-10-26"
+ },
+ {
+  "q": "all:\"PLC\" OR all:\"programmable logic con",
+  "id": "2610.29398v1",
+  "title": "Region-Aware Multi-View Inspection Using Deep Learning and Domain-Informed Decision Fusion",
+  "published": "2026-10-21"
+ },
+ {
+  "q": "all:\"PLC\" OR all:\"programmable logic con",
+  "id": "2610.28160v2",
+  "title": "From Code Generator to Engineering Companion: A Plant-aware Agent for PLC Programming",
+  "published": "2026-10-20"
+ },
+ {
+  "q": "all:\"PLC\" OR all:\"programmable logic con",
+  "id": "2610.28675v1",
+  "title": "Compilation Is Not Correctness: Scan-by-Scan Evaluation of LLM-Generated PLC Programs",
+  "published": "2026-10-19"
+ },
+ {
+  "q": "all:\"PLC\" OR all:\"programmable logic con",
+  "id": "2610.19067v1",
+  "title": "Tread: A Visuo-Inertial Framework for Terrain and Locomotion Context-Aware Gait-Phase and Speed Estimation in Wearable Robotics",
+  "published": "2026-10-13"
+ },
+ {
+  "q": "all:\"PLC\" OR all:\"programmable logic con",
+  "id": "2610.18426v1",
+  "title": "Evidence-Governed Deployment Readiness for Networked Agents on Industrial OT Infrastructure",
+  "published": "2026-10-13"
+ },
+ {
+  "q": "all:\"PLC\" OR all:\"programmable logic con",
+  "id": "2610.11768v1",
+  "title": "Narrow and Deep: An Ontology Tower as the Knowledge of an LLM Agent for an Industrial Equipment System",
+  "published": "2026-10-08"
+ },
+ {
+  "q": "all:\"PLC\" OR all:\"programmable logic con",
+  "id": "2610.02982v1",
+  "title": "PLCWorld: Benchmarking LLM-Generated PLC Programs in Closed-Loop Plant Simulation",
+  "published": "2026-10-02"
+ },
+ {
+  "q": "all:\"PLC\" OR all:\"programmable logic con",
+  "id": "2610.01364v1",
+  "title": "LLM-Driven Multi-Agent Control for Skill-Based Smart Manufacturing",
+  "published": "2026-10-01"
+ },
+ {
+  "q": "all:\"PLC\" OR all:\"programmable logic con",
+  "id": "2609.38528v1",
+  "title": "RISK: Auditing Industrial Control Systems for Too-Late-to-Recover Vulnerabilities",
+  "published": "2026-09-29"
+ },
+ {
+  "q": "all:\"PLC\" OR all:\"programmable logic con",
+  "id": "2609.36589v1",
+  "title": "Non-Linear Pricing Restores Tractability for a Data Seller",
+  "published": "2026-09-29"
+ },
+ {
+  "q": "all:\"PLC\" OR all:\"programmable logic con",
+  "id": "2610.00258v1",
+  "title": "A Kafka-Centric Communication Fabric for Near-Real-Time, Cloud-Replicated Closed-Loop Manufacturing Process Control",
+  "published": "2026-09-24"
+ },
+ {
+  "q": "all:\"sampled-data control\" OR all:\"digit",
+  "id": "2610.37452v1",
+  "title": "Electric-Field Induction Motor with Discrete Circuit Elements and Improved Rotor Dynamics",
+  "published": "2026-10-27"
+ },
+ {
+  "q": "all:\"sampled-data control\" OR all:\"digit",
+  "id": "2610.36773v1",
+  "title": "Verifying Control Invariance of H-Polytopes is coNP-Complete",
+  "published": "2026-10-27"
+ },
+ {
+  "q": "all:\"sampled-data control\" OR all:\"digit",
+  "id": "2610.36252v1",
+  "title": "Distribution Grid Reconfiguration and Restoration via Linearizable Multi-phase Power Flow Modeling",
+  "published": "2026-10-26"
+ },
+ {
+  "q": "all:\"sampled-data control\" OR all:\"digit",
+  "id": "2610.35569v1",
+  "title": "ADACT: PDE-Constrained Thermal Hardware/Software Co-Design Adjoint-Driven Optimal Control via Finite Difference Discretization",
+  "published": "2026-10-26"
+ },
+ {
+  "q": "all:\"sampled-data control\" OR all:\"digit",
+  "id": "2610.34895v1",
+  "title": "Compositional Approximately Bisimilar Abstractions of Stochastic Interconnected Systems",
+  "published": "2026-10-26"
+ },
+ {
+  "q": "all:\"sampled-data control\" OR all:\"digit",
+  "id": "2610.34670v1",
+  "title": "Compound Environmental Operating Stress and Cyber-Induced Pump Disruption in Water Distribution Networks: Matched Hydraulic Impacts, Service Continuity, and Sustained Recovery",
+  "published": "2026-10-26"
+ },
+ {
+  "q": "all:\"sampled-data control\" OR all:\"digit",
+  "id": "2610.34197v1",
+  "title": "Necessary and Sufficient Conditions for Adaptive Stabilizability of Continuous-Time Markov Jump Linear Stochastic Systems",
+  "published": "2026-10-25"
+ },
+ {
+  "q": "all:\"sampled-data control\" OR all:\"digit",
+  "id": "2610.34095v1",
+  "title": "Optimal Linear Filtering of Markov Jump Systems",
+  "published": "2026-10-25"
+ },
+ {
+  "q": "all:\"sampled-data control\" OR all:\"digit",
+  "id": "2610.33562v1",
+  "title": "Hybrid-time PINNs: Discontinuity-Aware Physics-Informed Neural Networks for Learning Hybrid Dynamical Systems",
+  "published": "2026-10-24"
+ },
+ {
+  "q": "all:\"sampled-data control\" OR all:\"digit",
+  "id": "2610.32898v1",
+  "title": "Polyhedral RIS Architecture with Quantum-Assisted Facet Selection for Uniform Coverage",
+  "published": "2026-10-23"
+ },
+ {
+  "q": "all:\"sampled-data control\" OR all:\"digit",
+  "id": "2610.32778v1",
+  "title": "Density control of large-scale multi-agent systems via tuning of agent interactions",
+  "published": "2026-10-23"
+ },
+ {
+  "q": "all:\"sampled-data control\" OR all:\"digit",
+  "id": "2610.32051v1",
+  "title": "A Dynamic Inventory Rationing Model for Last-Mile Delivery of Medication in Liberia's Community Health Program",
+  "published": "2026-10-23"
+ }
+]

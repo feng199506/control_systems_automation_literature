@@ -1,0 +1,63 @@
+{
+ "id": "CS09X02",
+ "started": "2026-10-29T18:16:36Z",
+ "dropped_large_files": [],
+ "dropped_count": 0,
+ "download_url": "https://github.com/python-control/python-control.git",
+ "ref": "(默认分支)",
+ "commit": "bfe9380eedcfbc6e57c0a7117e77e633575e3a18",
+ "commit_date": "2026-10-27T20:05:01-07:00",
+ "sparse_paths": [
+  "examples",
+  "README.md",
+  "LICENSE"
+ ],
+ "verify": "通过：81 个文件（HTML 0，文档源 41）",
+ "info": {
+  "files": 81,
+  "html": 0,
+  "md_rst_ipynb": 41,
+  "top_ext": [
+   [
+    "ipynb",
+    40
+   ],
+   [
+    "py",
+    31
+   ],
+   [
+    "",
+    3
+   ],
+   [
+    "sh",
+    2
+   ],
+   [
+    "png",
+    2
+   ],
+   [
+    "rst",
+    1
+   ],
+   [
+    "gitignore",
+    1
+   ],
+   [
+    "toml",
+    1
+   ]
+  ],
+  "license_files": [
+   "python_control_examples_en/LICENSE"
+  ]
+ },
+ "bytes": 9031680,
+ "sha256": "d1be07c48c6d9b418fc4945dcdd3a6a0d2728bed7151b99bb30a624eb2bd1530",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:16:38Z"
+}

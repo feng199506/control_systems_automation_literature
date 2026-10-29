@@ -1,0 +1,19 @@
+{
+ "id": "CS05P02",
+ "started": "2026-10-29T18:18:45Z",
+ "download_url": "https://arxiv.org/pdf/2608.17902v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2608.17902v1",
+ "http_last_modified": "Wed, 19 Aug 2026 01:07:50 GMT",
+ "verify": "通过：pypdf 可解析 16 页；标题词匹配 1.0",
+ "info": {
+  "pages": 16,
+  "meta_title": "Adaptive Model Predictive Control for Ground Vehicles: Review and Demonstrative Implementation",
+  "body_sample_chars": 20293,
+  "title_match": 1.0
+ },
+ "bytes": 242957,
+ "sha256": "ecd651b0ae1aa6ba62b3f0797c209ad8b0022a0c5d733642e07837f88326b286",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:18:48Z"
+}

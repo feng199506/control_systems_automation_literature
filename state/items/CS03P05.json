@@ -1,0 +1,19 @@
+{
+ "id": "CS03P05",
+ "started": "2026-10-29T18:20:29Z",
+ "download_url": "https://arxiv.org/pdf/2610.34895v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2610.34895v1",
+ "http_last_modified": "Tue, 27 Oct 2026 02:03:55 GMT",
+ "verify": "通过：pypdf 可解析 30 页；标题词匹配 1.0",
+ "info": {
+  "pages": 30,
+  "meta_title": "Compositional Approximately Bisimilar Abstractions of Stochastic Interconnected Systems",
+  "body_sample_chars": 10368,
+  "title_match": 1.0
+ },
+ "bytes": 851848,
+ "sha256": "b2d6d9bb6daaf7981aaa24b5c2ea6bbce742705ebe954cd0659f94bd7bc28a34",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:20:33Z"
+}

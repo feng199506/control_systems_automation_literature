@@ -1,0 +1,19 @@
+{
+ "id": "CS01B04",
+ "started": "2026-10-29T18:07:22Z",
+ "download_url": "https://ptolemy.berkeley.edu/books/leevaraiya/releases/LeeVaraiya_DigitalV2_04.pdf",
+ "final_url": "https://ptolemy.berkeley.edu/books/leevaraiya/releases/LeeVaraiya_DigitalV2_04.pdf",
+ "http_last_modified": "Tue, 17 Dec 2013 04:52:43 GMT",
+ "verify": "通过：pypdf 可解析 743 页；标题词匹配 1.0",
+ "info": {
+  "pages": 743,
+  "meta_title": "Embedded Systems",
+  "body_sample_chars": 3054,
+  "title_match": 1.0
+ },
+ "bytes": 9621089,
+ "sha256": "5155f7f84834b64fa98d810ee0db779da0224422b900fdb6c3ee46b47fa0926d",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:07:27Z"
+}

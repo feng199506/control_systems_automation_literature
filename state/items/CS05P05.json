@@ -1,0 +1,19 @@
+{
+ "id": "CS05P05",
+ "started": "2026-10-29T18:18:58Z",
+ "download_url": "https://arxiv.org/pdf/2511.17865v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2511.17865v1",
+ "http_last_modified": "Tue, 25 Nov 2025 01:26:45 GMT",
+ "verify": "通过：pypdf 可解析 24 页；标题词匹配 1.0",
+ "info": {
+  "pages": 24,
+  "meta_title": "Generative Model Predictive Control in Manufacturing Processes: A Review",
+  "body_sample_chars": 20655,
+  "title_match": 1.0
+ },
+ "bytes": 4495784,
+ "sha256": "a42ff34df89ad2e492dbbeec0e908e5385b9ff6b9ff4239262214015f53fbe80",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:19:01Z"
+}

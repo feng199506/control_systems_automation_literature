@@ -1,0 +1,19 @@
+{
+ "id": "CS08X01",
+ "started": "2026-10-29T18:49:24Z",
+ "download_url": "https://www.freertos.org/media/2018/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf",
+ "final_url": "https://www.freertos.org/media/2018/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf",
+ "http_last_modified": "Wed, 28 Oct 2026 11:15:55 GMT",
+ "verify": "通过：pypdf 可解析 399 页；标题词匹配 1.0",
+ "info": {
+  "pages": 399,
+  "meta_title": "",
+  "body_sample_chars": 5776,
+  "title_match": 1.0
+ },
+ "bytes": 4645020,
+ "sha256": "7e7e0ac9abe32d5a728cba8ee85ddf8f6f9bfc6adaf62bc29cc3c105e8d7aa2e",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:49:25Z"
+}

@@ -1,0 +1,66 @@
+{
+ "id": "CS09X05",
+ "started": "2026-10-29T18:39:16Z",
+ "wget_rc": -15,
+ "quota_hit": false,
+ "dropped_large_files": [],
+ "dropped_count": 0,
+ "download_url": "https://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl",
+ "mirror_scope": {
+  "start": [
+   "https://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl",
+   "https://apmonitor.com/pdc/index.php/Main/HomePage",
+   "https://apmonitor.com/pdc/index.php/Main/TCLab"
+  ],
+  "include": [
+   "/pdc"
+  ],
+  "level": "2"
+ },
+ "verify": "通过：159 个文件（HTML 119，文档源 1）",
+ "info": {
+  "files": 159,
+  "html": 119,
+  "md_rst_ipynb": 1,
+  "top_ext": [
+   [
+    "html",
+    119
+   ],
+   [
+    "gif",
+    18
+   ],
+   [
+    "png",
+    13
+   ],
+   [
+    "css",
+    3
+   ],
+   [
+    "js",
+    3
+   ],
+   [
+    "js?st=1751160074",
+    1
+   ],
+   [
+    "jpg",
+    1
+   ],
+   [
+    "txt",
+    1
+   ]
+  ],
+  "license_files": []
+ },
+ "bytes": 17213440,
+ "sha256": "c3427526f0fa2ac6e9d59839f6356c291fa40e3ea061757bae01f2a6e6daf190",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:43:43Z"
+}

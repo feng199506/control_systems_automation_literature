@@ -1,0 +1,19 @@
+{
+ "id": "CS03P04",
+ "started": "2026-10-29T18:20:26Z",
+ "download_url": "https://arxiv.org/pdf/2610.34095v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2610.34095v1",
+ "http_last_modified": "Tue, 27 Oct 2026 01:11:09 GMT",
+ "verify": "通过：pypdf 可解析 26 页；标题词匹配 1.0",
+ "info": {
+  "pages": 26,
+  "meta_title": "Optimal Linear Filtering of Markov Jump Systems",
+  "body_sample_chars": 19971,
+  "title_match": 1.0
+ },
+ "bytes": 865258,
+ "sha256": "42dd39e3c20d748dd727496da3878c5cbd9a5d6b552098f5132b3c0720a7c354",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:20:29Z"
+}

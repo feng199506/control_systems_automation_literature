@@ -1,0 +1,19 @@
+{
+ "id": "CS05P11",
+ "started": "2026-10-29T18:19:22Z",
+ "download_url": "https://arxiv.org/pdf/2403.17142v2.pdf",
+ "final_url": "https://arxiv.org/pdf/2403.17142v2",
+ "http_last_modified": "Thu, 18 Apr 2024 01:01:51 GMT",
+ "verify": "通过：pypdf 可解析 8 页；标题词匹配 1.0",
+ "info": {
+  "pages": 8,
+  "meta_title": "",
+  "body_sample_chars": 12019,
+  "title_match": 1.0
+ },
+ "bytes": 450504,
+ "sha256": "3ab6fae75d9f85b21f4c894559ce89ed242a6e216ee20561716a8e077dd4225c",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:19:25Z"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "CS05P14",
+ "started": "2026-10-29T18:19:33Z",
+ "download_url": "https://arxiv.org/pdf/2610.17604v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2610.17604v1",
+ "http_last_modified": "Wed, 14 Oct 2026 04:09:34 GMT",
+ "verify": "通过：pypdf 可解析 7 页；标题词匹配 1.0",
+ "info": {
+  "pages": 7,
+  "meta_title": "Stability Transfer for Autonomous Systems via Higher-Order Taylor-Truncated Lyapunov Certificates",
+  "body_sample_chars": 14643,
+  "title_match": 1.0
+ },
+ "bytes": 590014,
+ "sha256": "b36803f9dc07580ac44733fe458e705f1c413bcdae80ceb9b2cdf9890a0aa73e",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:19:38Z"
+}

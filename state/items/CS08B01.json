@@ -1,0 +1,19 @@
+{
+ "id": "CS08B01",
+ "started": "2026-10-29T18:24:34Z",
+ "download_url": "https://www2.mvcc.edu/users/faculty/jfiore/Micro/EmbeddedControllers.pdf",
+ "final_url": "https://www2.mvcc.edu/users/faculty/jfiore/Micro/EmbeddedControllers.pdf",
+ "http_last_modified": "Fri, 07 May 2021 13:25:32 GMT",
+ "verify": "通过：pypdf 可解析 166 页；标题词匹配 1.0",
+ "info": {
+  "pages": 166,
+  "meta_title": "Embedded Controllers Using C and Arduino",
+  "body_sample_chars": 7390,
+  "title_match": 1.0
+ },
+ "bytes": 2429078,
+ "sha256": "6b3f8aeade243145e84ac1269131f6c4d135201e5f091ee3483fd3c6429e22e1",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:24:43Z"
+}

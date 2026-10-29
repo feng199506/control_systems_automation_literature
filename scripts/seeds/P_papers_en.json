@@ -1,0 +1,2701 @@
+[
+ {
+  "id": "CS02P01",
+  "cat": "02",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Anti-Windup in PID Control: Review, Analysis, and New Tuning Directions",
+  "authors": "Malena Caparroz; Kristina Soltesz; Tore Hägglund; José Luis Guzmán",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2606.01959v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "PID、抗饱和、调参",
+  "source": "https://arxiv.org/abs/2606.01959",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "PID、抗饱和、调参",
+  "order": 1,
+  "out": "02_classical_control/papers/2026_Caparroz_260601959_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2606.01959v1.pdf",
+    "https://arxiv.org/pdf/2606.01959.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Anti",
+    "Windup",
+    "PID",
+    "Control",
+    "Review",
+    "Analysis"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-06-01",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2606.01959",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS02P02",
+  "cat": "02",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Review of meta-heuristic optimization algorithms to tune the PID controller parameters for automatic voltage regulator",
+  "authors": "Md. Rayid Hasan Mojumder; Naruttam Kumar Roy",
+  "school": "",
+  "year": "2024",
+  "version": "arXiv:2409.00538v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "PID 调参、元启发式综述",
+  "source": "https://arxiv.org/abs/2409.00538",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "PID 调参、元启发式综述",
+  "order": 2,
+  "out": "02_classical_control/papers/2024_Mojumder_240900538_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2409.00538v1.pdf",
+    "https://arxiv.org/pdf/2409.00538.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Review",
+    "meta",
+    "heuristic",
+    "optimization",
+    "algorithms",
+    "tune"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2024-08-31",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2409.00538",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS02P03",
+  "cat": "02",
+  "cross": [
+   "05"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Robust Data-Driven Controller Synthesis from Sampled and Uncertain Frequency Response Estimates using Integral Quadratic Constraints",
+  "authors": "Luuk Marceau Spin; Maurice W. P. M. H. Heemels; Nathan van de Wouw; Roland Toth",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2610.20248v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "频率响应、IQC、数据驱动鲁棒",
+  "source": "https://arxiv.org/abs/2610.20248",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "频率响应、IQC、数据驱动鲁棒",
+  "order": 3,
+  "out": "02_classical_control/papers/2026_Spin_261020248_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2610.20248v1.pdf",
+    "https://arxiv.org/pdf/2610.20248.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Robust",
+    "Data",
+    "Driven",
+    "Controller",
+    "Synthesis",
+    "Sampled"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-10-14",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2610.20248",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS03P01",
+  "cat": "03",
+  "cross": [
+   "05"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Polyhedral Control Design: Theory and Methods",
+  "authors": "Boris Houska; Matthias A. Müller; Mario E. Villanueva",
+  "school": "",
+  "year": "2024",
+  "version": "arXiv:2412.13082v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "多面体控制、状态反馈、不变集",
+  "source": "https://arxiv.org/abs/2412.13082",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "多面体控制、状态反馈、不变集",
+  "order": 1,
+  "out": "03_modern_control/papers/2024_Houska_241213082_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2412.13082v1.pdf",
+    "https://arxiv.org/pdf/2412.13082.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Polyhedral",
+    "Control",
+    "Design",
+    "Theory",
+    "Methods"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2024-12-17",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2412.13082",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS03P02",
+  "cat": "03",
+  "cross": [
+   "05"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Antagonistic Control: Foundations, Scalability and Nonlinearity",
+  "authors": "Sribalaji C. Anand; André M. H. Teixeira",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2608.22204v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "对抗控制、可扩展性、非线性",
+  "source": "https://arxiv.org/abs/2608.22204",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "对抗控制、可扩展性、非线性",
+  "order": 2,
+  "out": "03_modern_control/papers/2026_Anand_260822204_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2608.22204v1.pdf",
+    "https://arxiv.org/pdf/2608.22204.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Antagonistic",
+    "Control",
+    "Foundations",
+    "Scalability",
+    "Nonlinearity"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-08-23",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2608.22204",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS03P03",
+  "cat": "03",
+  "cross": [
+   "05"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Verifying Control Invariance of H-Polytopes is coNP-Complete",
+  "authors": "Mario Eduardo Villanueva; Boris Houska",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2610.36773v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "控制不变性、多面体、计算复杂性",
+  "source": "https://arxiv.org/abs/2610.36773",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "控制不变性、多面体、计算复杂性",
+  "order": 3,
+  "out": "03_modern_control/papers/2026_Villanueva_261036773_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2610.36773v1.pdf",
+    "https://arxiv.org/pdf/2610.36773.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Verifying",
+    "Control",
+    "Invariance",
+    "Polytopes",
+    "coNP",
+    "Complete"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-10-27",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2610.36773",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS04P01",
+  "cat": "04",
+  "cross": [
+   "06"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Control-Oriented System Identification: Classical, Learning, and Physics-Informed Approaches",
+  "authors": "S. Sivaranjani; Yuanyuan Shi; Nikolay Atanasov; Thai Duong; Jie Feng; Tim Martin; Yuezhu Xu; Vijay Gupta; Frank Allgöwer",
+  "school": "",
+  "year": "2025",
+  "version": "arXiv:2512.06315v2",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "控制导向系统辨识综述",
+  "source": "https://arxiv.org/abs/2512.06315",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "控制导向系统辨识综述",
+  "order": 1,
+  "out": "04_estimation_identification/papers/2025_Sivaranjani_251206315_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2512.06315v2.pdf",
+    "https://arxiv.org/pdf/2512.06315.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Control",
+    "Oriented",
+    "System",
+    "Identification",
+    "Classical",
+    "Learning"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2025-12-06",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2512.06315",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS04P02",
+  "cat": "04",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Fast Sampling for System Identification: Overcoming Noise, Offsets, and Closed-Loop Challenges with State Variable Filter",
+  "authors": "Ichiro Maruta; Toshiharu Sugie",
+  "school": "",
+  "year": "2025",
+  "version": "arXiv:2506.03650v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "辨识采样、噪声、闭环",
+  "source": "https://arxiv.org/abs/2506.03650",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "辨识采样、噪声、闭环",
+  "order": 2,
+  "out": "04_estimation_identification/papers/2025_Maruta_250603650_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2506.03650v1.pdf",
+    "https://arxiv.org/pdf/2506.03650.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Fast",
+    "Sampling",
+    "System",
+    "Identification",
+    "Overcoming",
+    "Noise"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2025-06-04",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2506.03650",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS04P03",
+  "cat": "04",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Beyond Prediction: Interval Neural Networks for Uncertainty-Aware System Identification",
+  "authors": "Mehmet Ali Ferah; Tufan Kumbasar",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2605.11460v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "系统辨识、区间神经网络、不确定性",
+  "source": "https://arxiv.org/abs/2605.11460",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "系统辨识、区间神经网络、不确定性",
+  "order": 3,
+  "out": "04_estimation_identification/papers/2026_Ferah_260511460_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2605.11460v1.pdf",
+    "https://arxiv.org/pdf/2605.11460.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Beyond",
+    "Prediction",
+    "Interval",
+    "Neural",
+    "Networks",
+    "Uncertainty"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-05-12",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2605.11460",
+   "doi": "10.1016/j.asoc.2026.11622"
+  }
+ },
+ {
+  "id": "CS04P04",
+  "cat": "04",
+  "cross": [
+   "03"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "LINOCS: Lookahead Inference of Networked Operators for Continuous Stability",
+  "authors": "Noga Mudrik; Eva Yezerets; Yenho Chen; Christopher Rozell; Adam Charles",
+  "school": "",
+  "year": "2024",
+  "version": "arXiv:2404.18267v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "网络化算子、连续稳定性、辨识",
+  "source": "https://arxiv.org/abs/2404.18267",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "网络化算子、连续稳定性、辨识",
+  "order": 4,
+  "out": "04_estimation_identification/papers/2024_Mudrik_240418267_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2404.18267v1.pdf",
+    "https://arxiv.org/pdf/2404.18267.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "LINOCS",
+    "Lookahead",
+    "Inference",
+    "Networked",
+    "Operators",
+    "Continuous"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2024-04-28",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2404.18267",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS04P05",
+  "cat": "04",
+  "cross": [
+   "02"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Pole-Zero Identification: Unveiling the Critical Dynamics of Microwave Circuits Beyond Stability Analysis",
+  "authors": "Juan-Mari Collantes; Libe Mori; Aitziber Anakabe; Nerea Otegi; Natanael Ayllon; Franco Ramirez; Vincent Armengaud; Geoffroy Soubercaze-Pun",
+  "school": "",
+  "year": "2025",
+  "version": "arXiv:2501.17544v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "零极点辨识、动态特性",
+  "source": "https://arxiv.org/abs/2501.17544",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "零极点辨识、动态特性",
+  "order": 5,
+  "out": "04_estimation_identification/papers/2025_Collantes_250117544_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2501.17544v1.pdf",
+    "https://arxiv.org/pdf/2501.17544.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Pole",
+    "Zero",
+    "Identification",
+    "Unveiling",
+    "Critical",
+    "Dynamics"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2025-01-29",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2501.17544",
+   "doi": "10.1109/MMM.2019.2909516"
+  }
+ },
+ {
+  "id": "CS04P06",
+  "cat": "04",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "A Tutorial to Multirate Extended Kalman Filter Design for Monitoring of Agricultural Anaerobic Digestion Plants",
+  "authors": "Simon Hellmann; Terrance Wilms; Stefan Streif; Soeren Weinrich",
+  "school": "",
+  "year": "2025",
+  "version": "arXiv:2512.20354v2",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "多速率 EKF 教程、状态估计",
+  "source": "https://arxiv.org/abs/2512.20354",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "多速率 EKF 教程、状态估计",
+  "order": 6,
+  "out": "04_estimation_identification/papers/2025_Hellmann_251220354_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2512.20354v2.pdf",
+    "https://arxiv.org/pdf/2512.20354.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Tutorial",
+    "Multirate",
+    "Extended",
+    "Kalman",
+    "Filter",
+    "Design"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2025-12-23",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2512.20354",
+   "doi": "10.1016/j.jprocont.2026.103703"
+  }
+ },
+ {
+  "id": "CS04P07",
+  "cat": "04",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Conformalized Kalman Filters for State Estimation with Trustworthy Confidence Regions",
+  "authors": "Olga Weisman; Nir Shlezinger; Bracha Laufer-Goldshtein",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2609.27506v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "Kalman、共形预测、置信域",
+  "source": "https://arxiv.org/abs/2609.27506",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "Kalman、共形预测、置信域",
+  "order": 7,
+  "out": "04_estimation_identification/papers/2026_Weisman_260927506_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2609.27506v1.pdf",
+    "https://arxiv.org/pdf/2609.27506.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Conformalized",
+    "Kalman",
+    "Filters",
+    "State",
+    "Estimation",
+    "Trustworthy"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-09-23",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2609.27506",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS04P08",
+  "cat": "04",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Natural Gradient Bayesian Filtering: Geometry-Aware Filter for Dynamical Systems",
+  "authors": "Chang Liu; Wenhan Cao; Zeju Sun; Tianyi Zhang; Jiayu Yuan; Yi Zeng; Ting Yuan; Yao Lyu; Wei Wu; Stephen Shing-Toung Yau; Shengbo Eben Li",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2605.02306v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "贝叶斯滤波、自然梯度",
+  "source": "https://arxiv.org/abs/2605.02306",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "贝叶斯滤波、自然梯度",
+  "order": 8,
+  "out": "04_estimation_identification/papers/2026_Liu_260502306_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2605.02306v1.pdf",
+    "https://arxiv.org/pdf/2605.02306.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Natural",
+    "Gradient",
+    "Bayesian",
+    "Filtering",
+    "Geometry",
+    "Aware"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-05-04",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2605.02306",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS04P09",
+  "cat": "04",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "A comparison between joint and dual UKF implementations for state estimation and leak localization in water distribution networks",
+  "authors": "Luis Romero-Ben; Paul Irofti; Florin Stoican; Vicenç Puig",
+  "school": "",
+  "year": "2025",
+  "version": "arXiv:2510.24228v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "UKF、联合/对偶估计",
+  "source": "https://arxiv.org/abs/2510.24228",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "UKF、联合/对偶估计",
+  "order": 9,
+  "out": "04_estimation_identification/papers/2025_Romero-Ben_251024228_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2510.24228v1.pdf",
+    "https://arxiv.org/pdf/2510.24228.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "comparison",
+    "between",
+    "joint",
+    "dual",
+    "UKF",
+    "implementations"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2025-10-28",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2510.24228",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS05P01",
+  "cat": "05",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Model Predictive Control of Wind Turbines: A Model-Oriented Review of Prediction Models, Control Objectives, and Nonlinear Aerodynamic Formulations",
+  "authors": "Roya Khalili-Amirabadi; Mohsen Jalaeian-Farimani; Mahdi Ghane",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2610.31295v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "MPC 综述、预测模型、约束",
+  "source": "https://arxiv.org/abs/2610.31295",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "MPC 综述、预测模型、约束",
+  "order": 1,
+  "out": "05_advanced_control/papers/2026_Khalili-Amirabadi_261031295_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2610.31295v1.pdf",
+    "https://arxiv.org/pdf/2610.31295.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Model",
+    "Predictive",
+    "Control",
+    "Wind",
+    "Turbines",
+    "Model"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-10-22",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2610.31295",
+   "doi": "10.65098/jimcs.01.2026.35.41"
+  }
+ },
+ {
+  "id": "CS05P02",
+  "cat": "05",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Adaptive Model Predictive Control for Ground Vehicles: Review and Demonstrative Implementation",
+  "authors": "Chetana Gadgil; Mahendra Singh Tomar",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2608.17902v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "自适应 MPC 综述",
+  "source": "https://arxiv.org/abs/2608.17902",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "自适应 MPC 综述",
+  "order": 2,
+  "out": "05_advanced_control/papers/2026_Gadgil_260817902_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2608.17902v1.pdf",
+    "https://arxiv.org/pdf/2608.17902.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Adaptive",
+    "Model",
+    "Predictive",
+    "Control",
+    "Ground",
+    "Vehicles"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-08-18",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2608.17902",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS05P03",
+  "cat": "05",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "MPC for nonlinear systems: a comparative review of discretization methods",
+  "authors": "Guido Sanchez; Marina Murillo; Lucas Genzelis; Nestor Deniz; Leonardo Giovanini",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2606.06642v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "非线性 MPC、离散化方法综述",
+  "source": "https://arxiv.org/abs/2606.06642",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "非线性 MPC、离散化方法综述",
+  "order": 3,
+  "out": "05_advanced_control/papers/2026_Sanchez_260606642_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2606.06642v1.pdf",
+    "https://arxiv.org/pdf/2606.06642.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "MPC",
+    "nonlinear",
+    "systems",
+    "comparative",
+    "review",
+    "discretization"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-06-04",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2606.06642",
+   "doi": "10.23919/RPIC.2017.8214333"
+  }
+ },
+ {
+  "id": "CS05P04",
+  "cat": "05",
+  "cross": [
+   "06"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "A Systematic Review and Taxonomy of Reinforcement Learning-Model Predictive Control Integration for Linear Systems",
+  "authors": "Mohsen Jalaeian Farimani; Roya Khalili Amirabadi; Davoud Nikkhouy; Malihe Abdolbaghi; Mahshad Rastegarmoghaddam; Shima Samadzadeh; Mahdi Ghane",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2604.21030v2",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "强化学习与 MPC 结合综述",
+  "source": "https://arxiv.org/abs/2604.21030",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "强化学习与 MPC 结合综述",
+  "order": 4,
+  "out": "05_advanced_control/papers/2026_Farimani_260421030_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2604.21030v2.pdf",
+    "https://arxiv.org/pdf/2604.21030.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Systematic",
+    "Review",
+    "Taxonomy",
+    "Reinforcement",
+    "Learning",
+    "Model"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-04-22",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2604.21030",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS05P05",
+  "cat": "05",
+  "cross": [
+   "07"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Generative Model Predictive Control in Manufacturing Processes: A Review",
+  "authors": "Suk Ki Lee; Ronnie F. P. Stone; Max Gao; Wenlong Zhang; Zhenghui Sha; Hyunwoong Ko",
+  "school": "",
+  "year": "2025",
+  "version": "arXiv:2511.17865v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "制造过程生成式 MPC 综述",
+  "source": "https://arxiv.org/abs/2511.17865",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "制造过程生成式 MPC 综述",
+  "order": 5,
+  "out": "05_advanced_control/papers/2025_Lee_251117865_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2511.17865v1.pdf",
+    "https://arxiv.org/pdf/2511.17865.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Generative",
+    "Model",
+    "Predictive",
+    "Control",
+    "Manufacturing",
+    "Processes"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2025-11-22",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2511.17865",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS05P06",
+  "cat": "05",
+  "cross": [
+   "03"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Maximal Controlled Invariant-MPC: Enhancing Feasibility and Reducing Conservatism through Terminal CBF Constraint in Safety-Critical Control",
+  "authors": "Tanmay Dokania; Yashwanth Kumar Nakka",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2605.05575v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "不变集 MPC、可行性",
+  "source": "https://arxiv.org/abs/2605.05575",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "不变集 MPC、可行性",
+  "order": 6,
+  "out": "05_advanced_control/papers/2026_Dokania_260505575_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2605.05575v1.pdf",
+    "https://arxiv.org/pdf/2605.05575.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Maximal",
+    "Controlled",
+    "Invariant",
+    "MPC",
+    "Enhancing",
+    "Feasibility"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-05-07",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2605.05575",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS05P07",
+  "cat": "05",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "A Feedback Linearized Model Predictive Control Strategy for Input-Constrained Self-Driving Cars",
+  "authors": "Cristian Tiriolo; Walter Lucia",
+  "school": "",
+  "year": "2024",
+  "version": "arXiv:2405.01753v2",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "反馈线性化 MPC、输入约束",
+  "source": "https://arxiv.org/abs/2405.01753",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "反馈线性化 MPC、输入约束",
+  "order": 7,
+  "out": "05_advanced_control/papers/2024_Tiriolo_240501753_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2405.01753v2.pdf",
+    "https://arxiv.org/pdf/2405.01753.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Feedback",
+    "Linearized",
+    "Model",
+    "Predictive",
+    "Control",
+    "Strategy"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2024-05-02",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2405.01753",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS05P08",
+  "cat": "05",
+  "cross": [
+   "03"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Robust Control Design and Analysis Based on Lifting Linearization of Nonlinear Systems Under Uncertain Initial Conditions",
+  "authors": "Sourav Sinha; Mazen Farhood",
+  "school": "",
+  "year": "2025",
+  "version": "arXiv:2507.23139v2",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "鲁棒控制、提升线性化",
+  "source": "https://arxiv.org/abs/2507.23139",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "鲁棒控制、提升线性化",
+  "order": 8,
+  "out": "05_advanced_control/papers/2025_Sinha_250723139_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2507.23139v2.pdf",
+    "https://arxiv.org/pdf/2507.23139.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Robust",
+    "Control",
+    "Design",
+    "Analysis",
+    "Based",
+    "Lifting"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2025-07-30",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2507.23139",
+   "doi": "10.1002/rnc.70301"
+  }
+ },
+ {
+  "id": "CS05P09",
+  "cat": "05",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Safe Large-Scale Robust Nonlinear MPC in Milliseconds via Reachability-Constrained System Level Synthesis on the GPU",
+  "authors": "Jeffrey Fang; Glen Chou",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2604.07644v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "鲁棒非线性 MPC、可达性、安全",
+  "source": "https://arxiv.org/abs/2604.07644",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "鲁棒非线性 MPC、可达性、安全",
+  "order": 9,
+  "out": "05_advanced_control/papers/2026_Fang_260407644_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2604.07644v1.pdf",
+    "https://arxiv.org/pdf/2604.07644.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Safe",
+    "Large",
+    "Scale",
+    "Robust",
+    "Nonlinear",
+    "MPC"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-04-08",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2604.07644",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS05P10",
+  "cat": "05",
+  "cross": [
+   "07"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Generative Machine Learning in Adaptive Control of Dynamic Manufacturing Processes: A Review",
+  "authors": "Suk Ki Lee; Hyunwoong Ko",
+  "school": "",
+  "year": "2025",
+  "version": "arXiv:2505.00210v2",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "制造过程自适应控制、生成模型综述",
+  "source": "https://arxiv.org/abs/2505.00210",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "制造过程自适应控制、生成模型综述",
+  "order": 10,
+  "out": "05_advanced_control/papers/2025_Lee_250500210_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2505.00210v2.pdf",
+    "https://arxiv.org/pdf/2505.00210.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Generative",
+    "Machine",
+    "Learning",
+    "Adaptive",
+    "Control",
+    "Dynamic"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2025-04-30",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2505.00210",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS05P11",
+  "cat": "05",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Approximation with Random Shallow ReLU Networks with Applications to Model Reference Adaptive Control",
+  "authors": "Andrew Lamperski; Tyler Lekang",
+  "school": "",
+  "year": "2024",
+  "version": "arXiv:2403.17142v2",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "MRAC、随机浅层网络逼近",
+  "source": "https://arxiv.org/abs/2403.17142",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "MRAC、随机浅层网络逼近",
+  "order": 11,
+  "out": "05_advanced_control/papers/2024_Lamperski_240317142_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2403.17142v2.pdf",
+    "https://arxiv.org/pdf/2403.17142.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Approximation",
+    "Random",
+    "Shallow",
+    "ReLU",
+    "Networks",
+    "Applications"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2024-03-25",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2403.17142",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS05P12",
+  "cat": "05",
+  "cross": [
+   "06"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Survey Paper on Control Barrier Functions",
+  "authors": "Promit Panja",
+  "school": "",
+  "year": "2024",
+  "version": "arXiv:2408.13271v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "控制障碍函数 CBF 综述、安全约束",
+  "source": "https://arxiv.org/abs/2408.13271",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "控制障碍函数 CBF 综述、安全约束",
+  "order": 12,
+  "out": "05_advanced_control/papers/2024_Panja_240813271_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2408.13271v1.pdf",
+    "https://arxiv.org/pdf/2408.13271.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Survey",
+    "Paper",
+    "Control",
+    "Barrier",
+    "Functions"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2024-08-17",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2408.13271",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS05P13",
+  "cat": "05",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Lyapunov Exponents in Power Systems: A Survey of Theory and Applications in Stability, Control, Forecasting, and Protection",
+  "authors": "Mohammad Almomani; Venkataramana Ajjarapu",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2610.23809v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "Lyapunov 指数、稳定性综述",
+  "source": "https://arxiv.org/abs/2610.23809",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "Lyapunov 指数、稳定性综述",
+  "order": 13,
+  "out": "05_advanced_control/papers/2026_Almomani_261023809_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2610.23809v1.pdf",
+    "https://arxiv.org/pdf/2610.23809.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Lyapunov",
+    "Exponents",
+    "Power",
+    "Systems",
+    "Survey",
+    "Theory"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-10-16",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2610.23809",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS05P14",
+  "cat": "05",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Stability Transfer for Autonomous Systems via Higher-Order Taylor-Truncated Lyapunov Certificates",
+  "authors": "Jose D. Hoyos; Zehui Lu; Shaoshuai Mou",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2610.17604v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "Lyapunov 证书、稳定性迁移",
+  "source": "https://arxiv.org/abs/2610.17604",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "Lyapunov 证书、稳定性迁移",
+  "order": 14,
+  "out": "05_advanced_control/papers/2026_Hoyos_261017604_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2610.17604v1.pdf",
+    "https://arxiv.org/pdf/2610.17604.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Stability",
+    "Transfer",
+    "Autonomous",
+    "Systems",
+    "via",
+    "Higher"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-10-13",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2610.17604",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS05P15",
+  "cat": "05",
+  "cross": [
+   "06"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Toward AI Trustworthiness: Finding Analytically Proven Forward-Invariant Sets for AI-Controlled Systems",
+  "authors": "Haoyang Song; Xikun Yang; Qixin Wang",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2610.05689v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "不变集、Lyapunov、可信控制",
+  "source": "https://arxiv.org/abs/2610.05689",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "不变集、Lyapunov、可信控制",
+  "order": 15,
+  "out": "05_advanced_control/papers/2026_Song_261005689_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2610.05689v1.pdf",
+    "https://arxiv.org/pdf/2610.05689.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Toward",
+    "Trustworthiness",
+    "Finding",
+    "Analytically",
+    "Proven",
+    "Forward"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-10-05",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2610.05689",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS06P01",
+  "cat": "06",
+  "cross": [
+   "03"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Data-driven control of network systems: Accounting for communication adaptivity and security",
+  "authors": "Gang Wang; Wenjie Liu; Yifei Li; Xin Wang; Jian Sun; Jie Chen",
+  "school": "",
+  "year": "2025",
+  "version": "arXiv:2511.15044v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "数据驱动网络控制",
+  "source": "https://arxiv.org/abs/2511.15044",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "数据驱动网络控制",
+  "order": 1,
+  "out": "06_learning_control/papers/2025_Wang_251115044_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2511.15044v1.pdf",
+    "https://arxiv.org/pdf/2511.15044.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Data",
+    "driven",
+    "control",
+    "network",
+    "systems",
+    "Accounting"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2025-11-19",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2511.15044",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS06P02",
+  "cat": "06",
+  "cross": [
+   "04"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Active Informativity: Online Input Design for Data-Driven Control",
+  "authors": "Yishu Wang; Paolo Rapisarda; Jianquan Lu; Yang Liu",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2609.37683v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "数据驱动控制、在线激励设计",
+  "source": "https://arxiv.org/abs/2609.37683",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "数据驱动控制、在线激励设计",
+  "order": 2,
+  "out": "06_learning_control/papers/2026_Wang_260937683_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2609.37683v1.pdf",
+    "https://arxiv.org/pdf/2609.37683.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Active",
+    "Informativity",
+    "Online",
+    "Input",
+    "Design",
+    "Data"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-09-29",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2609.37683",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS06P03",
+  "cat": "06",
+  "cross": [
+   "03"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Data-Driven Minimum Energy Control for Stochastic Linear Systems with Finite Sample Guarantees",
+  "authors": "Vaishnavi Sharma; Vaibhav Katewa",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2610.27599v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "数据驱动最小能量控制、有限样本",
+  "source": "https://arxiv.org/abs/2610.27599",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "数据驱动最小能量控制、有限样本",
+  "order": 3,
+  "out": "06_learning_control/papers/2026_Sharma_261027599_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2610.27599v1.pdf",
+    "https://arxiv.org/pdf/2610.27599.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Data",
+    "Driven",
+    "Minimum",
+    "Energy",
+    "Control",
+    "Stochastic"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-10-20",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2610.27599",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS06P04",
+  "cat": "06",
+  "cross": [
+   "03"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Data-driven control of linear systems using quantized data",
+  "authors": "Zhenghao Li; Guosong Yang",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2610.05724v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "量化数据驱动镇定",
+  "source": "https://arxiv.org/abs/2610.05724",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "量化数据驱动镇定",
+  "order": 4,
+  "out": "06_learning_control/papers/2026_Li_261005724_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2610.05724v1.pdf",
+    "https://arxiv.org/pdf/2610.05724.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Data",
+    "driven",
+    "control",
+    "linear",
+    "systems",
+    "using"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-10-05",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2610.05724",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS06P05",
+  "cat": "06",
+  "cross": [
+   "03"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Direct and Indirect Data-Driven Control with Prior Information about the Equilibrium Manifold",
+  "authors": "Yi-Chun Liao; Valentina Breschi; Marco M. Nicotra",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2609.28883v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "直接/间接数据驱动、平衡流形先验",
+  "source": "https://arxiv.org/abs/2609.28883",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "直接/间接数据驱动、平衡流形先验",
+  "order": 5,
+  "out": "06_learning_control/papers/2026_Liao_260928883_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2609.28883v1.pdf",
+    "https://arxiv.org/pdf/2609.28883.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Direct",
+    "Indirect",
+    "Data",
+    "Driven",
+    "Control",
+    "Prior"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-09-24",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2609.28883",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS06P06",
+  "cat": "06",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Combining Federated Learning and Control: A Survey",
+  "authors": "Jakob Weber; Markus Gurtner; Amadeus Lobe; Adrian Trachte; Andreas Kugi",
+  "school": "",
+  "year": "2024",
+  "version": "arXiv:2407.11069v2",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "联邦学习与控制综述",
+  "source": "https://arxiv.org/abs/2407.11069",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "联邦学习与控制综述",
+  "order": 6,
+  "out": "06_learning_control/papers/2024_Weber_240711069_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2407.11069v2.pdf",
+    "https://arxiv.org/pdf/2407.11069.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Combining",
+    "Federated",
+    "Learning",
+    "Control",
+    "Survey"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2024-07-12",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2407.11069",
+   "doi": "10.1049/cth2.12761"
+  }
+ },
+ {
+  "id": "CS06P07",
+  "cat": "06",
+  "cross": [
+   "05"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Energy-Aware Path Following: Comparative Analysis of Reinforcement Learning and NMPC for Electric Vehicles",
+  "authors": "Mohamed Sabaa; Mostafa Emam",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2610.08112v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "强化学习与 NMPC 比较",
+  "source": "https://arxiv.org/abs/2610.08112",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "强化学习与 NMPC 比较",
+  "order": 7,
+  "out": "06_learning_control/papers/2026_Sabaa_261008112_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2610.08112v1.pdf",
+    "https://arxiv.org/pdf/2610.08112.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Energy",
+    "Aware",
+    "Path",
+    "Following",
+    "Comparative",
+    "Analysis"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-10-06",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2610.08112",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS07P01",
+  "cat": "07",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "From Code Generator to Engineering Companion: A Plant-aware Agent for PLC Programming",
+  "authors": "Joschka Kersting; Gesa Benndorf",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2610.28160v2",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "PLC 编程、工厂感知智能体",
+  "source": "https://arxiv.org/abs/2610.28160",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "PLC 编程、工厂感知智能体",
+  "order": 1,
+  "out": "07_industrial_automation/papers/2026_Kersting_261028160_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2610.28160v2.pdf",
+    "https://arxiv.org/pdf/2610.28160.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Code",
+    "Generator",
+    "Engineering",
+    "Companion",
+    "Plant",
+    "aware"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-10-20",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2610.28160",
+   "doi": "10.1109/ETFA68377.2026.11725227"
+  }
+ },
+ {
+  "id": "CS07P02",
+  "cat": "07",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Compilation Is Not Correctness: Scan-by-Scan Evaluation of LLM-Generated PLC Programs",
+  "authors": "Jinyun Chen; Juntao Hu; Haochen Li; Wentao Song; Ningbo Gu; Jianwei Niu; Qing Gao; Rui Wang",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2610.28675v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "LLM 生成 PLC 程序评测",
+  "source": "https://arxiv.org/abs/2610.28675",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "LLM 生成 PLC 程序评测",
+  "order": 2,
+  "out": "07_industrial_automation/papers/2026_Chen_261028675_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2610.28675v1.pdf",
+    "https://arxiv.org/pdf/2610.28675.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Compilation",
+    "Not",
+    "Correctness",
+    "Scan",
+    "Scan",
+    "Evaluation"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-10-19",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2610.28675",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS07P03",
+  "cat": "07",
+  "cross": [
+   "09"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "PLCWorld: Benchmarking LLM-Generated PLC Programs in Closed-Loop Plant Simulation",
+  "authors": "Yunji Kim; Yunseok Lee; Hyunwoo Seo; Jaerim Choi; Woojin Lee",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2610.02982v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "PLC 程序闭环仿真基准",
+  "source": "https://arxiv.org/abs/2610.02982",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "PLC 程序闭环仿真基准",
+  "order": 3,
+  "out": "07_industrial_automation/papers/2026_Kim_261002982_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2610.02982v1.pdf",
+    "https://arxiv.org/pdf/2610.02982.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "PLCWorld",
+    "Benchmarking",
+    "LLM",
+    "Generated",
+    "PLC",
+    "Programs"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-10-02",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2610.02982",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS07P04",
+  "cat": "07",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "RISK: Auditing Industrial Control Systems for Too-Late-to-Recover Vulnerabilities",
+  "authors": "Syed Ghazanfar Abbas; Gang Wang; Dongyan Xu",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2609.38528v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "工控系统审计、联锁/不可恢复故障",
+  "source": "https://arxiv.org/abs/2609.38528",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "工控系统审计、联锁/不可恢复故障",
+  "order": 4,
+  "out": "07_industrial_automation/papers/2026_Abbas_260938528_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2609.38528v1.pdf",
+    "https://arxiv.org/pdf/2609.38528.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "RISK",
+    "Auditing",
+    "Industrial",
+    "Control",
+    "Systems",
+    "Too"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-09-29",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2609.38528",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS03P04",
+  "cat": "03",
+  "cross": [
+   "04"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Optimal Linear Filtering of Markov Jump Systems",
+  "authors": "Wei Liu",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2610.34095v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "Markov 跳变系统最优线性滤波、数字控制",
+  "source": "https://arxiv.org/abs/2610.34095",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "Markov 跳变系统最优线性滤波、数字控制",
+  "order": 4,
+  "out": "03_modern_control/papers/2026_Liu_261034095_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2610.34095v1.pdf",
+    "https://arxiv.org/pdf/2610.34095.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Optimal",
+    "Linear",
+    "Filtering",
+    "Markov",
+    "Jump",
+    "Systems"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-10-25",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2610.34095",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS03P05",
+  "cat": "03",
+  "cross": [],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Compositional Approximately Bisimilar Abstractions of Stochastic Interconnected Systems",
+  "authors": "S. Saharsh; B. A. Sadek; Abdalla Swikir; Pushpak Jagtap; Adnane Saoud",
+  "school": "",
+  "year": "2026",
+  "version": "arXiv:2610.34895v1",
+  "lang": "en",
+  "level": "研究生",
+  "prereq": "对应子目录教材与课程",
+  "topics": "随机互联系统、采样/抽象",
+  "source": "https://arxiv.org/abs/2610.34895",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "随机互联系统、采样/抽象",
+  "order": 5,
+  "out": "03_modern_control/papers/2026_Saharsh_261034895_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2610.34895v1.pdf",
+    "https://arxiv.org/pdf/2610.34895.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Compositional",
+    "Approximately",
+    "Bisimilar",
+    "Abstractions",
+    "Stochastic",
+    "Interconnected"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2026-10-26",
+   "venue": "arXiv",
+   "window": "近三年",
+   "classic_reason": "",
+   "arxiv": "2610.34895",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS06P08",
+  "cat": "06",
+  "cross": [
+   "05"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Data-Enabled Predictive Control: In the Shallows of the DeePC",
+  "authors": "Jeremy Coulson; John Lygeros; Florian Dörfler",
+  "school": "",
+  "year": "2018",
+  "version": "arXiv:1811.05890v2",
+  "lang": "en",
+  "level": "研究生（经典）",
+  "prereq": "对应子目录教材与课程",
+  "topics": "DeePC、行为方法、数据驱动 MPC",
+  "source": "https://arxiv.org/abs/1811.05890",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "DeePC、行为方法、数据驱动 MPC",
+  "order": 8,
+  "out": "06_learning_control/papers/2018_Coulson_181105890_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/1811.05890v2.pdf",
+    "https://arxiv.org/pdf/1811.05890.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Data",
+    "Enabled",
+    "Predictive",
+    "Control",
+    "Shallows",
+    "DeePC"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "DeePC 奠基论文，数据使能预测控制的标准出处",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2018-11-14",
+   "venue": "arXiv",
+   "window": "经典/较早",
+   "classic_reason": "DeePC 奠基论文，数据使能预测控制的标准出处",
+   "arxiv": "1811.05890",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS05P16",
+  "cat": "05",
+  "cross": [
+   "06"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Probabilistic model predictive safety certification for learning-based control",
+  "authors": "Kim P. Wabersich; Lukas Hewing; Andrea Carron; Melanie N. Zeilinger",
+  "school": "",
+  "year": "2019",
+  "version": "arXiv:1906.10417v2",
+  "lang": "en",
+  "level": "研究生（经典）",
+  "prereq": "对应子目录教材与课程",
+  "topics": "学习型控制的概率模型预测安全认证、机会约束",
+  "source": "https://arxiv.org/abs/1906.10417",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "把安全约束接到学习型控制的经典论文（MPC 安全认证）",
+  "order": 16,
+  "out": "05_advanced_control/papers/2019_Wabersich_190610417_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/1906.10417.pdf",
+    "https://arxiv.org/pdf/1906.10417v2.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Probabilistic",
+    "model",
+    "predictive",
+    "safety"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "学习型控制安全认证的代表作；替换误匹配的断裂力学论文",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2019-06-25",
+   "venue": "arXiv / IEEE TAC",
+   "window": "经典/较早",
+   "classic_reason": "学习型控制安全认证（PMPSC）代表作，后续安全 RL/MPC 普遍引用",
+   "arxiv": "1906.10417",
+   "doi": "10.1109/TAC.2021.3049335"
+  }
+ },
+ {
+  "id": "CS06P09",
+  "cat": "06",
+  "cross": [
+   "05"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Data-Driven Model Predictive Control with Stability and Robustness Guarantees",
+  "authors": "Julian Berberich; Johannes Köhler; Matthias A. Müller; Frank Allgöwer",
+  "school": "",
+  "year": "2019",
+  "version": "arXiv:1906.04679v3",
+  "lang": "en",
+  "level": "研究生（经典）",
+  "prereq": "对应子目录教材与课程",
+  "topics": "数据驱动 MPC、鲁棒性",
+  "source": "https://arxiv.org/abs/1906.04679",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "数据驱动 MPC、鲁棒性",
+  "order": 9,
+  "out": "06_learning_control/papers/2019_Berberich_190604679_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/1906.04679v3.pdf",
+    "https://arxiv.org/pdf/1906.04679.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Data",
+    "Driven",
+    "Model",
+    "Predictive",
+    "Control",
+    "Stability"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "带稳定性与鲁棒保证的数据驱动 MPC 代表作",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2019-06-11",
+   "venue": "arXiv",
+   "window": "经典/较早",
+   "classic_reason": "带稳定性与鲁棒保证的数据驱动 MPC 代表作",
+   "arxiv": "1906.04679",
+   "doi": "10.1109/TAC.2020.3000182"
+  }
+ },
+ {
+  "id": "CS06P10",
+  "cat": "06",
+  "cross": [
+   "04"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Formulas for Data-Driven Control: Stabilization, Optimality and Robustness",
+  "authors": "Claudio De Persis; Pietro Tesi",
+  "school": "",
+  "year": "2019",
+  "version": "arXiv:1903.06842v3",
+  "lang": "en",
+  "level": "研究生（经典）",
+  "prereq": "对应子目录教材与课程",
+  "topics": "直接数据驱动镇定、最优与鲁棒、Willems 引理",
+  "source": "https://arxiv.org/abs/1903.06842",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "直接数据驱动控制的奠基公式论文",
+  "order": 10,
+  "out": "06_learning_control/papers/2019_DePersis_190306842_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/1903.06842.pdf",
+    "https://arxiv.org/pdf/1903.06842v3.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Formulas",
+    "Data-Driven",
+    "Control"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "直接数据驱动镇定/最优/鲁棒的桥梁论文；替换误匹配的因果识别论文",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2019-03-16",
+   "venue": "arXiv / IEEE TAC 2020",
+   "window": "经典/较早",
+   "classic_reason": "直接数据驱动控制公式的奠基论文，Willems 引理与镇定/LQR 的对照",
+   "arxiv": "1903.06842",
+   "doi": "10.1109/TAC.2019.2959924"
+  }
+ },
+ {
+  "id": "CS06P11",
+  "cat": "06",
+  "cross": [
+   "05"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "A Tour of Reinforcement Learning: The View from Continuous Control",
+  "authors": "Benjamin Recht",
+  "school": "",
+  "year": "2018",
+  "version": "arXiv:1806.09460v2",
+  "lang": "en",
+  "level": "研究生（经典）",
+  "prereq": "对应子目录教材与课程",
+  "topics": "强化学习、LQR、策略梯度",
+  "source": "https://arxiv.org/abs/1806.09460",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "强化学习、LQR、策略梯度",
+  "order": 11,
+  "out": "06_learning_control/papers/2018_Recht_180609460_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/1806.09460v2.pdf",
+    "https://arxiv.org/pdf/1806.09460.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Tour",
+    "Reinforcement",
+    "Learning",
+    "View",
+    "Continuous",
+    "Control"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "从控制视角系统梳理强化学习的经典教程",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2018-06-25",
+   "venue": "arXiv",
+   "window": "经典/较早",
+   "classic_reason": "从控制视角系统梳理强化学习的经典教程",
+   "arxiv": "1806.09460",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS07P05",
+  "cat": "07",
+  "cross": [
+   "06"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "Machine Learning for Process Control of (Bio)Chemical Processes",
+  "authors": "Andreas Himmel; Janine Matschek; Rudolph Kok; Bruno Morabito; Hoang Hai Nguyen; Rolf Findeisen",
+  "school": "",
+  "year": "2023",
+  "version": "arXiv:2301.06073v1",
+  "lang": "en",
+  "level": "研究生（经典）",
+  "prereq": "对应子目录教材与课程",
+  "topics": "过程控制、机器学习",
+  "source": "https://arxiv.org/abs/2301.06073",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "过程控制、机器学习",
+  "order": 5,
+  "out": "07_industrial_automation/papers/2023_Himmel_230106073_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2301.06073v1.pdf",
+    "https://arxiv.org/pdf/2301.06073.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "Machine",
+    "Learning",
+    "Process",
+    "Control",
+    "Bio",
+    "Chemical"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "过程控制中机器学习方法的综述，工业应用入口（略早于三年窗口）",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2023-01-15",
+   "venue": "arXiv",
+   "window": "经典/较早",
+   "classic_reason": "过程控制中机器学习方法的综述，工业应用入口（略早于三年窗口）",
+   "arxiv": "2301.06073",
+   "doi": ""
+  }
+ },
+ {
+  "id": "CS05P17",
+  "cat": "05",
+  "cross": [
+   "03"
+  ],
+  "type": "paper",
+  "material": "论文/综述/学术教程",
+  "title": "A survey of modularized backstepping control design approaches to nonlinear ODE systems",
+  "authors": "Zhengru Ren",
+  "school": "",
+  "year": "2023",
+  "version": "arXiv:2305.02066v1",
+  "lang": "en",
+  "level": "研究生（经典）",
+  "prereq": "对应子目录教材与课程",
+  "topics": "反步法、非线性、Lyapunov",
+  "source": "https://arxiv.org/abs/2305.02066",
+  "license": "arXiv 预印本（以论文页声明为准）",
+  "goal": "反步法、非线性、Lyapunov",
+  "order": 17,
+  "out": "05_advanced_control/papers/2023_Ren_230502066_en.pdf",
+  "get": {
+   "kind": "pdf",
+   "urls": [
+    "https://arxiv.org/pdf/2305.02066v1.pdf",
+    "https://arxiv.org/pdf/2305.02066.pdf"
+   ]
+  },
+  "expect": {
+   "title_words": [
+    "survey",
+    "modularized",
+    "backstepping",
+    "control",
+    "design",
+    "approaches"
+   ],
+   "min_pages": 5,
+   "min_ratio": 0.5
+  },
+  "complete": "完整",
+  "scope": "",
+  "note": "非线性 ODE 反步法模块化设计综述，Lyapunov 设计代表",
+  "use": "精读/按需",
+  "stack": "",
+  "paper": {
+   "first_public": "2023-05-03",
+   "venue": "arXiv",
+   "window": "经典/较早",
+   "classic_reason": "非线性 ODE 反步法模块化设计综述，Lyapunov 设计代表",
+   "arxiv": "2305.02066",
+   "doi": ""
+  }
+ }
+]

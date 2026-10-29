@@ -1,0 +1,19 @@
+{
+ "id": "CS07X02",
+ "started": "2026-10-29T18:24:48Z",
+ "download_url": "https://www.modbus.org/file/secure/messagingimplementationguide.pdf",
+ "final_url": "https://www.modbus.org/file/secure/messagingimplementationguide.pdf",
+ "http_last_modified": "",
+ "verify": "通过：pypdf 可解析 46 页；标题词匹配 1.0",
+ "info": {
+  "pages": 46,
+  "meta_title": "MODBUS Messaging Implementation Guide 1 0 b",
+  "body_sample_chars": 8319,
+  "title_match": 1.0
+ },
+ "bytes": 808753,
+ "sha256": "065d71170475642e82f370c648bf5135263cb20f61ce92c921add975fab6f669",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:24:50Z"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "CS09T08",
+ "started": "2026-10-29T18:21:07Z",
+ "download_url": "https://openmodelica.org/doc/OpenModelicaUsersGuide/OpenModelicaUsersGuide-latest.pdf",
+ "final_url": "https://openmodelica.org/doc/OpenModelicaUsersGuide/OpenModelicaUsersGuide-latest.pdf",
+ "http_last_modified": "Thu, 29 Oct 2026 16:48:20 GMT",
+ "verify": "通过：pypdf 可解析 625 页；标题词匹配 1.0",
+ "info": {
+  "pages": 625,
+  "meta_title": "OpenModelica User's Guide",
+  "body_sample_chars": 7512,
+  "title_match": 1.0
+ },
+ "bytes": 10095554,
+ "sha256": "ae47b308183ff6e86127b8c2fe48c09e5f30a4635e6483a811ec63033c7399e9",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:21:08Z"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "CS04P08",
+ "started": "2026-10-29T18:18:33Z",
+ "download_url": "https://arxiv.org/pdf/2605.02306v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2605.02306v1",
+ "http_last_modified": "Tue, 05 May 2026 02:28:29 GMT",
+ "verify": "通过：pypdf 可解析 18 页；标题词匹配 1.0",
+ "info": {
+  "pages": 18,
+  "meta_title": "Natural Gradient Bayesian Filtering: Geometry-Aware Filter for Dynamical Systems",
+  "body_sample_chars": 21179,
+  "title_match": 1.0
+ },
+ "bytes": 6443341,
+ "sha256": "8a7dcf4486bcd1f7ce4d160af64c2e908772a8ae01b0de41c9218551cc4cbc62",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:18:38Z"
+}

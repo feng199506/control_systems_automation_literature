@@ -1,0 +1,19 @@
+{
+ "id": "CS06P05",
+ "started": "2026-10-29T18:19:57Z",
+ "download_url": "https://arxiv.org/pdf/2609.28883v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2609.28883v1",
+ "http_last_modified": "Fri, 25 Sep 2026 00:24:35 GMT",
+ "verify": "通过：pypdf 可解析 6 页；标题词匹配 1.0",
+ "info": {
+  "pages": 6,
+  "meta_title": "Direct and Indirect Data-Driven Control with Prior Information about the Equilibrium Manifold",
+  "body_sample_chars": 11382,
+  "title_match": 1.0
+ },
+ "bytes": 594405,
+ "sha256": "2ebfdd6df05955e9ed8ee397170e0d463043473901d0eb7c45400badc2d4ff18",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:20:02Z"
+}

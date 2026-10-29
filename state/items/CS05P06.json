@@ -1,0 +1,19 @@
+{
+ "id": "CS05P06",
+ "started": "2026-10-29T18:19:01Z",
+ "download_url": "https://arxiv.org/pdf/2605.05575v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2605.05575v1",
+ "http_last_modified": "Fri, 08 May 2026 00:28:59 GMT",
+ "verify": "通过：pypdf 可解析 13 页；标题词匹配 1.0",
+ "info": {
+  "pages": 13,
+  "meta_title": "Maximal Controlled Invariant-MPC: Enhancing Feasibility and Reducing Conservatism through Terminal CBF Constraint in Safety-Critical Control",
+  "body_sample_chars": 8969,
+  "title_match": 1.0
+ },
+ "bytes": 2411139,
+ "sha256": "80c9d34a3ca0cd17a41c42865d3ce4e1a7af6d95ea217afb012b6e47f02cb3fd",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:19:05Z"
+}

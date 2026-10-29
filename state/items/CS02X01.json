@@ -1,0 +1,62 @@
+{
+ "id": "CS02X01",
+ "started": "2026-10-29T18:43:43Z",
+ "wget_rc": -15,
+ "quota_hit": false,
+ "dropped_large_files": [],
+ "dropped_count": 0,
+ "download_url": "https://controlguru.com/",
+ "mirror_scope": {
+  "start": [
+   "https://controlguru.com/"
+  ],
+  "include": [],
+  "level": "2"
+ },
+ "verify": "通过：150 个文件（HTML 71，文档源 1）",
+ "info": {
+  "files": 150,
+  "html": 71,
+  "md_rst_ipynb": 1,
+  "top_ext": [
+   [
+    "html",
+    71
+   ],
+   [
+    "css",
+    19
+   ],
+   [
+    "png",
+    8
+   ],
+   [
+    "3",
+    7
+   ],
+   [
+    "0",
+    5
+   ],
+   [
+    "gif",
+    4
+   ],
+   [
+    "jpg",
+    4
+   ],
+   [
+    "js?ver=ep4mcc",
+    3
+   ]
+  ],
+  "license_files": []
+ },
+ "bytes": 10967040,
+ "sha256": "6ef2f73372554cf307b8797298b4df77849565a88f3f3cf76e041782c1a1916f",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:47:09Z"
+}

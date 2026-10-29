@@ -1,0 +1,27 @@
+# 全文 PDF、课程讲义包、官方文档镜像与实践案例只放 Release 附件，不进普通 Git
+*.pdf
+*.PDF
+*.zip
+*.tar
+*.tar.*
+*.tgz
+*.7z
+*.gz
+01_*/
+02_*/
+03_*/
+04_*/
+05_*/
+06_*/
+07_*/
+08_*/
+09_*/
+# 缓存、锁、日志、临时下载
+__pycache__/
+*.pyc
+*.lock
+*.log
+*.part
+*.tmp
+*.crdownload
+*.partial

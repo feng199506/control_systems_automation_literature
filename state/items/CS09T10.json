@@ -1,0 +1,56 @@
+{
+ "id": "CS09T10",
+ "started": "2026-10-29T18:37:58Z",
+ "wget_rc": 8,
+ "quota_hit": true,
+ "dropped_large_files": [],
+ "dropped_count": 0,
+ "download_url": "https://help.scilab.org/control_systems.html",
+ "mirror_scope": {
+  "start": [
+   "https://help.scilab.org/control_systems.html",
+   "https://help.scilab.org/xcos.html",
+   "https://help.scilab.org/section_cacsd.html"
+  ],
+  "include": [],
+  "level": "2"
+ },
+ "verify": "配额截断但核验通过（部分离线包）：通过：210 个文件（HTML 180，文档源 1）",
+ "info": {
+  "files": 210,
+  "html": 180,
+  "md_rst_ipynb": 1,
+  "top_ext": [
+   [
+    "html",
+    180
+   ],
+   [
+    "png",
+    21
+   ],
+   [
+    "css",
+    5
+   ],
+   [
+    "js",
+    2
+   ],
+   [
+    "ico",
+    1
+   ],
+   [
+    "txt",
+    1
+   ]
+  ],
+  "license_files": []
+ },
+ "bytes": 52848640,
+ "sha256": "9c241096e46b38160d52efedf7c21e899ab5ed76e916a109e7dc5d056f74276e",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:40:19Z"
+}

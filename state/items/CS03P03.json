@@ -1,0 +1,19 @@
+{
+ "id": "CS03P03",
+ "started": "2026-10-29T18:17:56Z",
+ "download_url": "https://arxiv.org/pdf/2610.36773v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2610.36773v1",
+ "http_last_modified": "Wed, 28 Oct 2026 00:55:47 GMT",
+ "verify": "通过：pypdf 可解析 6 页；标题词匹配 1.0",
+ "info": {
+  "pages": 6,
+  "meta_title": "Verifying Control Invariance of H-Polytopes is coNP-Complete",
+  "body_sample_chars": 9296,
+  "title_match": 1.0
+ },
+ "bytes": 274681,
+ "sha256": "f56de8b9b62373298b982258889547a74e955278b75a1837210e3c4afe0d4204",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:18:00Z"
+}

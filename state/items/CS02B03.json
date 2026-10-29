@@ -1,0 +1,19 @@
+{
+ "id": "CS02B03",
+ "started": "2026-10-29T18:07:28Z",
+ "download_url": "https://ocw.mit.edu/ans7870/RES/RES.6-010/MITRES_6-010S13_comchaptrs.pdf",
+ "final_url": "https://ocw.mit.edu/ans7870/RES/RES.6-010/MITRES_6-010S13_comchaptrs.pdf",
+ "http_last_modified": "Thu, 23 Apr 2020 18:06:57 GMT",
+ "verify": "通过：pypdf 可解析 678 页；标题词匹配 1.0",
+ "info": {
+  "pages": 678,
+  "meta_title": "Operational Amplifiers: Chapters",
+  "body_sample_chars": 5137,
+  "title_match": 1.0
+ },
+ "bytes": 11993547,
+ "sha256": "5891d047abe3cfc2dd585ad75e39ceaaaa7ee7126e4a43ddd2fc950ad1c2d57c",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:07:29Z"
+}

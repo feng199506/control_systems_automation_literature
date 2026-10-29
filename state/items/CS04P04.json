@@ -1,0 +1,19 @@
+{
+ "id": "CS04P04",
+ "started": "2026-10-29T18:18:14Z",
+ "download_url": "https://arxiv.org/pdf/2404.18267v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2404.18267v1",
+ "http_last_modified": "Tue, 30 Apr 2024 01:10:28 GMT",
+ "verify": "通过：pypdf 可解析 31 页；标题词匹配 1.0",
+ "info": {
+  "pages": 31,
+  "meta_title": "",
+  "body_sample_chars": 5834,
+  "title_match": 1.0
+ },
+ "bytes": 27556606,
+ "sha256": "258e3e8b0835862d9e18c7ef4d910d452628b26d30aec79dbbca378ef2ef8122",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:18:24Z"
+}

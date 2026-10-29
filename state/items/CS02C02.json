@@ -1,0 +1,55 @@
+{
+ "id": "CS02C02",
+ "started": "2026-10-29T18:08:45Z",
+ "download_url": "https://ocw.mit.edu/courses/2-14-analysis-and-design-of-feedback-control-systems-spring-2014/2.14-spring-2014.zip",
+ "final_url": "https://ocw.mit.edu/courses/2-14-analysis-and-design-of-feedback-control-systems-spring-2014/2.14-spring-2014.zip",
+ "http_last_modified": "Thu, 15 Oct 2026 11:15:08 GMT",
+ "verify": "通过：331 个文件（HTML 51，文档源 3）",
+ "info": {
+  "files": 331,
+  "html": 51,
+  "md_rst_ipynb": 3,
+  "top_ext": [
+   [
+    "js",
+    92
+   ],
+   [
+    "json",
+    63
+   ],
+   [
+    "html",
+    51
+   ],
+   [
+    "pdf",
+    25
+   ],
+   [
+    "svg",
+    22
+   ],
+   [
+    "png",
+    17
+   ],
+   [
+    "css",
+    9
+   ],
+   [
+    "map",
+    9
+   ]
+  ],
+  "license_files": [
+   "static_shared/mathjax/LICENSE.42368b5a19b817284b3c"
+  ]
+ },
+ "bytes": 45697019,
+ "sha256": "1b3f8ae0e0d2d378a43ac0b000d87baa89ba72fbe5d7eb2fb99ea0a31cd25630",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:08:53Z"
+}

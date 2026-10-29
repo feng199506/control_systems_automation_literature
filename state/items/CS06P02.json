@@ -1,0 +1,19 @@
+{
+ "id": "CS06P02",
+ "started": "2026-10-29T18:19:45Z",
+ "download_url": "https://arxiv.org/pdf/2609.37683v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2609.37683v1",
+ "http_last_modified": "Wed, 30 Sep 2026 02:27:59 GMT",
+ "verify": "通过：pypdf 可解析 13 页；标题词匹配 1.0",
+ "info": {
+  "pages": 13,
+  "meta_title": "Active Informativity: Online Input Design for Data-Driven Control",
+  "body_sample_chars": 14377,
+  "title_match": 1.0
+ },
+ "bytes": 1183919,
+ "sha256": "2674ffab4d720bbd1762fc64fb190b2d2b4a6ba06702b7abe88a597724349180",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:19:49Z"
+}

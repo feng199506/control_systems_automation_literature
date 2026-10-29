@@ -1,0 +1,19 @@
+{
+ "id": "CS05P16",
+ "started": "2026-10-29T18:34:06Z",
+ "download_url": "https://arxiv.org/pdf/1906.10417.pdf",
+ "final_url": "https://arxiv.org/pdf/1906.10417",
+ "http_last_modified": "Mon, 23 Jan 2023 01:20:51 GMT",
+ "verify": "通过：pypdf 可解析 13 页；标题词匹配 1.0",
+ "info": {
+  "pages": 13,
+  "meta_title": "",
+  "body_sample_chars": 26179,
+  "title_match": 1.0
+ },
+ "bytes": 1504174,
+ "sha256": "18207a327d01193e2b2a8ce438d93cdc59b3220d48c5464bbb1cb8b3de46c253",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:34:14Z"
+}

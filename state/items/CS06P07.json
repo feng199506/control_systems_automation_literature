@@ -1,0 +1,19 @@
+{
+ "id": "CS06P07",
+ "started": "2026-10-29T18:20:06Z",
+ "download_url": "https://arxiv.org/pdf/2610.08112v1.pdf",
+ "final_url": "https://arxiv.org/pdf/2610.08112v1",
+ "http_last_modified": "Wed, 07 Oct 2026 01:16:04 GMT",
+ "verify": "通过：pypdf 可解析 22 页；标题词匹配 1.0",
+ "info": {
+  "pages": 22,
+  "meta_title": "Energy-Aware Path Following: Comparative Analysis of Reinforcement Learning and NMPC for Electric Vehicles",
+  "body_sample_chars": 11730,
+  "title_match": 1.0
+ },
+ "bytes": 818240,
+ "sha256": "54c299b6858e736510ea44d8e9d195e3866a2554aad91cc6f8daa5b0180c0f81",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:20:09Z"
+}

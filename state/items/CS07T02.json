@@ -1,0 +1,19 @@
+{
+ "id": "CS07T02",
+ "started": "2026-10-29T18:21:08Z",
+ "download_url": "https://cache.industry.siemens.com/dl/files/145/39710145/att_5787/v1/s71200_easy_book_en-US_en-US.pdf",
+ "final_url": "https://cache.industry.siemens.com/dl/files/145/39710145/att_5787/v1/s71200_easy_book_en-US_en-US.pdf",
+ "http_last_modified": "Mon, 19 Jan 2015 20:37:12 GMT",
+ "verify": "通过：pypdf 可解析 454 页；标题词匹配 1.0",
+ "info": {
+  "pages": 454,
+  "meta_title": "Easy Book",
+  "body_sample_chars": 5180,
+  "title_match": 1.0
+ },
+ "bytes": 11294231,
+ "sha256": "ce2f5a5d7f8d9c1410b3e5718230eb5c6b975c9a8a0be2b5bc9977f9d299694f",
+ "status": "ok",
+ "access_date": "2026-10-29",
+ "finished": "2026-10-29T18:21:09Z"
+}

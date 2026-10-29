@@ -1,0 +1,16 @@
+{
+ "id": "CS04B02",
+ "reused_from": "/root/industrial_process_monitoring_literature/books/Pillonetto_RegularizedSystemIdentification_2022_en.pdf",
+ "status": "ok",
+ "verify": "通过：pypdf 可解析 394 页；标题词匹配 1.0",
+ "info": {
+  "pages": 394,
+  "meta_title": "",
+  "body_sample_chars": 10318,
+  "title_match": 1.0
+ },
+ "bytes": 6680109,
+ "sha256": "cce38abce6b744f043d5bdddf3c478babee2b059322586e2faaed86ac6bc6d0d",
+ "error": "",
+ "access_date": "2026-10-29"
+}
